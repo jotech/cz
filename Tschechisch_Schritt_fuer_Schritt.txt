@@ -1,0 +1,342 @@
+0	nula	01 Zahlen
+1	{\color{blue}jeden},{\color{red}jedna},{\color{green}jedno}	01
+2	{\color{blue}dva},{\color{red}dv{\v{e}}},{\color{green}dv{\v{e}}}	01 Zahlen
+3	t\v{r}i	01 Zahlen
+4	\v{c}ty\v{r}i	01 Zahlen
+5	p\v{e}t	01 Zahlen
+6	\v{s}est	01 Zahlen
+7	sedm	01 Zahlen
+8	osm	01 Zahlen
+9	dev\v{e}t	01 Zahlen
+10	deset	01 Zahlen
+Wie viel kostet $x$ ?	Kolik stoj\'i $x$ ?	01 Zahlen
+Wie viel ist 9 minus 8?	Kolik je dev\v{e}t minus osm?	01 Zahlen
+Wie viel kostet das ?	Kolik to stoj\'i ?	01 Zahlen
+Wie viel ist 15 + 4 ?	Kolik je patn\'act plus \v{c}ty\v{r}i ?	01 Zahlen
+11	jeden\'act	01 Zahlen
+12	dvan\'act	01 Zahlen
+13	t\v{r}in\'act	01 Zahlen
+14	\v{c}trn\'act	01 Zahlen
+15	patn\'act	01 Zahlen
+16	\v{s}estn\'act	01 Zahlen
+17	sedmn\'act	01 Zahlen
+18	osmn\'act	01 Zahlen
+19	devaten\'act	01 Zahlen
+20	dvacet	01 Zahlen
+ich	j\'a	01 Personalpronomen
+du	ty	01 Personalpronomen
+er	on	01 Personalpronomen
+sie (Singular)	ona	01 Personalpronomen
+es	ono	01 Personalpronomen
+wir	my	01 Personalpronomen
+ihr	vy	01 Personalpronomen
+Sie (Anrede)	vy (in: Anrede)	01 Personalpronomen
+sie (3. Plural)	oni	01 Personalpronomen
+ich bin	j\'a jsem	01 Verben
+du bist	ty jsi (umg.) / ty jse\v{s}	01 Verben
+sie ist	ona je	01 Verben
+wir sind	my jsme	01 Verben
+ihr seid	vy jste	01 Verben
+Sie sind (Anrede)	vy jste (+Anrede)	01 Verben
+sie sind	oni jsou	01 Verben
+tsch\"u\ss,&nbsp;hallo	ahoj / \v{c}au	01 Konversation
+Wie hei\ss t du?	Jak se jmenuje\v{s}?	01 Konversation
+guten Tag	dobr\'y den	01 Konversation
+Woher kommst du?	Odkud jsi?	01 Konversation
+Ich bin aus Deutschland	(J\'a) jsem z N\v{e}mecka	01 Konversation
+Was machst du?	Co d\v{e}l\'a\v{s}?	01 Konversation
+danke	d\'iky (umg.) / d\v{e}kuju / d\v{e}kuji	01 Konversation
+Entschuldigung	promi\v{n}	01 Konversation
+Mach es gut	M\v{e}j se hezky	01 Konversation
+du auch	ty taky	01 Konversation
+Auf Wiedersehen.	Na shledanou.	01 Konversation
+Wo wohnst du?	Kde bydl\'i\v{s}?	01 Konversation
+Ich wohne in $x$.	J\'a bydlim v $x$.	01 Konversation
+Entschuldige ich bin zu sp\"at.	Promi\v{n} jdu pozd\v{e}.	01 Konversation
+Zucker	cukr	01 Lebensmittel
+Zigarette	cigareta	01 Lebensmittel
+Zitrone	{\color{blue}citron}	01 Index Lebensmittel
+30	t\v{r}icet	01 Zahlen
+40	\v{c}ty\v{r}icet	01 Zahlen
+50	pades\'{a}t	01 Zahlen
+60	\v{s}edes\'{a}t	01 Zahlen
+70	sedmdes\'{a}t	01 Zahlen
+80	osmdes\'{a}t	01 Zahlen
+90	devades\'{a}t	01 Zahlen
+100	sto	01 Zahlen
+{\color{cyan}amat{\'e}r}	Amateur	01 Index
+{\color{red}ambas{\'a}da}	Botschaft (i.S.v. Diplomatie)	01 Index
+{\color{green}auto}	Auto	01 Index
+{\color{blue}autobus}	Bus	01 Index
+{\color{blue}balet}	Ballet	01 Index
+{\color{blue}ban{\'a}n}	Banane	01 Index
+{\color{red}banka}	Bank	01 Index
+{\color{blue}bar}	Bar	01 Index
+{\color{red}brokolice}	Brokkoli	01 Index
+{\color{blue}{\v{c}}aj}	Tee	01 Index
+{\color{red}demokracie}	Demokratie	01 Index
+{\color{red}diskot{\'e}ka}	Diskothek	01 Index
+{\color{blue}dort}	Torte	01 Index
+{\color{cyan}d{\v{z}}entlmen}	Gentleman	01 Index
+{\color{red}ekonomika}	Wirtschaft	01 Index
+fajn	toll, super	01 Index
+{\color{cyan}gangster}	Gangster	01 Index
+{\color{red}gorila}	Gorilla	01 Index
+{\color{blue}chaos}	Chaos	01 Index
+{\color{blue}chl{\'e}b }(formal)	Brot (formal)	01 Index
+{\color{blue}chleba}	Brot	01 Index
+{\color{red}informace}	Information	01 Index
+j{\'a}	ich	01 Index
+{\color{green}jablko}	Apfel	01 Index
+{\color{green}j{\'{\i}}dlo}	Essen, Gericht	01 Index
+{\color{green}kafe} (coll.)	Kaffee (coll.)	01 Index
+{\color{green}kakao}	Kakao	01 Index
+{\color{red}k{\'a}va}	Kaffee (nicht coll.)	01 Index
+{\color{red}kav{\'a}rna}	Caf{\'e}	01 Index
+{\color{blue}ke{\v{c}}up}	Ketchup	01 Index
+{\color{green}kino}	Kino	01 Index
+{\color{blue}knedl{\'{\i}}k}, {\color{blue} knedl{\'{\i}}ky}	Kn{\"o}del	01 Index
+{\color{red}komedie}	Kom{\"o}die	01 Index
+To je {\color{red}komplikace}	Das ist kompliziert(?) // Komplikation/Verwicklung(?)	01 Index
+{\color{red}konference}	Konferenz	01 Index
+{\color{blue}konflikt}	Konflikt	01 Index
+{\color{blue}kontakt}	Kontakt	01 Index
+{\color{red}majon{\'e}za}	Mayonnaise	01 Index
+{\color{green}m{\'a}slo}	Butter	01 Index
+{\color{green}maso}	Fleisch	01 Index
+M{\v{e}} taky!	Mich auch!	01 Index
+{\color{green}metro}	Metro, U-Bahn	01 Index
+{\color{red}miner{\'a}lka}	Mineralwasser	01 Index
+{\color{blue}m{\'{\i}}tink}	Besprechung, Meeting	01 Index
+{\color{green}ml{\'e}ko}	Milch	01 Index
+{\color{blue}nesmysl}	Unsinn	01 Index
+{\color{red}okurka}	Gurke	01 Index
+{\color{red}opera}	Oper	01 Index
+{\color{green}ovoce}	Obst	01 Index
+{\color{blue}park}	Park	01 Index
+{\color{green}parkovi{\v{s}}t{\v{e}}}	Parkplatz	01 Index
+{\color{green}pit{\'{\i}}}	Getr{\"a}nk, Trinken	01 Index
+{\color{green}pivo}	Bier	01 Index
+{\color{blue}pl{\'a}t\uline{e}k}	Scheibe (K{\"a}se, Wurst)	01 Index
+{\color{red}policie}	Polizei	01 Index
+{\color{red}politi{\v{c}}ka}	Politikerin	01 Index
+{\color{cyan}politik}	Politiker	01 Index
+{\color{red}politika}	Politik	01 Index
+{\color{red}po{\v{s}}ta}	Post(amt)	01 Index
+{\color{red}pravda}	Wahrheit	01 Index
+{\color{cyan}p}{\color{cyan}rezident}	Pr{\"a}sident	01 Index
+{\color{red}prezidentka}	Pr{\"a}sidentin	01 Index
+{\color{blue}probl{\'e}m}	Problem	01 Index
+{\color{cyan}profesion{\'a}l}	Experte	01 Index
+{\color{red}profesion{\'a}lka}	Expertin	01 Index
+{\color{red}provokace}	Provokation	01 Index
+{\color{red}pumpa}	Tankstelle	01 Index
+{\color{green}r{\'a}dio}	Radio	01 Index
+{\color{red}restaurace}	Restaurant	01 Index
+{\color{green}rodeo}	Rodeo	01 Index
+{\color{blue}rohl{\'{\i}}k}	H{\"o}rnchen	01 Index
+rozum{\v{e}}t, rozum{\'{\i}}m (impf.)	verstehen (impf.)	01 Index
+{\color{blue}skand{\'a}l}	Skandal	01 Index
+{\color{cyan}student}	1. Sch{\"u}ler, 2. Student	01 Index
+{\color{red}studentka}	1. Sch{\"u}lerin, 2. Studentin	01 Index
+{\color{blue}supermarket}	Supermarkt	01 Index
+{\color{blue}s{\'y}r}	K{\"a}se	01 Index
+{\v{s}}koda	schade	01 Index
+{\color{blue}{\v{s}}ok}	Schock	01 Index
+taky	auch	01 Index
+{\color{blue}tax{\'{\i}}k}	Taxi	01 Index
+T{\v{e}}{\v{s}}{\'{\i}} m{\v{e}}!	Es freut mich, Sie kennen zu lernen!	01 Index
+{\color{red}toaleta}	Toilette/WC (Fremdwort)	01 Index
+{\color{red}tramvaj}	Stra{\ss}enbahn	01 Index
+{\color{blue}tr{\'e}nink}	Training	01 Index
+{\color{cyan}turista}	Tourist	01 Index
+{\color{red}turistka}	Touristin	01 Index
+ty	du	01 Index
+v po{\v{r}}{\'a}dku	o.k., in Ordnung	01 Index
+{\color{green}v{\'{\i}}no}	Wein	01 Index
+To je v{\v{s}}echno.	Das ist alles.	01 Index
+{\color{blue}vtip}	Witz	01 Index
+{\color{red}zelenina}	Gem{\"u}se	01 Index
+{\color{red}zmrzlina}	Eiscreme	01 Index
+Jak se \v{r}ekne \v{c}esky x?	Wie sagt man auf Tschechisch x?	01 Konversation
+Co znamen{\'a} x?	Was bedeutet x?	01 Konversation
+Je{\v{s}}t{\v{e}} jednou, pros\'{\i}m.	Noch einmal, bitte.	01 Konversation
+{\color{blue}hotel}	Hotel	01
+{\color{blue}hostel}	Hostel	01
+Jak se m{\'a}{\v{s}}? / Jak se m{\'a}te?	Wie geht es Dir? / Wie geht es Ihnen?	01 Konversation
+dob{\v{r}}e / Ujde to. / {\v{s}}patn{\v{e}}	gut / Es geht so. / schlecht	01 Konversation
+nen{\'{\i}}	(er/sie/es) ist nicht	01
+Verneinung des Verbs	jsem -- nejsem ...	01
+To je {\color{red}tragedie}.	Das ist tragisch.	01 Konversation
+To je jedno.	Das ist egal.	01 Konversation
+dv{\v{e}} st{\v{e}}	200	01 Zahlen
+t\v{r}i sta	300	01 Zahlen
+\v{c}ty\v{r}i sta	400	01 Zahlen
+p\v{e}t set	500	01 Zahlen
+\v{s}est set	600	01 Zahlen
+sedm set	700	01 Zahlen
+osm set	800	01 Zahlen
+dev\v{e}t set	900	01 Zahlen
+tis{\'{\i}}c	1000	01 Zahlen
+dva tis{\'{\i}}ce	2000	01 Zahlen
+t\v{r}i tis{\'{\i}}ce	3000	01 Zahlen
+\v{c}ty\v{r}i tis{\'{\i}}ce	4000	01 Zahlen
+p\v{e}t&nbsp;tis{\'{\i}}c	5000	01 Zahlen
+\v{s}est tis{\'{\i}}c	6000	01 Zahlen
+sedm tis{\'{\i}}c	7000	01 Zahlen
+osm tis{\'{\i}}c	8000	01 Zahlen
+dev\v{e}t tis{\'{\i}}c	9000	01 Zahlen
+jeden milion	1 000 000	01 Zahlen
+dva miliony	2 000 000	01 Zahlen
+t\v{r}i miliony	3 000 000	01 Zahlen
+\v{c}ty\v{r}i miliony	4 000 000	01 Zahlen
+p\v{e}t milion{\accent'27u}	5 000 000	01 Zahlen
+\v{s}est milion{\accent'27u}	6 000 000	01 Zahlen
+sedm milion{\accent'27u}	7 000 000	01 Zahlen
+osm milion{\accent'27u}	8 000 000	01 Zahlen
+dev\v{e}t&nbsp;milion{\accent'27u}	9 000 000	01 Zahlen
+{\color{red}Amerika}, {\color{cyan}Ameri{\v{c}}an}, {\color{red}Ameri{\v{c}}anka}	Amerika, Amerikaner, Amerikanerin	02 Index
+{\color{red}Anglie}, {\color{cyan}Angli{\v{c}}an}, {\color{red}Angli{\v{c}}anka}	England, Engl{\"a}nder, Engl{\"a}nderin	02 Index
+asi	wahrscheinlich, wohl (adv.)	02 Index
+{\color{red}babi{\v{c}}ka}	Gro{\ss}mutter	02 Index
+{\color{blue}batoh}	Rucksack (ohne Fremdwort)	02 Index
+b{\'{\i}}l{\'y}	wei{\ss} (adj.)	02 Index
+bohat{\'y}	reich (adj.)	02 Index
+{\color{cyan}bratr}	Bruder	02 Index
+co	1. was (Fragepronomen) 2. (coll.) welcher, welche, welches	02 Index
+{\v{c}}erven{\'y}	rot (adj.)	02 Index
+{\v{C}}esk{\'a} {\color{red}republika}	Tschechische Republik	02 Index
+{\v{c}}esk{\'y}	1. tschechisch, 2. b{\"o}hmisch	02 Index
+{\v{c}}{\'{\i}}	wessen	02 Index
+{\color{cyan}{\v{c}}lov{\v{e}}k}	Mensch	02 Index
+{\color{red}dcera}	Tochter	02 Index
+{\color{cyan}d{\v{e}}de{\v{c}}\uline{e}k}	Gro{\ss}vater	02 Index
+{\color{blue}di{\'a}{\v{r}}}	Kalender, Terminkalender	02 Index
+{\color{green}d{\'{\i}}t{\v{e}}}, (pl.:) {\color{green}d{\v{e}}ti}	Kind, Kinder	02 Index
+{\color{red}d{\'{\i}}vka}	M{\"a}dchen (nicht coll.)	02 Index
+dobr{\'y}	gut (adj.)	02 Index
+{\color{cyan}doktor}, {\color{red}doktorka}	Doktor(in), Arzt/{\"A}rztin	02 Index
+drah{\'y}	1. teuer (adj.) 2. mein Teurer	02 Index
+{\color{blue}d{\accent'27u}m}, domy	Haus, H{\"a}user	02 Index
+energick{\'y}	lebhaft (z.B. Person)	02 Index
+{\color{cyan}herec}	Schauspieler	02 Index
+{\color{red}here{\v{c}}ka}	Schauspielerin	02 Index
+hezk{\'y}	sch{\"o}n, h{\"u}bsch (adj.)	02 Index
+{\color{red}holka} (coll.)	M{\"a}del (coll.)	02 Index
+hork{\'y}	hei{\ss} (adj.)	02 Index
+{\color{blue}hrnek}	Becher, Pott, Tasse (Keramik)	02 Index
+huben{\'y}	d{\"u}nn, abgemagert (adj.)	02 Index
+chud{\'y}	arm (adj.)	02 Index
+jak	wie; (coll.) welcher, welche, welches (adv.-Fragewort)	02 Index
+jak{\'y}	was f{\"u}r ein (adj.-Fragewort)	02 Index
+{\color{cyan}kamar{\'a}d}, {\color{red}kamar{\'a}dka}	Freund (Fremdwort)	02 Index
+kdo	wer (Fragepronomen)	02 Index
+{\color{cyan}kluk} (coll.)	Junge (coll.)	02 Index
+{\color{cyan}kolega}, {\color{red}kolegyn{\v{e}}}	Kollege, Kollegin	02 Index
+kolik	wie viel (adv.-Fragewort)	02 Index
+kr{\'a}sn{\'y}	sch{\"o}n (adj.)	02 Index
+levn{\'y}	preiswert, billig (adj.)	02 Index
+{\color{cyan}lid{\'e}}	Leute	02 Index
+{\color{cyan}lidi} (coll.)	Leute (coll.)	02 Index
+mal{\'y}	klein (adj.)	02 Index
+{\color{red}maminka}	Mutti, Mama	02 Index
+{\color{cyan}mana{\v{z}}er}, {\color{red}mana{\v{z}}erka}	Manager, Managerin	02 Index
+{\color{cyan}man{\v{z}}el}	Ehemann	02 Index
+{\color{red}man{\v{z}}elka}	Ehefrau	02 Index
+{\color{red}matka}	Mutter	02 Index
+{\color{cyan}milion{\'a}{\v{r}}}, {\color{red}milion{\'a}{\v{r}}ka}	Million{\"a}r/in	02 Index
+mlad{\'y}	jung	02 Index
+moc	1. viel, 2. sehr (adv.)	02 Index
+{\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
+{\color{green}N{\v{e}}mecko, }{\color{cyan}N{\v{e}}mec}{\color{green}, }{\color{red}N{\v{e}}mka}	Deutschland, Deutscher, Deutsche	02 Index
+{\color{red}nemoc}	Krankheit	02 Index
+{\color{red}nemocnice}	Krankenhaus	02 Index
+nemocn{\'y}	krank (adj.)	02 Index
+nov{\'y}	neu	02 Index
+odkud	woher (Fragewort)	02 Index
+{\color{cyan}optimista}, {\color{red}optimistka}	Optimist/in	02 Index
+optimistick{\'y}	optimistisch	02 Index
+o{\v{s}}kliv{\'y}	h{\"a}sslich (adj.)	02 Index
+{\color{cyan}ot\uline{e}c}	Vater	02 Index
+{\color{cyan}pan}	Herr (vor dem Namen, i.S.v. Anrede)	02 Index
+{\color{cyan}p{\'a}n}	Herr (i.S.v. Dame)	02 Index
+{\color{red}{\v{z}}ena}	Frau (i.S.v. Mann)	02 Index
+{\color{cyan}partner}, {\color{red}partnerka}	Partner, Partnerin	02 Index
+{\color{cyan}pesimista}, {\color{red}pesimistka}	Pessimist/in	02 Index
+pesimistick{\'y}	pessimistisch	02 Index
+{\color{blue}po{\v{c}}{\'{\i}}ta{\v{c}}}	Computer	02 Index
+{\color{red}prababi{\v{c}}ka}	Urgro{\ss}mutter	02 Index
+pracovat, pracuju na po{\v{c}}{\'{\i}}ta{\v{c}}i (impf.)	am Computer arbeiten (impf.)	02 Index
+{\color{cyan}prad{\v{e}}de{\v{c}}\uline{e}k}	Urgro{\ss}vater	02 Index
+{\color{cyan}premi{\'e}r}	Premierminister	02 Index
+{\color{red}premi{\'e}rka}	Premierministerin	02 Index
+{\color{cyan}profesor}	Professor	02 Index
+{\color{red}profesorka}	Professorin	02 Index
+p{\v{r}}{\'{\i}}buzn{\'y} (adj.)	Verwandter	02 Index
+{\color{cyan}p{\v{r}}{\'{\i}}tel}	Freund (i.S.v. boyfriend)	02 Index
+{\color{red}p{\v{r}}{\'{\i}}telkyn{\v{e}}}	Freundin (i.S.v. girlfriend)	02 Index
+{\color{red}puber{t'}a{\v{c}}ka}(pej.)	Teenager (w., pej.)	02 Index
+{\color{cyan}puber{t'}{\'a}k}(pej.)	Teenager (m., pej.)	02 Index
+{\color{cyan}rodi{\v{c}}e}	Eltern	02 Index
+{\color{red}rodina}	Familie	02 Index
+{\color{green}Rusko}, {\color{cyan}Rus}, {\color{red}Ruska}	Russland, Russe, Russin	02 Index
+{\color{cyan}{\v{r}}editel}	Direktor	02 Index
+{\color{red}{\v{r}}editelka}	Direktorin	02 Index
+{\color{cyan}sekret{\'a}{\v{r}}}	Sekret{\"a}r	02 Index
+{\color{red}sekret{\'a}{\v{r}}ka}	Sekret{\"a}rin	02 Index
+{\color{red}sestra}	Schwester	02 Index
+siln{\'y}	stark (adj.)	02 Index
+{\color{red}skleni{\v{c}}ka}	Gl{\"a}schen (i.S.v. Trinkglas)	02 Index
+slab{\'y}	schwach (adj.)	02 Index
+{\color{red}sle{\v{c}}na}	Fr{\"a}ulein	02 Index
+smutn{\'y}	traurig (adj.)	02 Index
+{\color{cyan}sportov\uline{e}c}	Sportler	02 Index
+{\color{red}sportovkyn{\v{e}}}	Sportlerin	02 Index
+star{\'y}	alt (Gegenst{\"a}nde und Personen)	02 Index
+{\color{cyan}strejda} (coll.)	Onkel (coll.)	02 Index
+{\color{cyan}str{\'y}{\v{c}}\uline{e}k},&nbsp;{\color{cyan}str{\'y}c}	Onkel (2x) (nicht coll.)	02 Index
+studen{\'y} (adj.)	kalt (adj.)	02 Index
+sympatick{\'y}	sympathisch	02 Index
+{\color{cyan}syn}	Sohn	02 Index
+{\color{cyan}synovec}	Neffe	02 Index
+{\v{s}}patn{\v{e}}	schlecht (adv.)	02 Index
+{\v{s}}patn{\'y}	schlecht (adj.)	02 Index
+{\v{s}}t{\'{\i}}hl{\'y}	schlank (adj.) (Person)	02 Index
+{\color{cyan}{\v{s}}vagr}	Schwager	02 Index
+{\color{red}{\v{s}}vagrov{\'a}} (adj.)	Schw{\"a}gerin	02 Index
+{\color{cyan}tat{\'{\i}}n\uline{e}k}	Vati, Papa	02 Index
+teplo	warm (adv.)	02 Index
+tepl{\'y}	warm (adj.)	02 Index
+{\color{red}teta}	Tante	02 Index
+t{\v{e}}{\v{z}}k{\'y}	1. schwierig 2. schwer (adj.)	02 Index
+tlust{\'y}	dick (adj.)	02 Index
+{\color{red}tu{\v{z}}ka}	Stift, Bleistift	02 Index
+{\color{cyan}u{\v{c}}itel}	Lehrer	02 Index
+{\color{red}u{\v{c}}itelka}	Lehrerin	02 Index
+{\color{cyan}vegetari{\'a}n}	Vegetarier	02 Index
+{\color{red}vegetari{\'a}nka}	Vegetarierin	02 Index
+velk{\'y}	gro{\ss} (adj.)	02 Index
+vesel{\'y}	lustig, fr{\"o}hlich (adj.)	02 Index
+{\color{red}vnu{\v{c}}ka}	Enkelin	02 Index
+{\color{cyan}vnuk}	Enkel	02 Index
+vysok{\'y}	hoch, gro{\ss} (Mensch) (adj.)	02 Index
+zamilovan{\'y}	verliebt (adj.)	02 Index
+zdrav{\'y}	gesund (adj.)	02 Index
+{\color{red}zp{\v{e}}va{\v{c}}ka}	S{\"a}ngerin	02 Index
+{\color{cyan}zp{\v{e}}v{\'a}k}	S{\"a}nger	02 Index
+{\color{cyan}prezident}	Pr{\"a}sident	02
+{\color{red}pan{\'{\i}}}	Frau (i.S.v. Frau Meier)	02
+ve {\color{red}{\v{s}}kole}	in der Schule (Schulgeb{\"a}ude)	02
+D{\'{\i}}vaj{\'{\i}} se na fotografie.	Schauen Sie die Photographie an.	02
+modern{\'{\i}}	modern (adj.)	02
+{\color{red}{\v{s}}efka}	Chefin	02
+{\color{blue}ruksak}	Rucksack (Fremdwort)	02
+sladk{\'y} [pes]	s{\"u}{\ss}er [Hund]	02
+pohodln{\'y}	bequem, gem{\"u}tlich (adj.)	02
+jednoduch{\'y} [{\color{blue}st{\accent'27u}l}]	einfacher [Tisch] (adj.)	02
+lehk{\'y}	leicht (Gewicht, Schwierigkeit, subtil) (adj.)	02
+b{\'{\i}}l{\'e}&nbsp;&nbsp;{\color{green}v{\'{\i}}no}	Wei{\ss}wein	02
+{\v{c}}erven{\'e} {\color{green}v{\'{\i}}no}	Rotwein	02
+{\color{cyan}pes}	Hund	02
+A jak{\'y} je asi jeho {\color{cyan}p{\'a}n}?	Und wie hei{\ss}t wohl sein Herrchen?	02 Konversation
+&nbsp;{\color{red} {\v{C}}ech, {\v{C}}e{\v{s}}ka}, pl.{\color{red} {\v{C}}e{\v{s}}i}	Tscheche, Tschechin, (pl.) Tschechen	02 Index
