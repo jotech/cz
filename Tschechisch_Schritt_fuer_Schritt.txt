@@ -39,7 +39,7 @@ wir sind	my jsme	01 Verben
 ihr seid	vy jste	01 Verben
 Sie sind (Anrede)	vy jste (+Anrede)	01 Verben
 sie sind	oni jsou	01 Verben
-tsch\"u\ss,&nbsp;hallo	ahoj / \v{c}au	01 Konversation
+tsch\"u\ss, hallo	ahoj / \v{c}au	01 Konversation
 Wie hei\ss t du?	Jak se jmenuje\v{s}?	01 Konversation
 guten Tag	dobr\'y den	01 Konversation
 Woher kommst du?	Odkud jsi?	01 Konversation
@@ -53,7 +53,7 @@ Auf Wiedersehen.	Na shledanou.	01 Konversation
 Wo wohnst du?	Kde bydl\'i\v{s}?	01 Konversation
 Ich wohne in $x$.	J\'a bydlim v $x$.	01 Konversation
 Entschuldige ich bin zu sp\"at.	Promi\v{n} jdu pozd\v{e}.	01 Konversation
-Zucker	cukr	01 Lebensmittel
+{\color{blue}cukr}	Zucker	01 Index Lebensmittel
 Zigarette	cigareta	01 Lebensmittel
 Zitrone	{\color{blue}citron}	01 Index Lebensmittel
 30	t\v{r}icet	01 Zahlen
@@ -124,7 +124,7 @@ M{\v{e}} taky!	Mich auch!	01 Index
 {\color{red}politika}	Politik	01 Index
 {\color{red}po{\v{s}}ta}	Post(amt)	01 Index
 {\color{red}pravda}	Wahrheit	01 Index
-{\color{cyan}p}{\color{cyan}rezident}	Pr{\"a}sident	01 Index
+{\color{cyan}prezident}	Pr{\"a}sident	01 Index
 {\color{red}prezidentka}	Pr{\"a}sidentin	01 Index
 {\color{blue}probl{\'e}m}	Problem	01 Index
 {\color{cyan}profesion{\'a}l}	Experte	01 Index
@@ -181,7 +181,7 @@ tis{\'{\i}}c	1000	01 Zahlen
 dva tis{\'{\i}}ce	2000	01 Zahlen
 t\v{r}i tis{\'{\i}}ce	3000	01 Zahlen
 \v{c}ty\v{r}i tis{\'{\i}}ce	4000	01 Zahlen
-p\v{e}t&nbsp;tis{\'{\i}}c	5000	01 Zahlen
+p\v{e}t tis{\'{\i}}c	5000	01 Zahlen
 \v{s}est tis{\'{\i}}c	6000	01 Zahlen
 sedm tis{\'{\i}}c	7000	01 Zahlen
 osm tis{\'{\i}}c	8000	01 Zahlen
@@ -194,7 +194,8 @@ p\v{e}t milion{\accent'27u}	5 000 000	01 Zahlen
 \v{s}est milion{\accent'27u}	6 000 000	01 Zahlen
 sedm milion{\accent'27u}	7 000 000	01 Zahlen
 osm milion{\accent'27u}	8 000 000	01 Zahlen
-dev\v{e}t&nbsp;milion{\accent'27u}	9 000 000	01 Zahlen
+dev\v{e}t milion{\accent'27u}	9 000 000	01 Zahlen
+a	und	01 Index
 {\color{red}Amerika}, {\color{cyan}Ameri{\v{c}}an}, {\color{red}Ameri{\v{c}}anka}	Amerika, Amerikaner, Amerikanerin	02 Index
 {\color{red}Anglie}, {\color{cyan}Angli{\v{c}}an}, {\color{red}Angli{\v{c}}anka}	England, Engl{\"a}nder, Engl{\"a}nderin	02 Index
 asi	wahrscheinlich, wohl (adv.)	02 Index
@@ -288,13 +289,13 @@ p{\v{r}}{\'{\i}}buzn{\'y} (adj.)	Verwandter	02 Index
 siln{\'y}	stark (adj.)	02 Index
 {\color{red}skleni{\v{c}}ka}	Gl{\"a}schen (i.S.v. Trinkglas)	02 Index
 slab{\'y}	schwach (adj.)	02 Index
-{\color{red}sle{\v{c}}na}	Fr{\"a}ulein	02 Index
+{\color{red}sle{\v{c}}na}	Fr{\"a}ulein (Wird im Tschechischen tats{\"a}chlich verwendet.)	02 Index
 smutn{\'y}	traurig (adj.)	02 Index
 {\color{cyan}sportov\uline{e}c}	Sportler	02 Index
 {\color{red}sportovkyn{\v{e}}}	Sportlerin	02 Index
 star{\'y}	alt (Gegenst{\"a}nde und Personen)	02 Index
 {\color{cyan}strejda} (coll.)	Onkel (coll.)	02 Index
-{\color{cyan}str{\'y}{\v{c}}\uline{e}k},&nbsp;{\color{cyan}str{\'y}c}	Onkel (2x) (nicht coll.)	02 Index
+{\color{cyan}str{\'y}{\v{c}}\uline{e}k}, {\color{cyan}str{\'y}c}	Onkel (2x) (nicht coll.)	02 Index
 studen{\'y} (adj.)	kalt (adj.)	02 Index
 sympatick{\'y}	sympathisch	02 Index
 {\color{cyan}syn}	Sohn	02 Index
@@ -324,7 +325,6 @@ zamilovan{\'y}	verliebt (adj.)	02 Index
 zdrav{\'y}	gesund (adj.)	02 Index
 {\color{red}zp{\v{e}}va{\v{c}}ka}	S{\"a}ngerin	02 Index
 {\color{cyan}zp{\v{e}}v{\'a}k}	S{\"a}nger	02 Index
-{\color{cyan}prezident}	Pr{\"a}sident	02
 {\color{red}pan{\'{\i}}}	Frau (i.S.v. Frau Meier)	02
 ve {\color{red}{\v{s}}kole}	in der Schule (Schulgeb{\"a}ude)	02
 D{\'{\i}}vaj{\'{\i}} se na fotografie.	Schauen Sie die Photographie an.	02
@@ -338,5 +338,5 @@ lehk{\'y}	leicht (Gewicht, Schwierigkeit, subtil) (adj.)	02
 b{\'{\i}}l{\'e}&nbsp;&nbsp;{\color{green}v{\'{\i}}no}	Wei{\ss}wein	02
 {\v{c}}erven{\'e} {\color{green}v{\'{\i}}no}	Rotwein	02
 {\color{cyan}pes}	Hund	02
-A jak{\'y} je asi jeho {\color{cyan}p{\'a}n}?	Und wie hei{\ss}t wohl sein Herrchen?	02 Konversation
-&nbsp;{\color{red} {\v{C}}ech, {\v{C}}e{\v{s}}ka}, pl.{\color{red} {\v{C}}e{\v{s}}i}	Tscheche, Tschechin, (pl.) Tschechen	02 Index
+A jak{\'y} je asi jeho {\color{cyan}p{\'a}n}?	Und wie ist wohl sein Herrchen?	02 Konversation
+{\color{cyan}{\v{C}}ech}, &nbsp;{\color{red}{\v{C}}e{\v{s}}ka}, pl.{\v{C}}e{\v{s}}i	Tscheche, Tschechin, (pl.) Tschechen	02 Index
