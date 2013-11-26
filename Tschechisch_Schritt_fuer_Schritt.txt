@@ -423,7 +423,7 @@ trochu	etwas, ein wenig	02 Index
 u{\v{c}}it, u{\v{c}}{\'{\i}}m (impf.)	lehren, unterrichten (impf.)	02 Index Verben
 {\color{cyan}u{\v{c}}itel}	Lehrer	02 Index
 {\color{red}u{\v{c}}itelka}	Lehrerin	02 Index
-ukl{\'{\i}}zet, ukl{\'{\i}}z{\'{\i}}m (impf.)	sauber machen, aufräumen (impf.)	03 03b Index Verben
+ukl{\'{\i}}zet, ukl{\'{\i}}z{\'{\i}}m (impf.)	sauber machen, aufr{\"a}umen (impf.)	03 03b Index Verben
 um{\v{e}}t*, um{\'{\i}}m (impf.)	k{\"o}nnen (F{\"a}higkeit) (impf.)	03 03b Index Verben unregelmaessig
 {\'u}pln{\v{e}}	ganz, vollst{\"a}ndig (adv.)	02 Index
 va{\v{r}}it, va{\v{r}}{\'{\i}}m (impf.)	kochen (impf.)	03 03b Index Verben
@@ -479,7 +479,7 @@ abstraktn{\'{\i}}	abstrakt, abgehoben (adj.)	02 adj
 Je p{\v{e}}t ({\v{s}}est, sedm, ...) {\color{red}hodin}.	Es ist f{\"u}nf (sechs, sieben,...) Uhr.	03 Konversation
 Jsou dv{\v{e}} (t{\v{r}}i, {\v{c}}ty{\v{r}}i) {\color{red}hodiny}.	Es ist zwei (drei, vier) Uhr.	03
 Kolik je {\color{red}hodin}?	Wie sp{\"a}t ist es?/Wieviel Uhr ist es?	03 Konversation
-v jednu {\color{red}hodinu}.	Um ein Uhr.	03
+v jednu {\color{red}hodinu}	um ein Uhr	03
 V kolik {\color{red}hodin}?	Um wie viel Uhr?	03 Konversation
 v p{\v{e}}t ({\v{s}}est, sedm...) {\color{red}hodin}	um f{\"u}nf (sechs, sieben,..) Uhr	03 Konversation
 ve dv{\v{e}} (t{\v{r}}i, {\v{c}}ty{\v{r}}i) {\color{red}hodiny}	um zwei (drei, vier) Uhr	03 Konversation
