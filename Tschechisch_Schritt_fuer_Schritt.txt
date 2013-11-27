@@ -325,7 +325,7 @@ myslet, mysl{\'{\i}}m (impf.)	denken (impf.)	02 Index
 m{\'y}t*, myju (impf.)	waschen (K{\"o}rper, Geschirr) (impf.)	03 03b Index Verben unregelmaessig
 na	auf, an, in	02 Index
 nakupovat, nakupuju (impf.)	einkaufen (impf.)	03 03b Index Verben
-{\color{cyan}n{\'a}{\v{s}}}, {\color{blue}n{\'a}{\v{s}}}, {\color{red}na{\v{s}}e}, {\color{green}na{\v{s}}e}	unser, unser,&nbsp;unsere, unser	02 Index
+{\color{cyan}n{\'a}{\v{s}}}, {\color{blue}n{\'a}{\v{s}}}, {\color{red}na{\v{s}}e}, {\color{green}na{\v{s}}e}	unser, unser, unsere, unser	02 Index
 nebo	oder	02 Index
 nejlep{\v{s}}{\'{\i}}	der beste (adj.)	02 Index adj
 n{\v{e}}kdy	irgendwann, manchmal	02 Index
@@ -419,7 +419,7 @@ t{\v{e}}{\v{z}}k{\'y}	1. schwierig 2. schwer (adj.)	02 Index adj
 tlust{\'y}	dick (adj.)	02 Index adj
 trochu	etwas, ein wenig	02 Index
 {\color{red}tu{\v{z}}ka}	Stift, Bleistift	02 Index
-{\color{blue}tv{\accent'27u}j}, {\color{cyan}tv{\accent'27u}j}, &nbsp;{\color{red}tvoje/tv{\'a}}, {\color{green}tvoje/tv{\'e}}	dein, dein, deine, dein	02 Index
+{\color{blue}tv{\accent'27u}j}, {\color{cyan}tv{\accent'27u}j}, {\color{red}tvoje/tv{\'a}}, {\color{green}tvoje/tv{\'e}}	dein, dein, deine, dein	02 Index
 u{\v{c}}it, u{\v{c}}{\'{\i}}m (impf.)	lehren, unterrichten (impf.)	02 Index Verben
 {\color{cyan}u{\v{c}}itel}	Lehrer	02 Index
 {\color{red}u{\v{c}}itelka}	Lehrerin	02 Index
@@ -453,14 +453,14 @@ sladk{\'y} [pes]	s{\"u}{\ss}er [Hund]	02 adj
 pohodln{\'y}	bequem, gem{\"u}tlich (adj.)	02 adj
 jednoduch{\'y} [{\color{blue}st{\accent'27u}l}]	einfacher [Tisch] (adj.)	02 adj
 lehk{\'y}	leicht (Gewicht, Schwierigkeit, subtil) (adj.)	02 adj
-b{\'{\i}}l{\'e}&nbsp;&nbsp;{\color{green}v{\'{\i}}no}	Wei{\ss}wein	02
+b{\'{\i}}l{\'e} {\color{green}v{\'{\i}}no}	Wei{\ss}wein	02
 {\v{c}}erven{\'e} {\color{green}v{\'{\i}}no}	Rotwein	02
 {\color{cyan}pes}	Hund	02
 A jak{\'y} je asi jeho {\color{cyan}p{\'a}n}?	Und wie ist wohl sein Herrchen?	02 Konversation
-{\color{cyan}{\v{C}}ech}, &nbsp;{\color{red}{\v{C}}e{\v{s}}ka}, pl.{\v{C}}e{\v{s}}i	Tscheche, Tschechin, (pl.) Tschechen	02 Index
+{\color{cyan}{\v{C}}ech}, {\color{red}{\v{C}}e{\v{s}}ka}, pl.{\v{C}}e{\v{s}}i	Tscheche, Tschechin, (pl.) Tschechen	02 Index
 To v{\'{\i}}te, ...	(Wie) ihr wisst, ...	02
 To v{\'{\i}}te, l{\'a}ska je slep{\'a}.	Wie ihr wisst, ist Liebe blind.	02
-Je taky {\color{red}u{\v{c}}itelka} jako&nbsp;j{\'a}.	(Sie) ist auch Lehrerin wie ich.	02
+Je taky {\color{red}u{\v{c}}itelka} jako j{\'a}.	(Sie) ist auch Lehrerin wie ich.	02
 star{\v{s}}{\'{\i}} sestra	{\"a}ltere Schwester	02
 Je u{\v{z}} moc star{\'y}.	(Er) ist schon sehr alt.	02
 vtipn{\'y}	witzig	02 adj
