@@ -166,7 +166,7 @@ Je{\v{s}}t{\v{e}} jednou, pros\'{\i}m.	Noch einmal, bitte.	01 Konversation
 Jak se m{\'a}{\v{s}}? / Jak se m{\'a}te?	Wie geht es Dir? / Wie geht es Ihnen?	01 Konversation
 dob{\v{r}}e / Ujde to. / {\v{s}}patn{\v{e}}	gut / Es geht so. / schlecht	01 Konversation
 nen{\'{\i}}	(er/sie/es) ist nicht	01
-Verneinung des Verbs	jsem -- nejsem ...	01 Verben decz
+Verneinung des Verbs	jsem -- nejsem ...	01 Verben decz grammatik
 To je {\color{red}tragedie}.	Das ist tragisch.	01 Konversation
 To je jedno.	Das ist egal.	01 Konversation
 dv{\v{e}} st{\v{e}}	200	01 Zahlen
@@ -585,3 +585,17 @@ květen	Mai	03
 červen	Juni	03
 červenec	Juli	03
 srpen	August	03
+á-Verb konjugieren: dělát	já&nbsp;děl-ám, ty&nbsp;děl-áš, on(a/o)&nbsp;děl-á, my&nbsp;děl-áme, vy&nbsp;děl-áte, oni děl-ájí / (Partizip perfekt) děl-ál		03 grammatik
+Typische Endungen á-Verben	-at, + mít		03 grammatik
+í-Verb konjugieren: rozumět	já&nbsp;rozum-ím, ty&nbsp;rozum-íš, on(a/o)&nbsp;rozum-í, my&nbsp;rozum-íme, vy&nbsp;rozum-íte, oni rozum-í (seltener) rozum-ějí** / (Partizip perfekt) rozumě-l		03 grammatik
+Typische Endungen í-Verben	-et, -ět, -it + jíst, spát, stát		03 grammatik
+-ovat Verb konjugieren: pracovat	já prac-uju prac-uji**, ty&nbsp;prac-uješ, on(a/o)&nbsp;prac-uje, my&nbsp;prac-ujeme, vy&nbsp;prac-ujete, oni prac-ujou &nbsp;prac-ují** / (Partizip perfekt) pracova-l		03 grammatik
+Typische Endungen ovat-Verben	-ovat		03 grammatik
+ě-Verb Präsens konjugieren: čist	já čt-u, ty&nbsp;čt-eš, on(a/o)&nbsp;čt-e, my&nbsp;čt-eme, vy&nbsp;čt-ete, oni čt-ou / (Partizip perfekt) Stammänderung		03 grammatik
+7 typische Endungen ě-Verben	-ít, -ýt, -ét, -íst, -ést, -ást, -ůst		03 grammatik
+Unterschied v / ve	ve genau dann wenn mindestens 2 Konsonanten folgen		03 grammatik
+Je jedna hodina a dvě minuty.	Es ist ein Uhr zwei. (Singular/plural!)	03 Konversation
+Je nula hodin.	Es ist null Uhr.	03 Konversation
+ve dvacet hodin	um zwanzig Uhr	03 Konversation
+Aussprache ě	1. nach b,p,v,d,t,n: [jɛ]. 2. nach m: [njɛ]. 3. sonst [ɛ]		01 grammatik
+Aussprache i (nicht í,y,ý)	1. nach d,t,n: [ji]. 2. sonst: [i]		01 grammatik
