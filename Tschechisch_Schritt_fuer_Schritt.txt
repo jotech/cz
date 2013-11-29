@@ -566,7 +566,7 @@ hrát* tenis	Tennis spielen	03
 hrát* šachy	Schach spielen	03
 hrát* basketbal, volejbal	Basketball, Volleyball spielen	03
 každý den	jeden Tag	03
-když	wenn (konjunktion)	03
+když	wenn (Konjunktion)	03
 použivejte obrázky	verwenden Sie / verwendet die Bilder	03
 jet domů	nach Hause fahren	03
 jít do školy	in die Schule gehen	03
@@ -597,5 +597,5 @@ Unterschied v / ve	ve genau dann wenn mindestens 2 Konsonanten folgen		03 gramma
 Je jedna hodina a dvě minuty.	Es ist ein Uhr zwei. (Singular/plural!)	03 Konversation
 Je nula hodin.	Es ist null Uhr.	03 Konversation
 ve dvacet hodin	um zwanzig Uhr	03 Konversation
-Aussprache ě	1. nach b,p,v,d,t,n: [jɛ]. 2. nach m: [njɛ]. 3. sonst [ɛ]		01 grammatik
+Aussprache ě	1. nach b,p,v: [jɛ]. 2. Konsontantenerweichung d,t,n: [jɛ].&nbsp;3. nach m: [njɛ]. 3. sonst [ɛ]		01 grammatik
 Aussprache i (nicht í,y,ý)	1. nach d,t,n: [ji]. 2. sonst: [i]		01 grammatik
