@@ -408,7 +408,7 @@ psát* / píšu, píšeš, píše, píšeme, píšete, píšou / psal / piš (im
 {\color{blue}sal{\'a}t}	Salat	02 Index
 {\color{cyan}sekret{\'a}{\v{r}}}	Sekret{\"a}r	02 Index
 {\color{red}sekret{\'a}{\v{r}}ka}	Sekret{\"a}rin	02 Index
-{\color{blue}seri{\'a}l}	Serie	03 Index
+{\color{blue}seri{\'a}l}	Fernsehserie	03 Index
 {\color{red}sestra}	Schwester	02 Index
 siln{\'y}	stark (adj.)	02 Index adj
 {\color{red}skleni{\v{c}}ka}	Gl{\"a}schen (i.S.v. Trinkglas)	02 Index
