@@ -246,7 +246,7 @@ hezk{\'y}	sch{\"o}n, h{\"u}bsch (adj.)	02 Index adj
 {\color{red}holka} (coll.)	M{\"a}del (coll.)	02 Index
 hork{\'y}	hei{\ss} (adj.)	02 Index adj
 hr{\'a}t si, hraju si s (impf.)	mit jmdm. spielen (impf.)	03 03b Index Verben unregelmaessig
-hrát* / hraju, hraješ, hraje, hrajeme, hrajete, hrajou / hrál / hraj (impf.)	spielen (impf.)	03 03b Index Verben unregelmaessig
+hrát* / hraju, hraješ, hraje, hrajeme, hrajete, hrajou / hrál / hraj (impf.)	spielen (Rolle, Instrument, Sport, Glücksspiel) (impf.)	03 03b Index Verben unregelmaessig
 {\color{blue}hrnek}	Becher, Pott, Tasse (Keramik)	02 Index
 huben{\'y}	d{\"u}nn, abgemagert (adj.)	02 Index adj
 {\color{cyan}chlap\uline{e}c}	Junge	02 Index
@@ -332,7 +332,7 @@ mlad{\'y}	jung	02 Index adj
 mluvit, mluv{\'{\i}}m (impf.)	sprechen (impf.)	03 03b Index Verben
 {\color{blue}mobil}	Handy, Mobiltelefon	02 Index
 moc	1. viel, 2. sehr (adv.)	02 Index
-moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)	k{\"o}nnen (impf.)	03 03b Index Verben unregelmaessig
+moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)	k{\"o}nnen (impf.)	03 03b Index Verben kann unregelmaessig
 {\color{cyan}m{\accent'27u}j}, {\color{blue}m{\accent'27u}j}, {\color{red}moje/m{\'a}}, {\color{green}moje/m{\'e}}	mein, mein, meine, mein	02 Index
 muset, mus{\'{\i}}m (impf.)	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
@@ -461,7 +461,7 @@ u{\v{c}}it, u{\v{c}}{\'{\i}}m (impf.)	lehren, unterrichten (impf.)	02 Index Verb
 {\color{cyan}u{\v{c}}itel}	Lehrer	02 Index
 {\color{red}u{\v{c}}itelka}	Lehrerin	02 Index
 ukl{\'{\i}}zet, ukl{\'{\i}}z{\'{\i}}m (impf.)	sauber machen, aufr{\"a}umen (impf.)	03 03b Index Verben
-um{\v{e}}t*, um{\'{\i}}m (impf.)	k{\"o}nnen (F{\"a}higkeit) (impf.)	03 03b Index Verben unregelmaessig
+um{\v{e}}t*, um{\'{\i}}m (impf.)	k{\"o}nnen (F{\"a}higkeit) (impf.)	03 03b Index Verben kann unregelmaessig
 {\'u}pln{\v{e}}	ganz, vollst{\"a}ndig (adv.)	02 Index
 {\color{green}{\'u}ter{\'y}}	Dienstag	03 Index
 v l{\'e}t{\v{e}}	im Sommer	03 Index
@@ -552,7 +552,7 @@ v{\v{s}}echny (pron.-adj.)	alle (pron.-adj.)	03
 {\color{red}pauza}	Pause	03
 {\color{red}tabulka}	Tabelle	03
 dokončete věty	Beenden Sie den Satz/Beendet den Satz	03
-můžeme	wir können	03
+můžeme	wir können	03 kann
 dělejte otázky	Stellt/Stellen Sie Fragen	03
 {\color{blue}týden}	Woche	03
 rád, ráda, rádo	gern (adj.)	03
