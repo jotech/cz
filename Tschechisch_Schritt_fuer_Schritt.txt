@@ -264,6 +264,7 @@ Jdi dom{\accent'27u}! Jd{\v{e}}te dom{\accent'27u}!	Geh/geht nach Hause!	03 Inde
 jeho	sein (possesiv)	02 Index
 jej{\'{\i}}	ihr (possesiv, 3. P. Sg.)	02 Index
 jejich	ihr (possesiv, 3. P. Pl.)	02 Index
+jestli	wenn, falls (i.S.v. ob)	Index
 jet*, jedu metrem (impf.)	mit der Metro fahren (impf.)	03 03b Index Verben unregelmaessig
 jet*, jedu (autem, vlakem...) (impf.)	(mit dem Auto, Zug...) fahren (impf.)	03 03b Index Verben unregelmaessig
 jet* / jedu, jedeš, jede, jedeme, jedete, jedou / jel / jed' (impf.)	fahren (impf.)	03 03b Index Verben unregelmaessig
@@ -332,7 +333,7 @@ mlad{\'y}	jung	02 Index adj
 mluvit, mluv{\'{\i}}m (impf.)	sprechen (impf.)	03 03b Index Verben
 {\color{blue}mobil}	Handy, Mobiltelefon	02 Index
 moc	1. viel, 2. sehr (adv.)	02 Index
-moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)	k{\"o}nnen (impf.)	03 03b Index Verben kann unregelmaessig
+moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)	k{\"o}nnen (iSv pouvoir) (impf.)	03 03b Index Verben unregelmaessig
 {\color{cyan}m{\accent'27u}j}, {\color{blue}m{\accent'27u}j}, {\color{red}moje/m{\'a}}, {\color{green}moje/m{\'e}}	mein, mein, meine, mein	02 Index
 muset, mus{\'{\i}}m (impf.)	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
@@ -377,7 +378,7 @@ plavat* / plavu, plaveš, plave, plaveme, plavete, plavou / plaval / plav (impf.
 {\color{blue}po{\v{c}}{\'{\i}}ta{\v{c}}}	Computer	02 Index
 po{\v{c}}{\'{\i}}tat, po{\v{c}}{\'{\i}}t{\'a}m (impf.)	z{\"a}hlen (impf.)	03 Index
 {\color{blue}podzim}	Herbst	03 Index
-{\color{green}poledne}	Mittag, am Mittag	03 Index
+{\color{green}poledne}	Mittag (im: am Mittag)	03 Index
 {\color{green}pond{\v{e}}l{\'{\i}}}	Montag	03 Index
 pou{\v{z}}{\'{\i}}vat, pou{\v{z}}{\'{\i}}v{\'a}m (impf.)	verwenden, gebrauchen (impf.)	03 Index
 {\color{red}prababi{\v{c}}ka}	Urgro{\ss}mutter	02 Index
@@ -420,7 +421,7 @@ sn{\'{\i}}dat, sn{\'{\i}}d{\'a}m (impf.)	fr{\"u}hst{\"u}cken (impf.)	03 03b Inde
 {\color{red}sobota}	Samstag, Sonnabend	03 Index
 sp{\'a}t*/ sp{\'{\i}}m, sp{\'{\i}}{\v{s}}, sp{\'{\i}}, sp{\'{\i}}me, sp{\'{\i}}te, sp{\'{\i}}/ spal/ spi (impf.)	schlafen (volle Konjugation, impf.)	03 03b Index Verben unregelmaessig
 spole{\v{c}}n{\'y}	gemeinsamer	03 Index
-spolu	gemeinsam	03 Index
+spolu	gemeinsam (adv.)	03 Index
 {\color{cyan}sportov\uline{e}c}	Sportler	02 Index
 {\color{red}sportovkyn{\v{e}}}	Sportlerin	02 Index
 star{\v{s}}{\'{\i}}	{\"a}lter	02 Index
@@ -461,7 +462,7 @@ u{\v{c}}it, u{\v{c}}{\'{\i}}m (impf.)	lehren, unterrichten (impf.)	02 Index Verb
 {\color{cyan}u{\v{c}}itel}	Lehrer	02 Index
 {\color{red}u{\v{c}}itelka}	Lehrerin	02 Index
 ukl{\'{\i}}zet, ukl{\'{\i}}z{\'{\i}}m (impf.)	sauber machen, aufr{\"a}umen (impf.)	03 03b Index Verben
-um{\v{e}}t*, um{\'{\i}}m (impf.)	k{\"o}nnen (F{\"a}higkeit) (impf.)	03 03b Index Verben kann unregelmaessig
+um{\v{e}}t*, um{\'{\i}}m (impf.)	k{\"o}nnen (F{\"a}higkeit, iSv savoir) (impf.)	03 03b Index Verben unregelmaessig
 {\'u}pln{\v{e}}	ganz, vollst{\"a}ndig (adv.)	02 Index
 {\color{green}{\'u}ter{\'y}}	Dienstag	03 Index
 v l{\'e}t{\v{e}}	im Sommer	03 Index
@@ -591,9 +592,9 @@ Typische Endungen á-Verben	-at, + mít		03 grammatik
 Typische Endungen í-Verben	-et, -ět, -it + jíst, spát, stát		03 grammatik
 -ovat Verb konjugieren: pracovat	já prac-uju prac-uji**, ty&nbsp;prac-uješ, on(a/o)&nbsp;prac-uje, my&nbsp;prac-ujeme, vy&nbsp;prac-ujete, oni prac-ujou &nbsp;prac-ují** / (Partizip perfekt) pracova-l		03 grammatik
 Typische Endungen ovat-Verben	-ovat		03 grammatik
-ě-Verb Präsens konjugieren: čist	já čt-u, ty&nbsp;čt-eš, on(a/o)&nbsp;čt-e, my&nbsp;čt-eme, vy&nbsp;čt-ete, oni čt-ou / (Partizip perfekt) Stammänderung		03 grammatik
-7 typische Endungen ě-Verben	-ít, -ýt, -ét, -íst, -ést, -ást, -ůst		03 grammatik
-Unterschied v / ve	ve genau dann wenn mindestens 2 Konsonanten folgen		03 grammatik
+ě-Verb Präsens konjugieren: číst	já čt-u, ty&nbsp;čt-eš, on(a/o)&nbsp;čt-e, my&nbsp;čt-eme, vy&nbsp;čt-ete, oni čt-ou / (Partizip perfekt) Stammänderung		03 grammatik
+7 typische Endungen regelmäßige ě-Verben	-ít, -ýt, -ét, -íst, -ést, -ást, -ůst		03 grammatik
+Unterschied v / ve; Ausnahme	ve genau dann wenn mindestens 2 Konsonanten folgen (vor dem nächten Vokal oder syllabischem r). Ausnahmen: Monate.		03 grammatik
 Je jedna hodina a dvě minuty.	Es ist ein Uhr zwei. (Singular/plural!)	03 Konversation
 Je nula hodin.	Es ist null Uhr.	03 Konversation
 ve dvacet hodin	um zwanzig Uhr	03 Konversation
