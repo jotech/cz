@@ -206,7 +206,7 @@ b{\'{\i}}l{\'y}	wei{\ss} (adj.)	02 Index adj
 bohat{\'y}	reich (adj.)	02 Index adj
 {\color{cyan}bratr}	Bruder	02 Index
 bu{d'}(to) -- nebo	entweder -- oder	02 Index
-b{\'y}t, jsem (impf.)	sein, ich bin (impf.)	03 03b Index Verben unregelmaessig
+b{\'y}t, jsem, byl, bud' (impf.)	sein, ich bin (impf.)	03 03b Index Verben unregelmaessig
 cestovat, cestuju (impf.)	reisen (impf.)	03 03b Index Verben
 cestovn{\'{\i}} {\color{red}kancel{\'a}{\v{r}}}	Reiseb{\"u}ro	03 03b Index
 citronov{\'y} (adj.)	Zitronen-	01 Index adj
@@ -268,17 +268,11 @@ jestli	wenn, falls (i.S.v. ob)	Index
 jet*, jedu metrem (impf.)	mit der Metro fahren (impf.)	03 03b Index Verben unregelmaessig
 jet*, jedu (autem, vlakem...) (impf.)	(mit dem Auto, Zug...) fahren (impf.)	03 03b Index Verben unregelmaessig
 jet* / jedu, jedeš, jede, jedeme, jedete, jedou / jel / jed' (impf.)	fahren (impf.)	03 03b Index Verben unregelmaessig
-jezdit -- jet* na jacht{\v{e}}	auf einer Yacht segeln, fahren	03 03b Index Verben unregelmaessig
-jezdit -- jet* na kole	Fahrrad fahren	03 03b Index Verben unregelmaessig
-jezdit -- jet* na kole{\v{c}}kov{\'y}ch brusl{\'{\i}}ch	Inline skates fahren	03 03b Index Verben unregelmaessig
-jezdit -- jet* na lodi	Boot fahren	03 03b Index Verben unregelmaessig
-jezdit -- jet* na skatebordu (na skejtu)	Skateboard fahren	03 03b Index Verben unregelmaessig
 jít* / jdu, jdeš, jde, jdeme, jdete, jdou / šel, šla, šli / jdi (impf.)	gehen (impf.)	03 03b Index Verben unregelmaessig
 jmenovat se, jmenuju se (impf.)	hei{\ss}en (impf.)	03 03b Index Verben
 {\color{cyan}kamar{\'a}d}, {\color{red}kamar{\'a}dka}	Freund (Fremdwort)	02 Index
 kdo	wer (Fragepronomen)	02 Index
 kdy	wann	03 Index
-kdy{\v{z}}	1. wenn 2. falls	03 Index
 {\color{cyan}kluk} (coll.)	Junge (coll.)	02 Index
 {\color{red}kniha}, knihy	Buch, B{\"u}cher	02 Index
 {\color{cyan}kolega}, {\color{red}kolegyn{\v{e}}}	Kollege, Kollegin	02 Index
@@ -318,10 +312,10 @@ m{\'{\i}}t* volno (impf.)	frei haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* vztek (impf.)	w{\"u}tend sein (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{red}zlost }(impf.)	Wut haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{red}{\v{z}}{\'{\i}}ze{\v{n}} }(impf.)	Durst haben	03 03b Index Verben unregelmaessig
-m{\'{\i}}t*, m{\'a}m (impf.)	haben (impf.)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t*, m{\'a}m, měl, měj (impf.)	haben(, sollen) (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* dobrou n{\'a}ladu (impf.)	gute Laune haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* kr{\'a}sn{\'y} {\v{z}}ivot (impf.)	ein sch{\"o}nes Leben haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* moc pr{\'a}ce(impf.)	viel Arbeit haben	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* moc pr{\'a}ce (impf.)	viel Arbeit haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* n{\'a}pad (impf.)	eine Idee / einen Einfall haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* narozeniny(impf.)	Geburtstag haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* pen{\'{\i}}ze (impf.)	Geld haben (impf.)	03 03b Index Verben unregelmaessig
@@ -338,7 +332,7 @@ moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)
 muset, mus{\'{\i}}m (impf.)	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
 myslet, mysl{\'{\i}}m (impf.)	denken (impf.)	02 Index
-m{\'y}t*, myju (impf.)	waschen (K{\"o}rper, Geschirr) (impf.)	03 03b Index Verben unregelmaessig
+m{\'y}t*, myju, myl, myj (impf.)	waschen (K{\"o}rper, Geschirr) (impf.)	03 03b Index Verben unregelmaessig
 na	auf, an, in	02 Index
 na ja{\v{r}}e	im Fr{\"u}hling	03 Index
 na podzim	im Herbst	03 Index
@@ -567,7 +561,7 @@ hrát* tenis	Tennis spielen	03
 hrát* šachy	Schach spielen	03
 hrát* basketbal, volejbal	Basketball, Volleyball spielen	03
 každý den	jeden Tag	03
-když	wenn (Konjunktion)	03
+když	wenn, falls (Konjunktion)	03 Index
 použivejte obrázky	verwenden Sie / verwendet die Bilder	03
 jet domů	nach Hause fahren	03
 jít do školy	in die Schule gehen	03
