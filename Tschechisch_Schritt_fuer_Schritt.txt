@@ -317,7 +317,7 @@ m{\'{\i}}t* dobrou n{\'a}ladu (impf.)	gute Laune haben (impf.)	03 03b Index Verb
 m{\'{\i}}t* kr{\'a}sn{\'y} {\v{z}}ivot (impf.)	ein sch{\"o}nes Leben haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* moc pr{\'a}ce (impf.)	viel Arbeit haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* n{\'a}pad (impf.)	eine Idee / einen Einfall haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* narozeniny(impf.)	Geburtstag haben	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* narozeniny (impf.)	Geburtstag haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* pen{\'{\i}}ze (impf.)	Geld haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* pravdu (impf.)	Recht haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* r{\'a}d, m{\'a}m r{\'a}d (impf.)	gern haben (impf.)	03 03b Index Verben unregelmaessig
@@ -562,7 +562,7 @@ hrát* šachy	Schach spielen	03
 hrát* basketbal, volejbal	Basketball, Volleyball spielen	03
 každý den	jeden Tag	03
 když	wenn, falls (Konjunktion)	03 Index
-použivejte obrázky	verwenden Sie / verwendet die Bilder	03
+používejte obrázky	verwenden Sie / verwendet die Bilder	03
 jet domů	nach Hause fahren	03
 jít do školy	in die Schule gehen	03
 chodit do školy	die Schule besuchen	03
@@ -585,9 +585,9 @@ Typische Endungen á-Verben	-at, + mít		03 grammatik
 í-Verb konjugieren: rozumět	já&nbsp;rozum-ím, ty&nbsp;rozum-íš, on(a/o)&nbsp;rozum-í, my&nbsp;rozum-íme, vy&nbsp;rozum-íte, oni rozum-í (seltener) rozum-ějí** / (Partizip perfekt) rozumě-l		03 grammatik
 Typische Endungen í-Verben	-et, -ět, -it + jíst, spát, stát		03 grammatik
 -ovat Verb konjugieren: pracovat	já prac-uju prac-uji**, ty&nbsp;prac-uješ, on(a/o)&nbsp;prac-uje, my&nbsp;prac-ujeme, vy&nbsp;prac-ujete, oni prac-ujou &nbsp;prac-ují** / (Partizip perfekt) pracova-l		03 grammatik
-Typische Endungen ovat-Verben	-ovat		03 grammatik
+Typische Endungen (ě-) ovat-Verben	-ovat		03 grammatik
 ě-Verb Präsens konjugieren: číst	já čt-u, ty&nbsp;čt-eš, on(a/o)&nbsp;čt-e, my&nbsp;čt-eme, vy&nbsp;čt-ete, oni čt-ou / (Partizip perfekt) Stammänderung		03 grammatik
-7 typische Endungen regelmäßige ě-Verben	-ít, -ýt, -ét, -íst, -ést, -ást, -ůst		03 grammatik
+7 typische Endungen unregelmäßige ě-Verben	-ít, -ýt, -ét, -íst, -ést, -ást, -ůst		03 grammatik
 Unterschied v / ve; Ausnahme	ve genau dann wenn mindestens 2 Konsonanten folgen (vor dem nächten Vokal oder syllabischem r). Ausnahmen: Monate.		03 grammatik
 Je jedna hodina a dvě minuty.	Es ist ein Uhr zwei. (Singular/plural!)	03 Konversation
 Je nula hodin.	Es ist null Uhr.	03 Konversation
