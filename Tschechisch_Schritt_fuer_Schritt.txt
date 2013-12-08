@@ -211,6 +211,7 @@ cestovat, cestuju (impf.)	reisen (impf.)	03 03b Index Verben
 cestovn{\'{\i}} {\color{red}kancel{\'a}{\v{r}}}	Reiseb{\"u}ro	03 03b Index
 citronov{\'y} (adj.)	Zitronen-	01 Index adj
 co	1. was (Fragepronomen) 2. (coll.) welcher, welche, welches	02 Index
+{\v{c}}asto	oft	03 Index
 {\v{c}}ern{\'y}	schwarz	02 Index adj
 {\v{c}}erven{\'y}	rot (adj.)	02 Index adj
 {\v{C}}esk{\'a} {\color{red}republika}	Tschechische Republik	02 Index
@@ -233,6 +234,7 @@ d{\'{\i}}vat se na (impf.)	schauen (impf.)	03 03b Index Verben
 dobr{\'y}	gut (adj.)	02 Index adj
 {\color{cyan}doktor}, {\color{red}doktorka}	Doktor(in), Arzt/{\"A}rztin	02 Index
 dole	unten	03 Index
+dom{\'a}c{\'{\i}} {\color{blue}{\'u}kol}	Hausaufgabe	03 Index
 {\color{green}dopoledne}	am Vormittag	03 Index
 drah{\'y}	1. teuer (adj.) 2. mein Teurer	02 Index adj
 {\color{blue}d{\accent'27u}m}, domy	Haus, H{\"a}user	02 Index
@@ -264,10 +266,12 @@ Jdi dom{\accent'27u}! Jd{\v{e}}te dom{\accent'27u}!	Geh/geht nach Hause!	03 Inde
 jeho	sein (possesiv)	02 Index
 jej{\'{\i}}	ihr (possesiv, 3. P. Sg.)	02 Index
 jejich	ihr (possesiv, 3. P. Pl.)	02 Index
+jen / jenom	nur	01 Index
 jestli	wenn, falls (i.S.v. ob)	Index
 jet*, jedu metrem (impf.)	mit der Metro fahren (impf.)	03 03b Index Verben unregelmaessig
 jet*, jedu (autem, vlakem...) (impf.)	(mit dem Auto, Zug...) fahren (impf.)	03 03b Index Verben unregelmaessig
 jet* / jedu, jedeš, jede, jedeme, jedete, jedou / jel / jed' (impf.)	fahren (impf.)	03 03b Index Verben unregelmaessig
+j{\'{\i}}st*, j{\'{\i}}m, jedl, jez (impf.)	essen (impf.)	03 Index Verben
 jít* / jdu, jdeš, jde, jdeme, jdete, jdou / šel, šla, šli / jdi (impf.)	gehen (impf.)	03 03b Index Verben unregelmaessig
 jmenovat se, jmenuju se (impf.)	hei{\ss}en (impf.)	03 03b Index Verben
 {\color{cyan}kamar{\'a}d}, {\color{red}kamar{\'a}dka}	Freund (Fremdwort)	02 Index
@@ -372,6 +376,7 @@ plavat* / plavu, plaveš, plave, plaveme, plavete, plavou / plaval / plav (impf.
 {\color{blue}po{\v{c}}{\'{\i}}ta{\v{c}}}	Computer	02 Index
 po{\v{c}}{\'{\i}}tat, po{\v{c}}{\'{\i}}t{\'a}m (impf.)	z{\"a}hlen (impf.)	03 Index
 {\color{blue}podzim}	Herbst	03 Index
+{\color{blue}pohled} (oder) {\color{red}pohlednice}	Ansichtskarte	03 Index
 {\color{green}poledne}	Mittag (im: am Mittag)	03 Index
 {\color{green}pond{\v{e}}l{\'{\i}}}	Montag	03 Index
 pou{\v{z}}{\'{\i}}vat, pou{\v{z}}{\'{\i}}v{\'a}m (impf.)	verwenden, gebrauchen (impf.)	03 Index
@@ -484,6 +489,7 @@ vlastn{\v{e}}	eigentlich	02 Index
 {\color{cyan}vnuk}	Enkel	02 Index
 vst{\'a}vat, vst{\'a}v{\'a}m (impf.)	aufstehen (impf.)	03 03b Index Verben
 vysok{\'y}	hoch, gro{\ss} (Mensch) (adj.)	02 Index adj
+zaj{\'{\i}}mav{\'y}	interessant	03 Index adj
 zamilovan{\'y}	verliebt (adj.)	02 Index adj
 zdrav{\'y}	gesund (adj.)	02 Index adj
 {\color{red}zima}	1. kalt, 2. Winter	03 Index
@@ -594,3 +600,23 @@ Je nula hodin.	Es ist null Uhr.	03 Konversation
 ve dvacet hodin	um zwanzig Uhr	03 Konversation
 Aussprache ě	1. nach b,p,v: [jɛ]. 2. Konsontantenerweichung d,t,n: [jɛ]. 3. nach m: [njɛ]. 3. sonst [ɛ]		01 grammatik
 Aussprache i (nicht í,y,ý)	1. nach d,t,n Konsonantenerweichung: [ji]. 2. sonst: [i]		01 grammatik
+Häufige Endungen Substantive (alle Geschlechter)	2x m: -Konsonant. f: -a n: -o	02 grammatik
+Seltene Endungen männlich-belebte Substantive	-a, -e	02 grammatik
+Seltene Endungen männlich-unbelebte Substantive	-a (Ausnahme)	02 grammatik
+3x Seltene Endungen weibliche Substantive	-e (sehr oft), -ie, Konsonant	02 grammatik
+4x Seltene Endungen neutrum Substantive	-í, -e, -ě (nicht sehr oft), -um (Lehnwörter)	02 grammatik
+Welche Monate enden in der Zeitangabe nicht mit -u?	v červenci, v září, v prosinici	02 grammatik
+dobrou chut'	guten Appetit!	01
+prosím vás ..	Entschuldigen Sie ... (auf der Strasse jemanden etwas fragen)	01
+Jogurt stojí 10 {\color{red}korun}.	(Das) Joghurt kostet 10 Kronen.	01
+v Jeně	in Jena	02
+ve Vídni	in Wien	02
+tři na druhou	3 zum Quadrat	02
+60 krát 2	60 mal 2	02
+na {\color{red}stanici} ČT1	auf Kanal ČT1	03
+předtím	davor, vor dem (adv., zeitlich)	03
+V kolik hodin je film předtím?	Um vieviel Uhr ist der Film davor?	03
+v devět hodin patnáct večer	um 9:15h abends	03
+Domácí {\color{blue}úkol} je {\color{red}strana} 17, {\color{green}cvičení} 9.	Hausaufgabe ist Seite 17, Aufgabe 9.	03
+sloveso	Verb	03
+Píšete často pohlednice?	Schreiben Sie oft eine Ansichtskarte?	03 Konversation
