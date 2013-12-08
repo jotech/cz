@@ -580,7 +580,7 @@ květen	Mai	03
 červen	Juni	03
 červenec	Juli	03
 srpen	August	03
-á-Verb konjugieren: dělát	já děl-ám, ty děl-áš, on(a/o) děl-á, my děl-áme, vy děl-áte, oni děl-ájí / (Partizip perfekt) děl-ál		03 grammatik
+á-Verb konjugieren: dělát	já děl-ám, ty děl-áš, on(a/o) děl-á, my děl-áme, vy děl-áte, oni děl-ájí / (Partizip perfekt) děl-al		03 grammatik
 Typische Endungen á-Verben	-at, + mít		03 grammatik
 í-Verb konjugieren: rozumět	já rozum-ím, ty rozum-íš, on(a/o) rozum-í, my rozum-íme, vy rozum-íte, oni rozum-í (seltener) rozum-ějí** / (Partizip perfekt) rozumě-l		03 grammatik
 Typische Endungen í-Verben	-et, -ět, -it + jíst, spát, stát		03 grammatik
@@ -593,4 +593,4 @@ Je jedna hodina a dvě minuty.	Es ist ein Uhr zwei. (Singular/plural!)	03 Konver
 Je nula hodin.	Es ist null Uhr.	03 Konversation
 ve dvacet hodin	um zwanzig Uhr	03 Konversation
 Aussprache ě	1. nach b,p,v: [jɛ]. 2. Konsontantenerweichung d,t,n: [jɛ]. 3. nach m: [njɛ]. 3. sonst [ɛ]		01 grammatik
-Aussprache i (nicht í,y,ý)	1. nach d,t,n: [ji]. 2. sonst: [i]		01 grammatik
+Aussprache i (nicht í,y,ý)	1. nach d,t,n Konsonantenerweichung: [ji]. 2. sonst: [i]		01 grammatik
