@@ -199,6 +199,7 @@ a	und	01 Index
 ale	aber	02 Index
 {\color{red}Amerika}, {\color{cyan}Ameri{\v{c}}an}, {\color{red}Ameri{\v{c}}anka}	Amerika, Amerikaner, Amerikanerin	02 Index
 {\color{red}Anglie}, {\color{cyan}Angli{\v{c}}an}, {\color{red}Angli{\v{c}}anka}	England, Engl{\"a}nder, Engl{\"a}nderin	02 Index
+ano	ja (formal)	01 Index Konversation
 asi	wahrscheinlich, wohl (adv.)	02 Index
 {\color{red}babi{\v{c}}ka}	Gro{\ss}mutter	02 Index
 {\color{blue}batoh}	Rucksack (ohne Fremdwort)	02 Index
@@ -206,6 +207,8 @@ b{\'{\i}}l{\'y}	wei{\ss} (adj.)	02 Index adj
 bohat{\'y}	reich (adj.)	02 Index adj
 {\color{cyan}bratr}	Bruder	02 Index
 bu{d'}(to) -- nebo	entweder -- oder	02 Index
+bydlet, bydl{\'{\i}}m (impf.)	wohnen (impf.)	03 Index Verben
+{\color{blue}byt}	Wohnung	03 Index
 b{\'y}t, jsem, byl, bud' (impf.)	sein, ich bin (impf.)	03 03b Index Verben unregelmaessig
 cestovat, cestuju (impf.)	reisen (impf.)	03 03b Index Verben
 cestovn{\'{\i}} {\color{red}kancel{\'a}{\v{r}}}	Reiseb{\"u}ro	03 03b Index
@@ -267,7 +270,7 @@ jeho	sein (possesiv)	02 Index
 jej{\'{\i}}	ihr (possesiv, 3. P. Sg.)	02 Index
 jejich	ihr (possesiv, 3. P. Pl.)	02 Index
 jen / jenom	nur	01 Index
-jestli	wenn, falls (i.S.v. ob)	Index
+jestli	wenn, falls (i.S.v. Frage, ob ...)	03 Index
 jet*, jedu metrem (impf.)	mit der Metro fahren (impf.)	03 03b Index Verben unregelmaessig
 jet*, jedu (autem, vlakem...) (impf.)	(mit dem Auto, Zug...) fahren (impf.)	03 03b Index Verben unregelmaessig
 jet* / jedu, jedeš, jede, jedeme, jedete, jedou / jel / jed' (impf.)	fahren (impf.)	03 03b Index Verben unregelmaessig
@@ -291,7 +294,7 @@ levn{\'y}	preiswert, billig (adj.)	02 Index adj
 {\color{cyan}lid{\'e}}	Leute	02 Index
 {\color{cyan}lidi} (coll.)	Leute (coll.)	02 Index
 ly{\v{z}}ovat, ly{\v{z}}uju (impf.)	Ski laufen (impf.)	03 03b Index Verben
-malovat, maluju (impf.)	malen (impf.)	03 03b Index Verben
+malovat, maluju (2x) (impf.)	malen (Kunstbilder, Wände) (impf.)	03 03b Index Verben
 mal{\'y}	klein (adj.)	02 Index adj
 {\color{red}maminka}	Mutti, Mama	02 Index
 {\color{cyan}mana{\v{z}}er}, {\color{red}mana{\v{z}}erka}	Manager, Managerin	02 Index
@@ -313,8 +316,7 @@ m{\'{\i}}t* strach (impf.)	Angst haben (impf.)	03 03b Index Verben unregelmaessi
 m{\'{\i}}t* svatbu	Hochzeit feiern	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{green}{\v{s}}t{\v{e}}st{\'{\i}} }(impf.)	Gl{\"u}ck haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* volno (impf.)	frei haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* vztek (impf.)	w{\"u}tend sein (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* {\color{red}zlost }(impf.)	Wut haben	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* {\color{red}zlost}, m{\'{\i}}t* vztek (impf.)	w{\"u}tend sein, Wut haben (2x)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{red}{\v{z}}{\'{\i}}ze{\v{n}} }(impf.)	Durst haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t*, m{\'a}m, měl, měj (impf.)	haben(, sollen) (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* dobrou n{\'a}ladu (impf.)	gute Laune haben (impf.)	03 03b Index Verben unregelmaessig
@@ -342,6 +344,7 @@ na ja{\v{r}}e	im Fr{\"u}hling	03 Index
 na podzim	im Herbst	03 Index
 nakupovat, nakupuju (impf.)	einkaufen (impf.)	03 03b Index Verben
 {\color{cyan}n{\'a}{\v{s}}}, {\color{blue}n{\'a}{\v{s}}}, {\color{red}na{\v{s}}e}, {\color{green}na{\v{s}}e}	unser, unser, unsere, unser	02 Index
+ne	nein	01 Index Konversation
 nebo	oder	02 Index
 {\color{red}ned{\v{e}}le}	Sonntag	03 Index
 nejlep{\v{s}}{\'{\i}}	der beste (adj.)	02 Index adj
@@ -354,6 +357,7 @@ nervozn{\'{\i}}	nerv{\"o}s	02 Index adj
 {\color{red}noc}	Nacht	03 Index
 nov{\'y}	neu	02 Index adj
 ob{\v{e}}dvat, ob{\v{e}}dv{\'a}m (impf.)	zu Mittag essen (impf.)	03 03b Index Verben
+odjet*, odjedu (pf.)	abfahren, wegfahren (pf.)	03 Index
 odkud	woher (Fragewort)	02 Index
 odpo{\v{c}}{\'{\i}}vat, odpo{\v{c}}{\'{\i}}v{\'a}m (impf.)	sich ausruhen (impf.)	03 03b Index Verben
 {\color{green}odpoledne}	nachmittag, am Nachmittag	03 Index
@@ -379,6 +383,7 @@ po{\v{c}}{\'{\i}}tat, po{\v{c}}{\'{\i}}t{\'a}m (impf.)	z{\"a}hlen (impf.)	03 Ind
 {\color{blue}pohled} (oder) {\color{red}pohlednice}	Ansichtskarte	03 Index
 {\color{green}poledne}	Mittag (im: am Mittag)	03 Index
 {\color{green}pond{\v{e}}l{\'{\i}}}	Montag	03 Index
+potom	danach (zeitlich) (adv.)	03 Index
 pou{\v{z}}{\'{\i}}vat, pou{\v{z}}{\'{\i}}v{\'a}m (impf.)	verwenden, gebrauchen (impf.)	03 Index
 {\color{red}prababi{\v{c}}ka}	Urgro{\ss}mutter	02 Index
 pracovat, pracuju (impf.)	arbeiten (impf.)	03 03b Index Verben
@@ -391,6 +396,7 @@ pracovit{\'y}	arbeitsam	03 03b Index adj
 {\color{red}profesorka}	Professorin	02 Index
 proto{\v{z}}e	weil	03 Index
 p{\v{r}}{\'{\i}}buzn{\'y} (adj.)	Verwandter	02 Index adj
+p{\v{r}}ijet*, p{\v{r}}ijedu (pf.)	kommen (fahren) (pf.)	03 Index
 p{\v{r}}{\'{\i}}{\v{s}}t{\'{\i}}	n{\"a}chster	03 Index
 {\color{cyan}p{\v{r}}{\'{\i}}tel}	Freund (i.S.v. boyfriend)	02 Index
 {\color{red}p{\v{r}}{\'{\i}}telkyn{\v{e}}}	Freundin (i.S.v. girlfriend)	02 Index
@@ -567,10 +573,10 @@ hrát* tenis	Tennis spielen	03
 hrát* šachy	Schach spielen	03
 hrát* basketbal, volejbal	Basketball, Volleyball spielen	03
 každý den	jeden Tag	03
-když	wenn, falls (Konjunktion)	03 Index
+když	wenn, falls (1: Wenn...dann..; 2: Frage, ob...) (Konjunktion)	03 Index
 používejte obrázky	verwenden Sie / verwendet die Bilder	03
 jet domů	nach Hause fahren	03
-jít do školy	in die Schule gehen	03
+jít do školy (2x)	in die Schule gehen (Schulweg, Schülerdasein)	03
 chodit do školy	die Schule besuchen	03
 prosinec	Dezember	03
 roční {\color{green}období}	Jahreszeiten	03
@@ -605,7 +611,7 @@ Seltene Endungen männlich-belebte Substantive	-a, -e	02 grammatik
 Seltene Endungen männlich-unbelebte Substantive	-a (Ausnahme)	02 grammatik
 3x Seltene Endungen weibliche Substantive	-e (sehr oft), -ie, Konsonant	02 grammatik
 4x Seltene Endungen neutrum Substantive	-í, -e, -ě (nicht sehr oft), -um (Lehnwörter)	02 grammatik
-Welche Monate enden in der Zeitangabe nicht mit -u?	v červenci, v září, v prosinici	02 grammatik
+Welche Monate enden in der Zeitangabe nicht mit -u?	v červenci, v září, v prosinci	02 grammatik
 dobrou chut'	guten Appetit!	01
 prosím vás ..	Entschuldigen Sie ... (auf der Strasse jemanden etwas fragen)	01
 Jogurt stojí 10 {\color{red}korun}.	(Das) Joghurt kostet 10 Kronen.	01
@@ -614,9 +620,10 @@ ve Vídni	in Wien	02
 tři na druhou	3 zum Quadrat	02
 60 krát 2	60 mal 2	02
 na {\color{red}stanici} ČT1	auf Kanal ČT1	03
-předtím	davor, vor dem (adv., zeitlich)	03
+předtím (2x)	davor, vor dem (adv., zeitlich)	03
 V kolik hodin je film předtím?	Um vieviel Uhr ist der Film davor?	03
 v devět hodin patnáct večer	um 9:15h abends	03
 Domácí {\color{blue}úkol} je {\color{red}strana} 17, {\color{green}cvičení} 9.	Hausaufgabe ist Seite 17, Aufgabe 9.	03
-sloveso	Verb	03
+{\color{green}sloveso}	Verb	03
 Píšete často pohlednice?	Schreiben Sie oft eine Ansichtskarte?	03 Konversation
+jo	ja (informell)	01
