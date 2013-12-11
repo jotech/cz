@@ -333,7 +333,7 @@ mlad{\'y}	jung	02 Index adj
 mluvit, mluv{\'{\i}}m (impf.)	sprechen (impf.)	03 03b Index Verben
 {\color{blue}mobil}	Handy, Mobiltelefon	02 Index
 moc	1. viel, 2. sehr (adv.)	02 Index
-moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)	k{\"o}nnen (iSv pouvoir) (impf.)	03 03b Index Verben unregelmaessig
+moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)	k{\"o}nnen, dürfen (iSv pouvoir) (impf.)	03 03b Index Verben unregelmaessig
 {\color{cyan}m{\accent'27u}j}, {\color{blue}m{\accent'27u}j}, {\color{red}moje/m{\'a}}, {\color{green}moje/m{\'e}}	mein, mein, meine, mein	02 Index
 muset, mus{\'{\i}}m (impf.)	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
