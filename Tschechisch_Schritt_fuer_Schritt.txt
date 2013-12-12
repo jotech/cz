@@ -562,7 +562,7 @@ dokončete věty	Beenden Sie den Satz/Beendet den Satz	03
 můžeme	wir können	03 kann
 dělejte otázky	Stellt/Stellen Sie Fragen	03
 {\color{blue}týden}	Woche	03
-rád, ráda, rádo	gern (adj.)	03
+rád, ráda, rádo; rádi (pl.)	gern (adj.)	03
 Petr rád hraje fotbal	Peter spielt gerne Fußball	03
 Změňte věty podle modelu.	Ändern Sie /Ändert die Sätze nach dem Muster	03
 dívat se na televizi	fernsehen	03
@@ -627,3 +627,11 @@ Domácí {\color{blue}úkol} je {\color{red}strana} 17, {\color{green}cvičení}
 {\color{green}sloveso}	Verb	03
 Píšete často pohlednice?	Schreiben Sie oft eine Ansichtskarte?	03 Konversation
 jo	ja (informell)	01
+(Antwort auf "wann?"): In 1998 (2x)	V roce tisíc devět set devadesát osm // V roce devatenáct set devadesát osm	03 Konversation
+(po) celý rok	das ganze Jahr	03
+velikonoce (pl.)	Ostern	03
+Verneinung von "rád, ráda, rádo"	"nerad, nerada, nerado"	03 grammatik
+Wortstellung: "rád" + "Michal se dívá na televizi." (2x)	Michal se (rád) dívá (rád) na televizi.	03 grammatik
+"Bitte bring den Müll runter." nur Antwort: "Ja, gerne"	Rád	03
+Umím lyžovat, ale ted` nemůžu lyžovat, protože je srpen.	Ich kann Ski laufen, aber ich kann jetzt nicht Ski laufen, weil es August ist.	03 grammatik
+Když (jsem nemocný, nemůžu hrát fotbal.)	Wenn (ich krank bin, kann ich nicht Fußball spielen.)	03 grammatik
