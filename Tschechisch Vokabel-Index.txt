@@ -650,7 +650,6 @@ později	später	Index
 Pozdravuj! Pozdravujte!	Sag guten Tag zu...! Sagt guten Tag zu...!	Index
 pozvat*, pozvu (pf.)	einladen (pf.)	Index
 požádat, požádám (pf.)	beantragen, bitten (offiziell) (pf.)	Index
-{\color{red}práce}	Arbeit	Index
 {\color{red}pračka}	Waschmaschine	Index
 praktický	praktisch	Index
 prát*, peru (oblečení) (impf.)	waschen (Kleidung) (impf.)	Index
@@ -676,7 +675,7 @@ prostředkem	durch die Mitte	Index
 prostřední	Mitte	Index
 proti	gegen	Index
 protivný	ungezogen, widerwärtig	Index
-proto	deshalb	Index
+proto	deshalb, darum, daher, deswegen	03 Index
 {\color{red}próza}	Prosa	Index
 {\color{blue}prst}	1. Finger, 2. Zeh	Index
 pršet	regnen	Index
@@ -938,7 +937,6 @@ tvrdý	hart	Index
 typický	typisch	Index
 u	bei	Index
 {\color{green}ubytování}	Unterkunft	Index
-učit se, učím se (impf.)	lernen (impf.)	Index
 {\color{green}údolí}	Tal	Index
 udusit, udusím (pf.)	1. dünsten 2. ersticken (pf.)	Index
 {\color{green}ucho}, pl. uši	Ohr, Ohren	Index
@@ -1126,7 +1124,6 @@ zlý	schlimm, böse	Index
 {\color{blue}zmat\uline{e}k}	Chaos, Unordnung	Index
 zmixovat, zmixuju (impf.)	mixen (impf.) (Duplikat)	Index
 znamenat, znamená (impf.)	bedeuten (impf.)	Index
-{\color{red}známka}	Briefmarke	Index
 znát, znám (impf.)	kennen (impf.)	Index
 zodpovědný	verantwortlich	Index
 zpívat, zpívám (impf.)	singen (impf.)	Index

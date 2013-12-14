@@ -396,7 +396,7 @@ pracovit{\'y}	arbeitsam	03 03b Index adj
 {\color{red}profesorka}	Professorin	02 Index
 proto{\v{z}}e	weil	03 Index
 p{\v{r}}{\'{\i}}buzn{\'y} (adj.)	Verwandter	02 Index adj
-p{\v{r}}ijet*, p{\v{r}}ijedu (pf.)	kommen (fahren) (pf.)	03 Index
+p{\v{r}}ijet*, p{\v{r}}ijedu (pf.)	kommen (i.S.v. fahren) (pf.)	03 Index
 p{\v{r}}{\'{\i}}{\v{s}}t{\'{\i}}	n{\"a}chster	03 Index
 {\color{cyan}p{\v{r}}{\'{\i}}tel}	Freund (i.S.v. boyfriend)	02 Index
 {\color{red}p{\v{r}}{\'{\i}}telkyn{\v{e}}}	Freundin (i.S.v. girlfriend)	02 Index
@@ -473,7 +473,7 @@ um{\v{e}}t*, um{\'{\i}}m (impf.)	k{\"o}nnen (F{\"a}higkeit, iSv savoir) (impf.)	
 v l{\'e}t{\v{e}}	im Sommer	03 Index
 v noci	in der Nacht	03 Index
 v zim{\v{e}}	im Winter	03 Index
-v ned{\v{e}}li	am Sonntag	03 Index
+v neděl\textbf{i}	am Sonntag	03 Index
 v p{\'a}tek	am Freitag	03 Index
 v poledne	am Mittag	03 Index
 v pond{\v{e}}l{\'{\i}}	am Montag	03 Index
@@ -483,7 +483,7 @@ v {\'u}ter{\'y}	am Dienstag	03 Index
 va{\v{r}}it, va{\v{r}}{\'{\i}}m (impf.)	kochen (impf.)	03 03b Index Verben
 {\color{cyan}v{\'a}{\v{s}}}, {\color{blue}v{\'a}{\v{s}}}, {\color{red}va{\v{s}}e}, {\color{green}va{\v{s}}e}	euer, eure, euer (duzen) / Ihr, Ihre, Ihr (Siezen)	02 Index
 ve {\v{c}}tvrtek	am Donnerstag	03 Index
-ve st{\v{r}}edu	am Mittwoch	03 Index
+ve střed\textbf{u}	am Mittwoch	03 Index
 {\color{blue}ve{\v{c}}er}	Abend, am Abend	03 Index
 ve{\v{c}}e{\v{r}}et, ve{\v{c}}e{\v{r}}{\'{\i}}m (impf.)	Abendbrot essen, zu Abend essen (impf.)	03 03b Index Verben
 {\color{cyan}vegetari{\'a}n}	Vegetarier	02 Index
@@ -549,7 +549,7 @@ o {\color{blue}v{\'{\i}}kendu}	am Wochenende	03
 po{\v{c}}{\'{\i}}tejte	Z{\"a}hlt/Z{\"a}hlen Sie	03 Verben
 p{\v{r}}{\'{\i}}{\v{s}}t{\'{\i}} {\color{red}lekce}	n{\"a}chste Lektion	03
 v {\color{red}tabulce}	in der Tabelle	03
-v{\v{s}}echny (pron.-adj.)	alle (pron.-adj.)	03
+v{\v{s}}echny [Nom. pl. m-unbelebt von všechen] (pron.-adj.)	alle (pron.-adj.)	03
 {\color{blue}film}	Film	03
 {\color{blue}listopad}	November	03
 {\color{blue}v{\'y}sledek}	Ergebnis	03
@@ -559,7 +559,7 @@ v{\v{s}}echny (pron.-adj.)	alle (pron.-adj.)	03
 {\color{red}pauza}	Pause	03
 {\color{red}tabulka}	Tabelle	03
 dokončete věty	Beenden Sie den Satz/Beendet den Satz	03
-můžeme	wir können	03 kann
+můžeme	wir können (nous pouvons)	03 kann
 dělejte otázky	Stellt/Stellen Sie Fragen	03
 {\color{blue}týden}	Woche	03
 rád, ráda, rádo; rádi (pl.)	gern (adj.)	03
@@ -592,7 +592,7 @@ květen	Mai	03
 červen	Juni	03
 červenec	Juli	03
 srpen	August	03
-á-Verb konjugieren: dělát	já děl-ám, ty děl-áš, on(a/o) děl-á, my děl-áme, vy děl-áte, oni děl-ájí / (Partizip perfekt) děl-al		03 grammatik
+á-Verb konjugieren: dělat	děl<b>a</b>t / já děl-ám, ty děl-áš, on(a/o) děl-á, my děl-áme, vy děl-áte, oni děl-<b>a</b>jí / (Partizip perfekt) děl-al		03 grammatik
 Typische Endungen á-Verben	-at, + mít		03 grammatik
 í-Verb konjugieren: rozumět	já rozum-ím, ty rozum-íš, on(a/o) rozum-í, my rozum-íme, vy rozum-íte, oni rozum-í (seltener) rozum-ějí** / (Partizip perfekt) rozumě-l		03 grammatik
 Typische Endungen í-Verben	-et, -ět, -it + jíst, spát, stát		03 grammatik
@@ -627,6 +627,22 @@ Domácí {\color{blue}úkol} je {\color{red}strana} 17, {\color{green}cvičení}
 {\color{green}sloveso}	Verb	03
 Píšete často pohlednice?	Schreiben Sie oft eine Ansichtskarte?	03 Konversation
 jo	ja (informell)	01
+Dobrý večer!	Guten Abend!	01 01-4 vorgefertigt
+Dobré ráno!	Guten Morgen!	01 01-5 vorgefertigt
+Dobrou noc!	Gute Nacht!	01 01-6 vorgefertigt
+Nashle!	Wiedersehen!	01 01-8 vorgefertigt
+Velmi dobře.	Sehr gut.	01 01-14 vorgefertigt
+Velmi špatně.	Sehr schlecht.	01 01-17 vorgefertigt
+z Rakouska	aus Österreich	01 01-23 vorgefertigt
+z Francie	aus Frankreich	01 01-25 vorgefertigt
+{\color{blue}lístek} na tramvaj	Straßenbahnkarte	01 01-53 vorgefertigt
+jídlo v restauraci	Essen im Restaurant	01 01-54 vorgefertigt
+{\color{red}známka}	Briefmarke	01 01-56 Index vorgefertigt
+{\color{blue}lístek} na koncert	Konzertkarte	01 01-59 vorgefertigt
+Rakušan, Rakušanka	Österreicher, Österreicherin	02 02-7 vorgefertigt
+blbý, blbá, blbé	dumm, (albern, blöd)	02 02-100 vorgefertigt
+opakovat, opakuju	wiederholen	03b 03b-40 vorgefertigt
+učit se, učím se (impf.)	lernen (i.S.v. Schüler, Selbststudium) (impf.)	02 Index
 (Antwort auf "wann?"): In 1998 (2x)	V roce tisíc devět set devadesát osm // V roce devatenáct set devadesát osm	03 Konversation
 (po) celý rok	das ganze Jahr	03
 velikonoce (pl.)	Ostern	03
