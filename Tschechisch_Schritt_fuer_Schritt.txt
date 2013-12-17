@@ -67,7 +67,7 @@ Zitrone	{\color{blue}citron}	01 Index Lebensmittel decz
 {\color{cyan}amat{\'e}r}	Amateur	01 Index
 {\color{red}ambas{\'a}da}	Botschaft (i.S.v. Diplomatie)	01 Index
 {\color{green}auto}	Auto	01 Index
-{\color{blue}autobus}	Bus	01 Index
+{\color{blue}autobus}; autobusem	Bus; mit dem Bus	01 Index
 {\color{blue}balet}	Ballet	01 Index
 {\color{blue}ban{\'a}n}	Banane	01 Index
 {\color{red}banka}	Bank	01 Index
@@ -200,7 +200,7 @@ ale	aber	02 Index
 {\color{red}Amerika}, {\color{cyan}Ameri{\v{c}}an}, {\color{red}Ameri{\v{c}}anka}	Amerika, Amerikaner, Amerikanerin	02 Index
 {\color{red}Anglie}, {\color{cyan}Angli{\v{c}}an}, {\color{red}Angli{\v{c}}anka}	England, Engl{\"a}nder, Engl{\"a}nderin	02 Index
 ano	ja (formal)	01 Index Konversation
-asi	wahrscheinlich, wohl (adv.)	02 Index
+asi	wahrscheinlich, wohl; ungefähr (adv.)	02 Index
 {\color{red}babi{\v{c}}ka}	Gro{\ss}mutter	02 Index
 {\color{blue}batoh}	Rucksack (ohne Fremdwort)	02 Index
 b{\'{\i}}l{\'y}	wei{\ss} (adj.)	02 Index adj
@@ -272,7 +272,7 @@ jejich	ihr (possesiv, 3. P. Pl.)	02 Index
 jen / jenom	nur	01 Index
 jestli	wenn, falls (i.S.v. Frage, ob ...)	03 Index
 jet*, jedu metrem (impf.)	mit der Metro fahren (impf.)	03 03b Index Verben unregelmaessig
-jet*, jedu (autem, vlakem...) (impf.)	(mit dem Auto, Zug...) fahren (impf.)	03 03b Index Verben unregelmaessig
+jet*, jedu ({\color{green}aut}em, vlakem...) (impf.)	(mit dem Auto, Zug...) fahren (impf.)	03 03b Index Verben unregelmaessig
 jet* / jedu, jedeš, jede, jedeme, jedete, jedou / jel / jed' (impf.)	fahren (impf.)	03 03b Index Verben unregelmaessig
 j{\'{\i}}st*, j{\'{\i}}m, jedl, jez (impf.)	essen (impf.)	03 Index Verben
 jít* / jdu, jdeš, jde, jdeme, jdete, jdou / šel, šla, šli / jdi (impf.)	gehen (impf.)	03 03b Index Verben unregelmaessig
@@ -351,7 +351,6 @@ nejlep{\v{s}}{\'{\i}}	der beste (adj.)	02 Index adj
 n{\v{e}}kdy	irgendwann, manchmal	02 Index
 {\color{green}N{\v{e}}mecko, }{\color{cyan}N{\v{e}}mec}{\color{green}, }{\color{red}N{\v{e}}mka}	Deutschland, Deutscher, Deutsche	02 Index
 {\color{red}nemoc}	Krankheit	02 Index
-{\color{red}nemocnice}	Krankenhaus	02 Index
 nemocn{\'y}	krank (adj.)	02 Index adj
 nervozn{\'{\i}}	nerv{\"o}s	02 Index adj
 {\color{red}noc}	Nacht	03 Index
@@ -504,7 +503,6 @@ z{\'{\i}}tra	morgen	03 Index
 {\color{cyan}zp{\v{e}}v{\'a}k}	S{\"a}nger	02 Index
 {\v{z}}e	1. dass 2. nicht wahr? nicht?	02 Index
 {\color{red}pan{\'{\i}}}	Frau (i.S.v. Frau Meier)	02
-ve {\color{red}{\v{s}}kole}	in der Schule (Schulgeb{\"a}ude)	02
 D{\'{\i}}vaj{\'{\i}} se na fotografie.	Schauen Sie die Photographie an.	02
 modern{\'{\i}}	modern (adj.)	02 adj
 {\color{red}{\v{s}}efka}	Chefin	02
@@ -559,10 +557,10 @@ v{\v{s}}echny [Nom. pl. m-unbelebt von všechen] (pron.-adj.)	alle (pron.-adj.)	
 {\color{red}pauza}	Pause	03
 {\color{red}tabulka}	Tabelle	03
 dokončete věty	Beenden Sie den Satz/Beendet den Satz	03
-můžeme	wir können (nous pouvons)	03 kann
+můžeme	wir können (nous pouvons)	03
 dělejte otázky	Stellt/Stellen Sie Fragen	03
 {\color{blue}týden}	Woche	03
-rád, ráda, rádo; rádi (pl.)	gern (adj.)	03
+rád, ráda, rádo; rádi (pl.) (adj.)	gern (adv.)	03
 Petr rád hraje fotbal	Peter spielt gerne Fußball	03
 Změňte věty podle modelu.	Ändern Sie /Ändert die Sätze nach dem Muster	03
 dívat se na televizi	fernsehen	03
@@ -639,15 +637,43 @@ z Francie	aus Frankreich	01 01-25 vorgefertigt
 jídlo v restauraci	Essen im Restaurant	01 01-54 vorgefertigt
 {\color{red}známka}	Briefmarke	01 01-56 Index vorgefertigt
 {\color{blue}lístek} na koncert	Konzertkarte	01 01-59 vorgefertigt
-Rakušan, Rakušanka	Österreicher, Österreicherin	02 02-7 vorgefertigt
+{\color{green}Rakousko}, {\color{cyan}Rakušan}, {\color{red}Rakušanka}	Österreich, Österreicher, Österreicherin	02 02-7 Index vorgefertigt
 blbý, blbá, blbé	dumm, (albern, blöd)	02 02-100 vorgefertigt
 opakovat, opakuju	wiederholen	03b 03b-40 vorgefertigt
+kde?	wo?	01 Index vorgefertigt
+proč?	warum?	03 06-24 Index vorgefertigt
+Cože?	Was? (Unglauben, Unverständnis)	03 vorgefertigt
+víc	mehr	03 vorgefertigt
+míň	weniger	03 vorgefertigt
+{\color{blue}dopis}, dopisy	Brief, Briefe	03 Index vorgefertigt
+{\color{blue}džus}	Saft	03 Index
+Jde to. / Ujde to.	Es geht so.	01 Index
+každý	jeder	03 Indexn
+líný	faul	03 Index vorgefertigt
+nudný	langweilig	03 Index
+obvykle	gewöhnlich (adv.)	03 Index vorgefertigt
+proto	deshalb, darum, daher, deswegen	03 Index
+smát* se (impf.)	lachen (impf.)	03 Index
+sportovat, sportuju (impf.)	Sport treiben (impf.)	03 Index
 učit se, učím se (impf.)	lernen (i.S.v. Schüler, Selbststudium) (impf.)	02 Index
+unavený	müde	03 Index vorgefertigt
+venku	draußen (adv.)	03 Index
 (Antwort auf "wann?"): In 1998 (2x)	V roce tisíc devět set devadesát osm // V roce devatenáct set devadesát osm	03 Konversation
 (po) celý rok	das ganze Jahr	03
 velikonoce (pl.)	Ostern	03
 Verneinung von "rád, ráda, rádo"	"nerad, nerada, nerado"	03 grammatik
 Wortstellung: "rád" + "Michal se dívá na televizi." (2x)	Michal se (rád) dívá (rád) na televizi.	03 grammatik
 "Bitte bring den Müll runter." nur Antwort: "Ja, gerne"	Rád	03
-Umím lyžovat, ale ted` nemůžu lyžovat, protože je srpen.	Ich kann Ski laufen, aber ich kann jetzt nicht Ski laufen, weil es August ist.	03 grammatik
+Umím lyžovat, ale teď nemůžu lyžovat, protože je srpen.	Ich kann Ski laufen, aber ich kann jetzt nicht Ski laufen, weil es August ist.	03 grammatik
 Když (jsem nemocný, nemůžu hrát fotbal.)	Wenn (ich krank bin, kann ich nicht Fußball spielen.)	03 grammatik
+Petr jde spát.	Petr geht schlafen.	03 Konversation
+Wortstellung Modalverb und eigentliches Verb	Infinitiv direkt nach dem Modalverb, z.B. umí vařit	03 grammatik
+Pít víno je zdravý.	Wein trinken ist gesund. (Wortstellung!)	03 Konversation
+víc než 12 hodin	mehr als 12 Stunden	03
+míň než 8 hodin	weniger als 8 Stunden	03
+5 až 9	5 bis 9	03
+Nepracujete moc?	Arbeitest Du nicht (arg) viel?	03 grammatik
+Ona moc nelyžuje.	Sie fährt nicht viel Ski.	03 grammatik
+Wie macht man's besser: *"nerad nespím"	"rád spím". Die doppelte Negation hebt sich hier auf.	03 grammatik
+o půlnoci	um Mitternacht	03
+Proč jsi večer unavený?	Warum bist Du am Abend müde?	03
