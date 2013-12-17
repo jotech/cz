@@ -19,6 +19,6 @@ Quellen:
 
 (2) "Tschechisch Vokabel-Index.txt" ist genau http://www.czechstepbystep.cz/pdf/slovnik_tsfs.doc (bis auf die Karten in (1))
 
-(3) "Tschechisch vorgefertigt.txt" ist genau  http://www.czechstepbystep.cz/pdf/karticky_all_pdf.rar (einschließlich Karten zusätzlich in (1))
+(3) "Tschechisch vorgefertigt.txt" ist genau  http://www.czechstepbystep.cz/pdf/karticky_all_pdf.rar (bis auf die Karten in  (1) und einige Duplikate)
 
 
