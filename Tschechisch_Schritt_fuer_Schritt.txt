@@ -83,7 +83,7 @@ fajn	toll, super	01 Index
 {\color{cyan}gangster}	Gangster	01 Index
 {\color{red}gorila}	Gorilla	01 Index
 {\color{blue}chaos}	Chaos	01 Index
-{\color{blue}chl{\'e}b }(formal)	Brot (formal)	01 Index
+{\color{blue}chl{\'e}b}	Brot (formal)	01 Index
 {\color{blue}chleba}	Brot	01 Index
 {\color{red}informace}	Information	01 Index
 j{\'a}	ich	01 Index
@@ -316,7 +316,7 @@ m{\'{\i}}t* strach (impf.)	Angst haben (impf.)	03 03b Index Verben unregelmaessi
 m{\'{\i}}t* svatbu	Hochzeit feiern	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{green}{\v{s}}t{\v{e}}st{\'{\i}} }(impf.)	Gl{\"u}ck haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* volno (impf.)	frei haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* {\color{red}zlost}, m{\'{\i}}t* vztek (impf.)	w{\"u}tend sein, Wut haben (2x)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* {\color{red}zlost}, m{\'{\i}}t* {\color{blue}vztek} (impf.)	w{\"u}tend sein, Wut haben (2x)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{red}{\v{z}}{\'{\i}}ze{\v{n}} }(impf.)	Durst haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t*, m{\'a}m, měl, měj (impf.)	haben(, sollen) (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* dobrou n{\'a}ladu (impf.)	gute Laune haben (impf.)	03 03b Index Verben unregelmaessig
@@ -337,7 +337,7 @@ moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / -- (impf.)
 {\color{cyan}m{\accent'27u}j}, {\color{blue}m{\accent'27u}j}, {\color{red}moje/m{\'a}}, {\color{green}moje/m{\'e}}	mein, mein, meine, mein	02 Index
 muset, mus{\'{\i}}m (impf.)	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
-myslet, mysl{\'{\i}}m (impf.)	denken (impf.)	02 Index
+myslet, mysl{\'{\i}}m (impf.)	denken (impf.)	02 Index Verben
 m{\'y}t*, myju, myl, myj (impf.)	waschen (K{\"o}rper, Geschirr) (impf.)	03 03b Index Verben unregelmaessig
 na	auf, an, in	02 Index
 na ja{\v{r}}e	im Fr{\"u}hling	03 Index
@@ -356,10 +356,10 @@ nervozn{\'{\i}}	nerv{\"o}s	02 Index adj
 {\color{red}noc}	Nacht	03 Index
 nov{\'y}	neu	02 Index adj
 ob{\v{e}}dvat, ob{\v{e}}dv{\'a}m (impf.)	zu Mittag essen (impf.)	03 03b Index Verben
-odjet*, odjedu (pf.)	abfahren, wegfahren (pf.)	03 Index
+odjet*, odjedu (pf.)	abfahren, wegfahren (pf.)	03 Index Verben
 odkud	woher (Fragewort)	02 Index
 odpo{\v{c}}{\'{\i}}vat, odpo{\v{c}}{\'{\i}}v{\'a}m (impf.)	sich ausruhen (impf.)	03 03b Index Verben
-{\color{green}odpoledne}	nachmittag, am Nachmittag	03 Index
+{\color{green}odpoledne}	Nachmittag, am Nachmittag	03 Index
 opravdu	wirklich (adv.)	02 Index
 {\color{cyan}optimista}, {\color{red}optimistka}	Optimist/in	02 Index
 optimistick{\'y}	optimistisch	02 Index adj
@@ -377,13 +377,13 @@ pesimistick{\'y}	pessimistisch	02 Index adj
 pít* / piju, piješ, pije, pijeme, pijete, pijou / pil / pij (impf.)	trinken (impf.)	03 03b Index Verben unregelmaessig
 plavat* / plavu, plaveš, plave, plaveme, plavete, plavou / plaval / plav (impf.)	schwimmen (impf.)	03 03b Index Verben unregelmaessig
 {\color{blue}po{\v{c}}{\'{\i}}ta{\v{c}}}	Computer	02 Index
-po{\v{c}}{\'{\i}}tat, po{\v{c}}{\'{\i}}t{\'a}m (impf.)	z{\"a}hlen (impf.)	03 Index
+po{\v{c}}{\'{\i}}tat, po{\v{c}}{\'{\i}}t{\'a}m (impf.)	z{\"a}hlen (impf.)	03 Index Verben
 {\color{blue}podzim}	Herbst	03 Index
 {\color{blue}pohled} (oder) {\color{red}pohlednice}	Ansichtskarte	03 Index
 {\color{green}poledne}	Mittag (im: am Mittag)	03 Index
 {\color{green}pond{\v{e}}l{\'{\i}}}	Montag	03 Index
 potom	danach (zeitlich) (adv.)	03 Index
-pou{\v{z}}{\'{\i}}vat, pou{\v{z}}{\'{\i}}v{\'a}m (impf.)	verwenden, gebrauchen (impf.)	03 Index
+pou{\v{z}}{\'{\i}}vat, pou{\v{z}}{\'{\i}}v{\'a}m (impf.)	verwenden, gebrauchen (impf.)	03 Index Verben
 {\color{red}prababi{\v{c}}ka}	Urgro{\ss}mutter	02 Index
 pracovat, pracuju (impf.)	arbeiten (impf.)	03 03b Index Verben
 pracovat, pracuju na po{\v{c}}{\'{\i}}ta{\v{c}}i (impf.)	am Computer arbeiten (impf.)	02 Index Verben
@@ -395,7 +395,7 @@ pracovit{\'y}	arbeitsam	03 03b Index adj
 {\color{red}profesorka}	Professorin	02 Index
 proto{\v{z}}e	weil	03 Index
 p{\v{r}}{\'{\i}}buzn{\'y} (adj.)	Verwandter	02 Index adj
-p{\v{r}}ijet*, p{\v{r}}ijedu (pf.)	kommen (i.S.v. fahren) (pf.)	03 Index
+p{\v{r}}ijet*, p{\v{r}}ijedu (pf.)	kommen (i.S.v. fahren) (pf.)	03 Index Verben
 p{\v{r}}{\'{\i}}{\v{s}}t{\'{\i}}	n{\"a}chster	03 Index
 {\color{cyan}p{\v{r}}{\'{\i}}tel}	Freund (i.S.v. boyfriend)	02 Index
 {\color{red}p{\v{r}}{\'{\i}}telkyn{\v{e}}}	Freundin (i.S.v. girlfriend)	02 Index
@@ -641,7 +641,7 @@ jídlo v restauraci	Essen im Restaurant	01 01-54 vorgefertigt
 blbý, blbá, blbé	dumm, (albern, blöd)	02 02-100 vorgefertigt
 opakovat, opakuju	wiederholen	03b 03b-40 vorgefertigt
 {\color{green}divadlo} // \textbf{v} divadl\textbf{e}	Theater // im Theater	04 04-1 Index vorgefertigt
-dům, domy (m.) // \textbf{v} dom\textbf{ě}	Haus, Häuser // im Haus	04 04-2 vorgefertigt
+{\color{blue}dům}, domy // \textbf{v} dom\textbf{ě}	Haus, Häuser // im Haus	04 04-2 vorgefertigt
 doma	zu Hause (adv.)	04 04-3 Index vorgefertigt
 {\color{red}hora}, hory // \textbf{na} hor\textbf{ách}	Berg, Berge // in den Bergen	04 04-4 Index vorgefertigt
 {\color{red}hospoda} // \textbf{v} hospod\textbf{ě}	Kneipe/Bierstube/Gasthaus // im Gasthaus/...	04 04-5 Index vorgefertigt
@@ -713,10 +713,10 @@ oblíbený	beliebt, Lieblings-	04 Index vorgefertigt
 obvykle	gewöhnlich (adv.)	03 Index vorgefertigt
 {\color{red}práce} // \textbf{v} práci	Arbeit // in der Arbeit	04 04-17 Index vorgefertigt
 proto	deshalb, darum, daher, deswegen	03 Index
-smát* se (impf.)	lachen (impf.)	03 Index
-sportovat, sportuju (impf.)	Sport treiben (impf.)	03 Index
+smát* se, směju se, smál se, směj se (impf.)	lachen (impf.)	03 Index Verben
+sportovat, sportuju (impf.)	Sport treiben (impf.)	03 Index Verben
 tam (Adverb)	dort, dorthin	04 04-36 Index vorgefertigt
-učit se, učím se (impf.)	lernen (i.S.v. Schüler, Selbststudium) (impf.)	02 Index
+učit se, učím se (impf.)	lernen (i.S.v. Schüler, Selbststudium) (impf.)	02 Index Verben
 unavený	müde	03 Index vorgefertigt
 venku	draußen (adv.)	03 Index
 vlevo, nalevo	links (Adverb) (2x)	04 Index vorgefertigt
@@ -733,7 +733,7 @@ Umím lyžovat, ale teď nemůžu lyžovat, protože je srpen.	Ich kann Ski lauf
 Když (jsem nemocný, nemůžu hrát fotbal.)	Wenn (ich krank bin, kann ich nicht Fußball spielen.)	03 grammatik
 Petr jde spát.	Petr geht schlafen.	03 Konversation
 Wortstellung Modalverb und eigentliches Verb	Infinitiv direkt nach dem Modalverb, z.B. umí vařit	03 grammatik
-Pít víno je zdravý.	Wein trinken ist gesund. (Wortstellung!)	03 Konversation
+Pít víno je zdravé.	Wein trinken ist gesund. (Wortstellung!)	03 Konversation
 víc než 12 hodin	mehr als 12 Stunden	03
 míň než 8 hodin	weniger als 8 Stunden	03
 5 až 9	5 bis 9	03
