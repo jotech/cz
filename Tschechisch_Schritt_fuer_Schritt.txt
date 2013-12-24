@@ -432,7 +432,7 @@ star{\v{s}}{\'{\i}}	{\"a}lter	02 Index
 star{\'y}	alt (Gegenst{\"a}nde und Personen)	02 Index adj
 stra{\v{s}}n{\v{e}}	furchtbar (adv.)	02 Index
 stra{\v{s}}n{\'y}	furchtbar (adj.)	02 Index adj
-{\color{cyan}strejda} (coll.)	Onkel (coll.)	02 Index
+{\color{cyan}strejda}	Onkel (coll.)	02 Index
 {\color{cyan}str{\'y}{\v{c}}\uline{e}k}	Onkel (z.B. innerhalb der Familie)	02 Index
 {\color{red}st{\v{r}}eda}	Mittwoch	03 Index
 studen{\'y} (adj.)	kalt (adj.)	02 Index adj
@@ -692,7 +692,7 @@ chtít + A (impf.) // chc\textbf{i}, chceš, chce, chceme, chcete, chtějí / ch
 Hodí se ti to? // Hodí se Vám to?	Passt dir/Ihnen das? Ist dir/Ihnen das recht? (Termin)	04 04-80 Konversation vorgefertigt
 {\color{red}angličtina}	Englisch (i.S.v. Sprache)	04 vorgefertigt
 {\color{red}čeština}	Tschechisch (Sprache)	04 vorgefertigt
-slyšet,&nbsp;slyším (impf.)	hören (i.S.v. "hear", nicht "listen")	04 Verben vorgefertigt
+slyšet, slyším (impf.)	hören (i.S.v. "hear", nicht "listen")	04 Verben vorgefertigt
 proč?	warum?	03 06-24 Index vorgefertigt
 {\color{red}náhoda}	Zufall	04 Index vorgefertigt
 správný, -á, -é	richtig	04 vorgefertigt
@@ -701,14 +701,14 @@ jet [metrem] {\color{green}áčkem}	mit der [U-Bahn-](Linie) A fahren	04 index v
 {\color{blue}strom}	Baum	04 vorgefertigt
 Cože?	Was? (Unglauben, Unverständnis)	03 vorgefertigt
 z / ze (+2.F.)	aus, von	04 Index vorgefertigt
-najít* // najdu, najdeš, najde, najdeme, najdete, najdou // našel/našla/našlo/našli&nbsp;&nbsp;(pf.)	finden (pf.)	04 Index vorgefertigt
+najít* // najdu, najdeš, najde, najdeme, najdete, najdou // našel/našla/našlo/našli (pf.)	finden (pf.)	04 Index vorgefertigt
 pamatovat si	sich erinnern an	04 vorgefertigt
 víc	mehr	03 vorgefertigt
 míň	weniger	03 vorgefertigt
 {\color{blue}stromeč\uline{e}k}, (genitiv:) strome\textbf{čku}	Weihnachtsbaum	04 vorgefertigt
 {\color{cyan}princ}	Prinz	04 vorgefertigt
 {\color{red}princezna}	Prinzessin	04 vorgefertigt
-hádat,&nbsp;hádám (impf.)	raten	04 vorgefertigt
+hádat, hádám (impf.)	raten	04 vorgefertigt
 haló	hallo (nur am Telefon)	04 vorgefertigt
 hodí se mi to	mir passt das (Termin)	04 Konversation vorgefertigt
 {\color{cyan}obchodník}	Kaufmann, Geschäftsmann	04 19-42 vorgefertigt
@@ -782,17 +782,16 @@ Ona moc nelyžuje.	Sie fährt nicht viel Ski.	03 grammatik
 Wie macht man's besser: *"nerad nespím"	"rád spím". Die doppelte Negation hebt sich hier auf.	03 grammatik
 o půlnoci	um Mitternacht	03
 Proč jsi večer unavený?	Warum bist Du am Abend müde?	03
-spojit,&nbsp;spojím (impf.?)	vereinigen, verbinden (impf.?)	04 Verben
+spojit, spojím (impf.?)	vereinigen, verbinden (impf.?)	04 Verben
 Jak je to daleko?	Wie weit ist das?	04 Konversation
 {\color{blue}penzion}	Pension (i.S.v. Unterkunft)	04
 telefonní	Telefon- (adj.)	04
 formální	formal (i.S.v. Sprachebene, Bildung) (adj)	04 adj
-seřadit,&nbsp;seřadím (impf.?)	ordnen (impf.?)	04 Verben
-<div>reagovat,&nbsp;reaguju</div>	reagieren, antworten	04 Verben
+seřadit, seřadím (impf.?)	ordnen (impf.?)	04 Verben
 napřiklad	zum Beispiel (adv.)	04
 pojďte dál	komm rein!	04
 {\color{red}organizace}	Organisation	04
-fungovat,&nbsp;fungugu	betreiben, funktionieren	04 Verben
+fungovat, fungugu	betreiben, funktionieren	04 Verben
 {\color{green}misto}	Platz (i.S.v. Situation, Stätte, Raum)	04
 Veselé Vánoce a sťastný nový rok!	Frohe Weihnachten und frohes neues Jahr!	04 Konversation
 sťastný	glücklich (adj.)	04 adj
@@ -804,7 +803,8 @@ Dole je řeka.	Ein Fluss ist unten. (Wortstellung)	04 grammatik
 {\color{blue}kvíz}	Quizz	04
 {\color{red}reakce}	Reaktion(, Antwort)	04
 zvýrazněný	highlighted (adj.)	04
-vyškrtnout,&nbsp;vyškrtnu (pf.?)	durchstreichen (pf.?)	04 Verben
-patřit,&nbsp;patřím (impf.?)	dazugehören (impf.?)	04 Verben
+vyškrtnout, vyškrtnu (pf.?)	durchstreichen (pf.?)	04 Verben
+patřit, patřím (impf.?)	dazugehören (impf.?)	04 Verben
 {\color{red}mapa}	Landkarte	04
 {\color{cyan}cizinec}	Fremder	04
+reagovat, reaguju (2x)	reagieren, antworten	04 verben
