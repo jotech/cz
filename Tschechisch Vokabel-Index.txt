@@ -1,9 +1,7 @@
 a tak	und so	Index
-áčkem	mit der Linie A	Index
 {\color{green}áčko}	Linie A	Index
 ačkoliv	obwohl (Duplikat)	Index
 {\color{blue}Afghánistán}, {\color{cyan}Afghán\uline{e}c}, {\color{red}Afghánka}	Afghanistan, Afghane, Afghanin	Index
-{\color{red}Afrika}, {\color{cyan}Afričan}, {\color{red}Afričanka}	Afrika, Afrikaner, Afrikanerin	Index
 ach jo	ach ja	Index
 {\color{red}alergie}	Allergie	Index
 alimenty	Alimente	Index
@@ -13,26 +11,22 @@ ananasový (adj.)	Ananas-	Index
 ani -- ani	weder - noch	Index
 ani	kein (Duplikat)	Index
 {\color{red}Argentina}, {\color{cyan}Argentin\uline{e}c}, {\color{red} Argentinka}	Argentinien, Argentinien/Argentinierin	Index
-{\color{red}Asie}, {\color{cyan}Asiat}, {\color{red}Asiatka}	Asien, Asiat, Asiatin	Index
 {\color{red}Austrálie}, {\color{cyan}Australan}, {\color{red}Australanka}	Australien, Australier, Australierin	Index
 avšak	obwohl (Duplikat)	Index
 až	1. wenn 2. bis	Index
 {\color{blue}balík}	Paket	Index
-balit, balím (impf.)	packen (impf.)	Index
+balit, balím (impf.)	packen (impf.)	Index Verben
 {\color{red}bankovka}	Banknote	Index
 bankovní	Bank-	Index
-{\color{blue}barák} (coll.)	Haus (coll.)	Index
 {\color{cyan}baron}, {\color{red}baronka}	Baron, Baroness	Index
-bát se, bojím se (impf.)	sich fürchten (impf.)	Index
+bát se, bojím se (impf.)	sich fürchten (impf.)	Index Verben
 {\color{red}baterie}	Batterie	Index
 Baví mě to.	Das macht mir Spaß.	Index
-bavit se, bavím se (impf.)	sich unterhalten (impf.) (Duplikat)	Index
-bavit, bavím (impf.)	jmdn. unterhalten (impf.)	Index
-{\color{blue}bazén}	Schwimmbad, -becken	Index
+bavit se, bavím se (impf.)	sich unterhalten (impf.) (Duplikat)	Index Verben
+bavit, bavím (impf.)	jmdn. unterhalten (impf.)	Index Verben
 {\color{red}bažina}	Sumpf	Index
-béčkem	mit der Linie B	Index
 {\color{green}béčko}	Linie B	Index
-běhat, běhám (impf.)	laufen (impf.)	Index
+běhat, běhám (impf.)	laufen (impf.)	Index Verben
 během	während	Index
 {\color{red}Belgie}, {\color{cyan}Belgičan}, {\color{red}Belgičanka}	Belgien, Belgier, Belgierin	Index
 {\color{green}Bělorusko}, {\color{cyan}Bělorus}, {\color{red}Běloruska}	Belarus, Belarusse, Belarussin	Index
@@ -42,8 +36,7 @@ Běž pryč!	Geh weg!	Index
 bít	schlagen	Index
 {\color{red}blůza}	Bluse (Fremdwort)	Index
 blýskat se: Blýská se.	Es blitzt.	Index
-bohužel	leider	Index
-bolet, bolí (impf.)	weh tun, es tut weh (impf.)	Index
+bolet, bolí (impf.)	weh tun, es tut weh (impf.)	Index Verben
 Bolí mě hlava.	Ich habe Kopfschmerzen.	Index
 Bolí mě v krku.	Ich habe Halsschmerzen.	Index
 {\color{red}bota}, boty	Schuh, Schuhe	Index
@@ -51,8 +44,8 @@ Bolí mě v krku.	Ich habe Halsschmerzen.	Index
 {\color{blue}brambor}, brambory	Kartoffel, Kartoffeln	Index
 bramborová {\color{red}polévka}	Kartoffelsuppe	Index
 bramborový {\color{blue}salát}	Kartoffelsalat	Index
-brát* si, beru si (impf.)	1. nehmen 2. heiraten (impf.)	Index
-brát, beru (impf.)	nehmen (impf.)	Index
+brát* si, beru si (impf.)	1. nehmen 2. heiraten (impf.)	Index Verben
+brát, beru (impf.)	nehmen (impf.)	Index Verben
 {\color{red}Brazílie}, {\color{cyan}Brazilec}, {\color{red}Brazilka}	Brasilien, Brasilianer, Brasilianerin	Index
 bruslit/zabruslit si	Schlittschuh laufen	Index
 {\color{red}brýle }pl.	Brille	Index
@@ -68,25 +61,22 @@ být* vdaná za	verheiratet sein mit (Frau)	Index
 být* zamilovaný	verliebt sein	Index
 být* zasnoubený s	verlobt sein mit	Index
 být* ženatý s	verheiratet sein mit (Mann)	Index
-céčkem	mit der Linie C	Index
 {\color{green}céčko}	die Linie C	Index
 {\color{green}cédé} / {\color{green}cédéčko}	CD	Index
 celý	ganz	Index
 {\color{red}cena}	Preis	Index
-{\color{green}centrum}	Zentrum	Index
 {\color{red}cesta}	Weg, Reise	Index
 {\color{red}cigareta}	Zigarette	Index
-cítit, cítím (impf.)	fühlen (impf.)	Index
+cítit, cítím (impf.)	fühlen (impf.)	Index Verben
 {\color{blue}citron}	Zitrone	Index
 {\color{red}civilizace}	Zivilisation	Index
 ctižádostivý	ehrgeizig	Index
-{\color{red}cukrárna}	Konditorei	Index
 {\color{green}cukroví}	Weihnachtsplätzchen	Index
-cvičit, cvičím (impf.)	üben, Gymnastik machen (impf.)	Index
+cvičit, cvičím (impf.)	üben, Gymnastik machen (impf.)	Index Verben
 {\color{blue}čas}	Zeit	Index
 častěji	öfter	Index
 čekat {\color{green}dítě}, čekám {\color{green}dítě}	ein Kind erwarten	Index
-čekat, čekám na (impf.)	warten (impf.)	Index
+čekat, čekám na (impf.)	warten (impf.)	Index Verben
 {\color{blue}česnek}	Knoblauch	Index
 česnekový	Knoblauch-	Index
 {\color{red}Čína, }{\color{cyan}Číňan}{\color{red}, Číňanka}	China, Chinese, Chinesin	Index
@@ -98,9 +88,9 @@ cvičit, cvičím (impf.)	üben, Gymnastik machen (impf.)	Index
 Dále!	Herein!	Index
 {\color{green}Dánsko}, {\color{cyan}Dán}, {\color{red}Dánka}	Dänemark, Däne, Dänin	Index
 {\color{blue}dár\uline{e}k}	Geschenk	Index
-dát si, dám si (pf.)	nehmen (beim Bestellen im Restaurant) (pf.)	Index
+dát si, dám si (pf.)	nehmen (beim Bestellen im Restaurant) (pf.)	Index Verben
 {\color{green}datum}	Datum	Index
-dávat, dávám (impf.)	geben (impf.)	Index
+dávat, dávám (impf.)	geben (impf.)	Index Verben
 Dávej na sebe pozor.	Gib auf Dich acht.	Index
 Dávej pozor!	Pass auf!	Index
 Dělej! Dělejte!	Beeil dich! Beeilt euch!	Index
@@ -124,25 +114,24 @@ doleva	nach links	Index
 dolů	nach unten	Index
 domů	nach Hause	Index
 domy pl.	Häuser	Index
-doplnit, doplním (pf.)	ergänzen, vervollständigen (pf.)	Index
 doprava	nach rechts (Duplikat)	Index
 {\color{red}doprava}	Verkehr, Transport	Index
 doprostřed	in die Mitte	Index
 dopředu	nach vorn	Index
-dostat*, dostanu (pf.)	bekommen, erhalten (pf.)	Index
-dostávat, dostávám (impf.)	bekommen, erhalten (impf.)	Index
+dostat*, dostanu (pf.)	bekommen, erhalten (pf.)	Index Verben
+dostávat, dostávám (impf.)	bekommen, erhalten (impf.)	Index Verben
 {\color{blue}dostih}	Pferderennen	Index
-doufat, doufám (impf.)	hoffen (impf.)	Index
+doufat, doufám (impf.)	hoffen (impf.)	Index Verben
 dovnitř	nach drinnen	Index
 dovolená adj.	Urlaub	Index
-dovolit, dovolím (pf.)	erlauben (pf.)	Index
-dovolovat, dovoluju (impf.)	erlauben (impf.)	Index
+dovolit, dovolím (pf.)	erlauben (pf.)	Index Verben
+dovolovat, dovoluju (impf.)	erlauben (impf.)	Index Verben
 dozadu	nach hinten	Index
 {\color{red}droga}	Droge	Index
 druhý	der zweite	Index
 družstevní	Genossenschafts-	Index
 {\color{blue}důchod}: být* v důchodu	Rente: in Rente sein	Index
-dusit, dusím (impf.)	1. dünsten 2. würgen (impf.)	Index
+dusit, dusím (impf.)	1. dünsten 2. würgen (impf.)	Index Verben
 {\color{cyan}dva}/{\color{blue}dva,} {\color{red}dvě}/{\color{green}dvě}	zwei	Index
 dvakrát	zweimal	Index
 {\color{red}dveře} pl.	Tür	Index
@@ -155,19 +144,17 @@ egoistický	egotistisch	Index
 {\color{red}egoistka}	Egoistin	Index
 {\color{blue}Egypt}, {\color{cyan}Egypťan}, {\color{red}Egypťanka}	Ägypten,Ägypter, Ägypterin	Index
 {\color{cyan}ekonom}, {\color{red}ekonomka}	Kaufmann/-frau, Betriebswirt/-in	Index
-emigrovat, emigruju (impf.)	emigrieren (impf.)	Index
+emigrovat, emigruju (impf.)	emigrieren (impf.)	Index Verben
 {\color{red}esemeska} / {\color{red}textovka } (coll.)	SMS (coll.)	Index
 {\color{green}Estonsko}, {\color{cyan}Eston\uline{e}c}, {\color{red}Estonka}	Estland, Este, Estin	Index
 {\color{red}Evropa}, {\color{cyan}Evropan}, {\color{red}Evropanka}	Europa, Europäer, Europäerin	Index
-fakt	echt	Index
 fialový	violett	Index
 filozofický	philosophisch	Index
 {\color{green}Finsko}, {\color{cyan}Fin}, {\color{red}Finka}	Finland, Finne, Finnin	Index
-{\color{red}firma}	Firma	Index
 {\color{red}forma }na pečení	Backform	Index
 {\color{cyan}fotograf}, {\color{red}fotografka}	Fotograf, Fotografin	Index
 {\color{red}fotografie}	Fotografie	Index
-foukat, foukám (impf.)	blasen (impf.)	Index
+foukat, foukám (impf.)	blasen (impf.)	Index Verben
 {\color{red}Francie}, {\color{cyan}Francouz}{\color{red}, Francouzka}	Frankreich, Franzose, Französin	Index
 {\color{red}freska}	Fresko	Index
 fyzika	Physik	Index
@@ -175,11 +162,11 @@ fyzika	Physik	Index
 {\color{red}generace}	Generation	Index
 gramatický	grammatisch	Index
 {\color{red}gramatika}	Grammatik	Index
-grilovat, griluju (impf.)	grillen (impf.)	Index
+grilovat, griluju (impf.)	grillen (impf.)	Index Verben
 {\color{blue}guláš}	Gulasch	Index
 gulášová {\color{red}polévka}	Gulaschsuppe	Index
 gulášový	Gulasch-	Index
-hádat se, hádám se s (impf.)	sich streiten mit (impf.)	Index
+hádat se, hádám se s (impf.)	sich streiten mit (impf.)	Index Verben
 {\color{red}halenka}	Bluse (ohne Fremdwort)	Index
 hele!	he!	Index
 {\color{red}historie}	Geschichte	Index
@@ -187,7 +174,7 @@ hele!	he!	Index
 {\color{red}hlava}	Kopf, Haupt	Index
 hlavní	Haupt-	Index
 hlavní {\color{green}jídlo}	Hauptgericht	Index
-hledat, hledám (impf.)	suchen (impf.)	Index
+hledat, hledám (impf.)	suchen (impf.)	Index Verben
 hnědý	braun	Index
 hodně	viel	Index
 hodný	lieb, nett	Index
@@ -205,7 +192,7 @@ hovězí {\color{red}polévka}	Rinderbrühe	Index
 {\color{blue}hranol\uline{e}k}, hranolky	Pommes frite, Pomme frites	Index
 {\color{blue}hrn\uline{e}c}	Topf	Index
 hruškový (adj.)	Birnen-	Index
-hřmít*, hřmím (impf.)	donnern (impf.)	Index
+hřmít*, hřmím (impf.)	donnern (impf.)	Index Verben
 {\color{red}hudba}	Musik	Index
 humanistický	humanistisch	Index
 {\color{red}chata}	Hütte, Wochenendhaus	Index
@@ -213,8 +200,8 @@ humanistický	humanistisch	Index
 {\color{blue}chlup}	Haar (Körper, Tier)	Index
 {\color{green}Chorvatsko}, {\color{cyan}Chorvat}, {\color{red}Chorvatka}	Kroatien, Kroate, Kroatin	Index
 {\color{red}chvíle}	Moment, Weile	Index
-chytat, chytám (impf.)	fangen (impf.)	Index
-chytit, chytím (pf.)	fangen (pf.)	Index
+chytat, chytám (impf.)	fangen (impf.)	Index Verben
+chytit, chytím (pf.)	fangen (pf.)	Index Verben
 i	auch, und auch	Index
 i když	auch wenn	Index
 {\color{red}Indie}, {\color{cyan}Ind}, {\color{red}Indka}	Indien, Inder, Inderin	Index
@@ -242,7 +229,7 @@ jezdit -- jet* na kole	Fahrrad fahren	Index Verben unregelmaessig
 jezdit -- jet* na kolečkových bruslích	Inline skates fahren	Index Verben unregelmaessig
 jezdit -- jet* na lodi	Boot fahren	Index Verben unregelmaessig
 jezdit -- jet* na skatebordu (na skejtu)	Skateboard fahren	Index Verben unregelmaessig
-jezdit, jezdím (impf.)	fahen (impf.)	Index
+jezdit, jezdím (impf.)	fahen (impf.)	Index Verben
 {\color{green}jezero}	See	Index
 jídelní {\color{blue}líst\uline{e}k}	Speisekarte	Index
 {\color{blue}jih}	Süden	Index
@@ -287,7 +274,7 @@ kolem	vorbei	Index
 {\color{blue}kompromis}	Kompromiss	Index
 {\color{blue}koňak}	Cognac	Index
 koně (pl.)	Pferde	Index
-kontrolovat, kontroluju (impf.)	kontrollieren (impf.)	Index
+kontrolovat, kontroluju (impf.)	kontrollieren (impf.)	Index Verben
 konzervativní	konservativ	Index
 {\color{red}konzultace}	Konsultation, Sprechstunde	Index
 {\color{blue}kop\uline{e}c}	Hügel	Index
@@ -295,19 +282,19 @@ konzervativní	konservativ	Index
 {\color{blue}kostým}	Kostüm	Index
 {\color{blue}košík}	Körbchen, Korb	Index
 {\color{red}košile}	Hemd	Index
-koupat* se, koupu se (impf.)	baden (impf.)	Index
+koupat* se, koupu se (impf.)	baden (impf.)	Index Verben
 {\color{red}koupelna}	Bad, Badezimmer	Index
-koupit, koupím (pf.)	kaufen (pf.)	Index
+koupit, koupím (pf.)	kaufen (pf.)	Index Verben
 {\color{blue}kout}	Ort, Ecke	Index
 {\color{blue}kožich}	Pelz	Index
 kraj	1. Bezirk, Region 2. Rand	Index
-krájet, krájím (impf.)	schneiden (impf.)	Index
+krájet, krájím (impf.)	schneiden (impf.)	Index Verben
 {\color{cyan}král}	König	Index
 {\color{red}královna}	Königin	Index
-krást*, kradu (impf.)	stehlen (impf.)	Index
+krást*, kradu (impf.)	stehlen (impf.)	Index Verben
 krátký	kurz	Index
 {\color{red}kravata}	Kravatte, Schlips	Index
-kreslit, kreslím (impf.)	zeichnen (impf.)	Index
+kreslit, kreslím (impf.)	zeichnen (impf.)	Index Verben
 {\color{blue}krk}	Hals	Index
 {\color{red}kroketa}, krokety	Krokette, Kroketten	Index
 kromě	außer	Index
@@ -322,7 +309,7 @@ kudy	wo entlang	Index
 kuchyňský {\color{blue}kout}	Kochecke, offene Küche	Index
 {\color{cyan}kůň}, pl. koně	Pferd, Pferde	Index
 Kup to! Kupte to!	Kauf/kauft das!	Index
-kupovat, kupuju (impf.)	kaufen (impf.)	Index
+kupovat, kupuju (impf.)	kaufen (impf.)	Index Verben
 kuřata	Hühner	Index
 {\color{green}kuře}	Huhn	Index
 kuřecí (adj.)	Hühner-	Index
@@ -340,10 +327,10 @@ lepší	besser	Index
 {\color{blue}les}	Wald	Index
 {\color{red}letenka}	Flugschein, -ticket	Index
 lézt*, lezu na skály (impf.)	Bergsteigen, Klettern (impf.)	Index
-lhát*, lžu (impf.)	lügen (impf.)	Index
+lhát*, lžu (impf.)	lügen (impf.)	Index Verben
 {\color{red}linka}	Telefonleitung	Index
 {\color{blue}líst\uline{e}k}	Ticket	Index
-lít*, liju (impf.)	gießen (impf.)	Index
+lít*, liju (impf.)	gießen (impf.)	Index Verben
 {\color{red}Litva}, {\color{cyan}Litev\uline{e}c}, {\color{red}Litevka}	Litauen, Litauer, Litauerin	Index
 {\color{red}loď}	Boot, Schiff	Index
 {\color{red}lokalita}	Standort, Ort, Anlage	Index
@@ -352,7 +339,7 @@ lít*, liju (impf.)	gießen (impf.)	Index
 {\color{green}Lotyšsko}, {\color{cyan}Lotyš}, {\color{red}Lotyška}	Lettland, Lette, Lettin	Index
 {\color{red}ložnice}	Schlafzimmer	Index
 luštit, luštím křížovku (impf.)	ein Kreuzworträtsel machen (impf.)	Index
-luxovat, luxuju (impf.)	staubsaugen (impf.)	Index
+luxovat, luxuju (impf.)	staubsaugen (impf.)	Index Verben
 {\color{red}lžíce}	Suppenlöffel	Index
 {\color{red}lžička}	Teelöffel	Index
 {\color{green}Maďarsko}, {\color{cyan}Maďar}, {\color{red}Maďarka}	Ungarn, Ungar, Ungarin	Index
@@ -364,20 +351,20 @@ maturovat, maturuju	das Abitur machen	Index
 maximálně	maximal	Index
 med	Honig	Index
 měkký	weich	Index
-měřit, měřím (impf.)	messen (impf.)	Index
+měřit, měřím (impf.)	messen (impf.)	Index Verben
 {\color{blue}metr}	Meter	Index
 {\color{green}Mexiko}, {\color{cyan}Mexičan}, {\color{red}Mexičanka}	Mexiko, Mexikaner, Mexikanerin	Index
 mezi	1. zwischen 2. unter	Index
-míchat, míchám (impf.)	mischen (impf.)	Index
+míchat, míchám (impf.)	mischen (impf.)	Index Verben
 {\color{red}mikina}	Sweatshirt	Index
-milovat se, miluju se (impf.)	sich lieben (impf.)	Index
-milovat, miluju (impf.)	lieben (impf.)	Index
+milovat se, miluju se (impf.)	sich lieben (impf.)	Index Verben
+milovat, miluju (impf.)	lieben (impf.)	Index Verben
 milý	lieb	Index
 minulý	vergangener	Index
 {\color{red}minuta}	Minute	Index
 {\color{red}místnost}	Raum	Index
 {\color{green}místo}	Ort	Index
-mixovat, mixuju (impf.)	mixen (impf.) (Duplikat)	Index
+mixovat, mixuju (impf.)	mixen (impf.) (Duplikat)	Index Verben
 {\color{cyan}model}, {\color{red}modelka}	Modell	Index
 modrý	blau	Index
 mokrý	nass	Index
@@ -385,46 +372,42 @@ možný	möglich	Index
 mrznout*, mrznu	frieren	Index
 my	wir	Index
 na univerzitě	an der Universität	Index
-nabídnout*, nabídnu (pf.)	anbieten (pf.)	Index
-nabízet, nabízím (impf.)	anbieten (impf.)	Index
+nabídnout*, nabídnu (pf.)	anbieten (pf.)	Index Verben
+nabízet, nabízím (impf.)	anbieten (impf.)	Index Verben
 {\color{blue}nábyt\uline{e}k}	Möbel	Index
 nad	über	Index
 nadmořská {\color{blue}výška}	Höhe über dem Meeresspiegel	Index
-{\color{green}nádraží}	Bahnhof (Zug, Bus)	Index
-nacházet, nacházím (impf.)	finden (impf.)	Index
+nacházet, nacházím (impf.)	finden (impf.)	Index Verben
 najednou	auf einmal	Index
-najít, najdu (pf.)	finden (pf.)	Index
 nakonec	am Ende, schließlich	Index
 nakoupit	einkaufen	Index
-nakrájet, nakrájím (pf.)	in Scheiben schneiden (pf.)	Index
+nakrájet, nakrájím (pf.)	in Scheiben schneiden (pf.)	Index Verben
 {\color{blue}nákup}	Einkauf	Index
 {\color{red}nálada}	Laune, Stimmung	Index
-nalít*, naliju (pf.)	eingießen, einschenken (pf.)	Index
-namalovat, namaluju (pf.)	malen (Bild) (pf.)	Index
+nalít*, naliju (pf.)	eingießen, einschenken (pf.)	Index Verben
+namalovat, namaluju (pf.)	malen (Bild) (pf.)	Index Verben
 {\color{blue}nápad}	Idee, Einfall	Index
 {\color{blue}nápoj}	Getränk	Index
 napravo	nach rechts (Duplikat)	Index
 naproti	gegenüber	Index
-napsat*, napíšu (pf.)	schreiben (pf.)	Index
-narodit se, narodím se (pf.)	geboren werden (pf.)	Index
+narodit se, narodím se (pf.)	geboren werden (pf.)	Index Verben
 {\color{red}narozeniny }(pl.)	Geburtstag	Index
-nastoupit, nastoupím (pf.)	einsteigen (pf.)	Index
-nastupovat, nastupuju (impf.)	einsteigen (impf.)	Index
-nasypat*, nasypu (pf.)	schütten, streuen (Zucker, Mehl) (pf.)	Index
+nastoupit, nastoupím (pf.)	einsteigen (pf.)	Index Verben
+nastupovat, nastupuju (impf.)	einsteigen (impf.)	Index Verben
+nasypat*, nasypu (pf.)	schütten, streuen (Zucker, Mehl) (pf.)	Index Verben
 naštěstí	zum Glück	Index
-natočit, natočím (pf.)	einen Film drehen (pf.)	Index
-naučit se, naučím se (pf.)	lernen (pf.)	Index
+natočit, natočím (pf.)	einen Film drehen (pf.)	Index Verben
+naučit se, naučím se (pf.)	lernen (pf.)	Index Verben
 {\color{red}náušnice}	Ohrring	Index
 {\color{red}návštěva}	Besuch	Index
-nealkoholický	nichtalkoholisch	Index
 nebezpečný	gefährlich	Index
 Neboj se! Nebojte se!	Hab/habt keine Angst!	Index
 něco	etwas	Index
 něčí	jemandes'	Index
 Nedělej si starosti. Nedělejte si starosti.	Mach dir / Macht euch keine Sorgen.	Index
 Nech toho! Nechte toho!	Lass das!	Index
-nechat, nechám (pf.)	lassen (pf.)	Index
-nechávat, nechávám (impf.)	lassen (impf.)	Index
+nechat, nechám (pf.)	lassen (pf.)	Index Verben
+nechávat, nechávám (impf.)	lassen (impf.)	Index Verben
 nějak	irgenwie	Index
 nejdražší	der teuerste	Index
 nejdřív	zuerst	Index
@@ -434,16 +417,16 @@ někdo	irgendwer	Index
 několik	einige	Index
 nekvalitní	von schlechter Qualität	Index
 nemožný	unmöglich	Index
-nenávidět, nenávidím (impf.)	hassen (impf.)	Index
+nenávidět, nenávidím (impf.)	hassen (impf.)	Index Verben
 neobvyklý	ungewöhnlich	Index
 Neotravuj mě! Neotravujte mě!	Nerv/nervt mich nicht!	Index
 neperlivá voda	Mineralwasser ohne Kohlensäure	Index
 Neplač! Neplačte!	Weine/weint nicht!	Index
 Neruš mě! Neruště mě!	Stör/stört mich nicht!	Index
-nesnášet, nesnáším (impf.)	ertragen (impf.)	Index
-nesnést*, nesnesu (pf.)	ertragen (pf.)	Index
+nesnášet, nesnáším (impf.)	ertragen (impf.)	Index Verben
+nesnést*, nesnesu (pf.)	ertragen (pf.)	Index Verben
 nespolečenský	ungesellig	Index
-nést*, nesu (impf.)	tragen (Kleidung, Last) (impf.)	Index
+nést*, nesu (impf.)	tragen (Kleidung, Last) (impf.)	Index Verben
 {\color{red}nevýhoda}	Nachteil	Index
 nezdravý	ungesund	Index
 než	1. als (Vergleich); 2. bevor	Index
@@ -457,21 +440,21 @@ nikdy	niemals	Index
 normální	normal	Index
 {\color{green}Norsko}, {\color{cyan}Nor}, {\color{red}Norka}	Norwegen, Norweger, Norwegerin	Index
 {\color{blue}nos}	Nase	Index
-nosit, nosím (impf.)	tragen (Kleidung, Last) (impf.)	Index
+nosit, nosím (impf.)	tragen (Kleidung, Last) (impf.)	Index Verben
 nosní	Nasen-, nasal	Index
 Nový {\color{blue}Zéland}, {\color{cyan}Novovozélanďan}, {\color{red}-ka}	Neuseeland, Neuseeländer, Neuseeländrin	Index
 nultý	der nullte	Index
 {\color{blue}nůž}	Messer	Index
 o	über, von	Index
-obalit, obalím (pf.)	einwickeln (pf.)	Index
-obalovat, obaluju (impf.)	einwickeln (impf.)	Index
+obalit, obalím (pf.)	einwickeln (pf.)	Index Verben
+obalovat, obaluju (impf.)	einwickeln (impf.)	Index Verben
 {\color{blue}oběd}	Mittagessen	Index
-objevit, objevím (pf.)	entdecken (pf.)	Index
-objevovat, objevuju (impf.)	entdecken (impf.)	Index
-obléct*, obleču (pf.)	anziehen (pf.)	Index
+objevit, objevím (pf.)	entdecken (pf.)	Index Verben
+objevovat, objevuju (impf.)	entdecken (impf.)	Index Verben
+obléct*, obleču (pf.)	anziehen (pf.)	Index Verben
 {\color{green}oblečení}	Bekleidung	Index
 {\color{blue}oblek}	Anzug	Index
-oblékat, oblékám (impf.)	anziehen (impf.)	Index
+oblékat, oblékám (impf.)	anziehen (impf.)	Index Verben
 {\color{blue}obličej}	Gesicht	Index
 {\color{blue}obraz}	Bild	Index
 obvyklý	gewöhnlich (adj.)	Index
@@ -481,13 +464,13 @@ oči	augen	Index
 oční (adj.)	Augen-	Index
 od	von (Duplikat)	Index
 ode	von (Duplikat)	Index
-od\uline{e}jít*, odejdu (impf.)	weggehen (impf.) (Duplikat)	Index
-odcházet, odcházím (impf.)	weggehen (impf.) (Duplikat)	Index
+od\uline{e}jít*, odejdu (impf.)	weggehen (impf.) (Duplikat)	Index Verben
+odcházet, odcházím (impf.)	weggehen (impf.) (Duplikat)	Index Verben
 odjinud	von anderswoher, von einem Ort	Index
-odjíždět, odjíždím (impf.)	abfahren, wegfahren (impf.)	Index
+odjíždět, odjíždím (impf.)	abfahren, wegfahren (impf.)	Index Verben
 Odlož si. Odložte si.	Leg/legen Sie ab.	Index
-odpočinout* si, odpočinu si (pf.)	sich ausruhen (pf.)	Index
-odskočit si, odskočím si (pf.)	auf Toilette gehen (pf.)	Index
+odpočinout* si, odpočinu si (pf.)	sich ausruhen (pf.)	Index Verben
+odskočit si, odskočím si (pf.)	auf Toilette gehen (pf.)	Index Verben
 odsud	von hier	Index
 odtamtud	von dort (aus)	Index
 {\color{green}okno}	Fenster	Index
@@ -498,11 +481,11 @@ okurkový (adj.)	Gurken-	Index
 on	er	Index
 ona	sie (3. P. Sg.)	Index
 oni	sie (3. P. Pl.)	Index
-opálit se, opálím se (pf.)	sich sonnen (pf.)	Index
-opalovat se, opaluju se (impf.)	sich sonnen (impf.)	Index
+opálit se, opálím se (pf.)	sich sonnen (pf.)	Index Verben
+opalovat se, opaluju se (impf.)	sich sonnen (impf.)	Index Verben
 opravdový	wirklicher, echter	Index
-opravit, opravím (pf.)	1. reparieren 2. korrigieren (pf.)	Index
-opravovat, opravuju (impf.)	1. reparieren 2. korrigieren (impf.)	Index
+opravit, opravím (pf.)	1. reparieren 2. korrigieren (pf.)	Index Verben
+opravovat, opravuju (impf.)	1. reparieren 2. korrigieren (impf.)	Index Verben
 oranžový	orange	Index
 {\color{red}ordinace}	Praxis, Behandlungszimmer	Index
 {\color{blue}orchestr}	Orchester	Index
@@ -517,8 +500,6 @@ pak	dann	Index
 {\color{red}palačinka}	Palatschinken	Index
 paličatý	dickköpfig	Index
 {\color{red}památka}	Sehenswürdigkeit, Denkmal	Index
-{\color{blue}panelák}	Plattenbau	Index
-panelový (adj.)	Platten-	Index
 {\color{red}pán\uline{e}v}	Pfanne	Index
 {\color{blue}papír}	Papier	Index
 {\color{green}papírnictví}	Papierwarengeschäft	Index
@@ -527,7 +508,7 @@ pardon	Pardon, Entschuldigung	Index
 {\color{red}pastelka}	Buntstift, Wachsstift	Index
 {\color{green}patro}	Etage	Index
 pátý	der fünfte	Index
-péct*, peču (impf.)	backen (impf.)	Index
+péct*, peču (impf.)	backen (impf.)	Index Verben
 pečený	gebacken	Index
 {\color{green}peklo}	Hölle	Index
 {\color{red}peněženka}	Portemonnaie	Index
@@ -542,9 +523,9 @@ pevný	fest	Index
 {\color{cyan}pirát}	Pirat	Index
 {\color{red}písnička}	Lied	Index
 pistáciový (adj.)	Pistazien-	Index
-plakat*, pláču (impf.)	weinen (impf.)	Index
-plánovat, plánuju (impf.)	planen (impf.)	Index
-platit, platím (impf.)	zahlen (impf.)	Index
+plakat*, pláču (impf.)	weinen (impf.)	Index Verben
+plánovat, plánuju (impf.)	planen (impf.)	Index Verben
+platit, platím (impf.)	zahlen (impf.)	Index Verben
 {\color{red}plavky} (pl.)	Badehose, Badeanzug, Bikini	Index
 {\color{red}pláž}	Strand	Index
 {\color{red}pleš}	Glatze	Index
@@ -552,13 +533,13 @@ plná {\color{red}penze}	Vollpension	Index
 plný	voll	Index
 po	1. nach 2. durch	Index
 {\color{green}počasí}	Wetter	Index
-počkat, počkám (pf.)	warten (pf.)	Index
+počkat, počkám (pf.)	warten (pf.)	Index Verben
 pod	unter	Index
 podél	entlang	Index
-podívat se na (pf.)	sich etwas anschauen (pf.)	Index
+podívat se na (pf.)	sich etwas anschauen (pf.)	Index Verben
 podle	nach, laut	Index
 {\color{blue}podnájem}	Untermiete	Index
-pohádat se s (pf.)	sich streiten mit (pf.)	Index
+pohádat se s (pf.)	sich streiten mit (pf.)	Index Verben
 {\color{red}pohádka}	Märchen	Index
 Pojď dál! Pojďte dál!	Komm herein! Kommt herein!	Index
 {\color{red}poklice}	Deckel	Index
@@ -571,67 +552,65 @@ poliklinika	Poliklinik	Index
 {\color{red}polopenze}	Halbpension	Index
 polotučný	fettarm	Index
 {\color{green}Polsko}, {\color{cyan}Polák}, {\color{red}Polka}	Polen, Pole, Polin	Index
-pomáhat, pomáhám (impf.)	helfen (impf.)	Index
+pomáhat, pomáhám (impf.)	helfen (impf.)	Index Verben
 pomeračnový (adj.)	Orangen-	Index
-pomilovat se, pomiluju se (pf.)	miteinander schlafen (pf.)	Index
+pomilovat se, pomiluju se (pf.)	miteinander schlafen (pf.)	Index Verben
 {\color{red}pomoc}	Hilfe	Index
-pomoct*, pomůžu (pf.)	helfen (pf.)	Index
+pomoct*, pomůžu (pf.)	helfen (pf.)	Index Verben
 {\color{red}ponožka}	Socke	Index
 poprvé	zum ersten Mal	Index
 {\color{red}porce}	Portion	Index
 {\color{blue}pór\uline{e}k}	Porré	Index
-porodit, porodím (pf.)	gebären, entbinden (pf.)	Index
+porodit, porodím (pf.)	gebären, entbinden (pf.)	Index Verben
 portrét	Portrait	Index
 {\color{green}Portugalsko}, {\color{cyan}Portugal\uline{e}c}, {\color{red}Portugalka}	Portugal, Portugiese, Portugieserin	Index
 pořád	ständig	Index
 {\color{blue}pořád\uline{e}k}	Ordnung	Index
 Posaď se! Posaďte se!	Setz dich! Setzt euch! / Setzen Sie sich!	Index
-posílat, posílám (impf.)	schicken (impf.)	Index
+posílat, posílám (impf.)	schicken (impf.)	Index Verben
 posílit, posílím	(be)stärken	Index
-posilovat, posiluju (impf.)	(be)stärken, kräftigen (impf.)	Index
-poslat*, pošlu (pf.)	schicken (pf.)	Index
-poslechnout*, poslechnu (pf.)	1. (zu)hören 2. gehorchen (pf.)	Index
-poslouchat, poslouchám (impf.)	1. hören  2. gehorchen (impf.)	Index
+posilovat, posiluju (impf.)	(be)stärken, kräftigen (impf.)	Index Verben
+poslat*, pošlu (pf.)	schicken (pf.)	Index Verben
+poslechnout*, poslechnu (pf.)	1. (zu)hören 2. gehorchen (pf.)	Index Verben
 Pospěš si! Pospěšte si!	Beeil dich / beeilt euch!	Index
 {\color{red}postava}	Figur	Index
-postavit, postavím (pf.)	bauen (pf.)	Index
+postavit, postavím (pf.)	bauen (pf.)	Index Verben
 {\color{red}postel}	Bett	Index
-potápět se, potápím se (impf.)	tauchen (impf.)	Index
-potkat, potkám (pf.)	treffen (pf.)	Index
-potkávat, potkávám (impf.)	treffen (impf.)	Index
-potopit se, potopím se (pf.)	tauchen (pf.)	Index
-potřebovat, potřebuju (impf.)	1. brauchen, 2. müssen (als Hilfsverb) (impf.)	Index
+potápět se, potápím se (impf.)	tauchen (impf.)	Index Verben
+potkat, potkám (pf.)	treffen (pf.)	Index Verben
+potkávat, potkávám (impf.)	treffen (impf.)	Index Verben
+potopit se, potopím se (pf.)	tauchen (pf.)	Index Verben
+potřebovat, potřebuju (impf.)	1. brauchen, 2. müssen (als Hilfsverb) (impf.)	Index Verben
 {\color{red}poušť}	Wüste	Index
-použít*, použiju (pf.)	verwenden, gebrauchen (pf.)	Index
+použít*, použiju (pf.)	verwenden, gebrauchen (pf.)	Index Verben
 {\color{red}povaha}	Charakter	Index
 pověrčivý	superstitious	Index
-povídat si, povídám si (impf.)	sich unterhalten (impf.) (Duplikat)	Index
+povídat si, povídám si (impf.)	sich unterhalten (impf.) (Duplikat)	Index Verben
 {\color{red}povídka}	Erzählung	Index
 pozdě	spät	Index
 později	später	Index
 {\color{blue}pozdrav}	Gruß	Index
 Pozdravuj! Pozdravujte!	Sag guten Tag zu...! Sagt guten Tag zu...!	Index
-pozvat*, pozvu (pf.)	einladen (pf.)	Index
-požádat, požádám (pf.)	beantragen, bitten (offiziell) (pf.)	Index
+pozvat*, pozvu (pf.)	einladen (pf.)	Index Verben
+požádat, požádám (pf.)	beantragen, bitten (offiziell) (pf.)	Index Verben
 {\color{red}pračka}	Waschmaschine	Index
 praktický	praktisch	Index
-prát*, peru (oblečení) (impf.)	waschen (Kleidung) (impf.)	Index
-preferovat, preferuju (impf.)	präferieren (impf.)	Index
+prát*, peru (oblečení) (impf.)	waschen (Kleidung) (impf.)	Index Verben
+preferovat, preferuju (impf.)	präferieren (impf.)	Index Verben
 pro	für	Index
-probudit se, probudím se (pf.)	aufwachen (pf.)	Index
-prodat, prodám (pf.)	verkaufen (pf.)	Index
+probudit se, probudím se (pf.)	aufwachen (pf.)	Index Verben
+prodat, prodám (pf.)	verkaufen (pf.)	Index Verben
 {\color{cyan}prodavač}	Verkäufer	Index
 {\color{red}prodavačka}	Verkäuferin	Index
-prodávat, prodávám (impf.)	verkaufen (impf.)	Index
+prodávat, prodávám (impf.)	verkaufen (impf.)	Index Verben
 profesinální (adj.)	professionell	Index
-{\color{blue}program}	Programm	Index
-prohlédnout*, prohlédnu (pf.)	besichtigen, durchsehen (pf.)	Index
+prohlédnout*, prohlédnu (pf.)	besichtigen, durchsehen (pf.)	Index Verben
 prohlížet si památky (impf.)	Sehenwürdigkeiten besichtigen (impf.)	Index
-prohlížet, prohlížím (impf.)	besichtigen, durchsehen (impf.)	Index
+prohlížet, prohlížím (impf.)	besichtigen, durchsehen (impf.)	Index Verben
 {\color{blue}projekt}	Projekt	Index
-prominout*, prominu (pf.)	vergeben, entschuldigen (pf.)	Index
+prominout*, prominu (pf.)	vergeben, entschuldigen (pf.)	Index Verben
 {\color{red}promoce}	akademische Abschlussfeier mit Zeugnisübergabe	Index
-promovat, promuju (impf.)	einen akademischen Abschluss machen, feiern (impf.)	Index
+promovat, promuju (impf.)	einen akademischen Abschluss machen, feiern (impf.)	Index Verben
 prostě	einfach	Index
 prostředkem	durch die Mitte	Index
 prostřední	Mitte	Index
@@ -641,65 +620,64 @@ protivný	ungezogen, widerwärtig	Index
 {\color{blue}prst}	1. Finger, 2. Zeh	Index
 pršet	regnen	Index
 první	der erste	Index
-přát*, přeju (impf.)	wünschen (impf.)	Index
-přečíst*, přečtu (pf.)	durchlesen (pf.)	Index
+přát*, přeju (impf.)	wünschen (impf.)	Index Verben
+přečíst*, přečtu (pf.)	durchlesen (pf.)	Index Verben
 před	vor (zeitl. und örtl)	Index
 předem	im Voraus	Index
 {\color{red}předpověď }počasí	Wettervorhersage	Index
-předpovědět, předpovím (pf.)	vorhersagen, voraussagen (pf.)	Index
-předpovídat, předpovídám (impf.)	vorhersagen, voraussagen (impf.)	Index
-představit, představím(pf.)	vorstellen	Index
-představovat, představuju (impf.)	vorstelen (impf.)	Index
+předpovědět, předpovím (pf.)	vorhersagen, voraussagen (pf.)	Index Verben
+předpovídat, předpovídám (impf.)	vorhersagen, voraussagen (impf.)	Index Verben
+představit, představím(pf.)	vorstellen	Index Verben
+představovat, představuju (impf.)	vorstellen (impf.)	Index Verben
 {\color{red}přeháňka}	Regenschauer	Index
-překládat, překládám (impf.)	übersetzen (impf.)	Index
+překládat, překládám (impf.)	übersetzen (impf.)	Index Verben
 {\color{cyan}překladatel}	Übersetzer	Index
 {\color{red}překladatelka}	Übersetzerin	Index
-přeložit, přeložím (pf.)	übersetzen (pf.)	Index
-přepojit (pf.)	verbinden (pf.)	Index
-přepojovat, přepojuju (impf.)	verbinden (impf.)	Index
+přeložit, přeložím (pf.)	übersetzen (pf.)	Index Verben
+přepojit (pf.)	verbinden (pf.)	Index Verben
+přepojovat, přepojuju (impf.)	verbinden (impf.)	Index Verben
 přes	über	Index
-přestěhovat (se), přestěhuju se (pf.)	umziehen (pf.)	Index
+přestěhovat (se), přestěhuju se (pf.)	umziehen (pf.)	Index Verben
 přesto	trotzdem (Duplikat)	Index
 přestože	trotzdem (Duplikat)	Index
-přežít*, přežiju (pf.)	überleben (pf.)	Index
-přidat, přidám (pf.)	hinzugeben (pf.)	Index
-přidávat, přidávám (impf.)	hinzufügen, zusetzen, dazutun (impf.)	Index
+přežít*, přežiju (pf.)	überleben (pf.)	Index Verben
+přidat, přidám (pf.)	hinzugeben (pf.)	Index Verben
+přidávat, přidávám (impf.)	hinzufügen, zusetzen, dazutun (impf.)	Index Verben
 Přijď! Přijďte!	Komm! Kommt! (laufen)	Index
 Přijeď! Přijeďte!	Komm! Kommt! (fahren)	Index
-přijít*, přijdu (pf.)	kommen (laufen) (pf.)	Index
-přiletět, přiletím (pf.)	kommen (fliegen) (pf.)	Index
+přijít*, přijdu (pf.)	kommen (laufen) (pf.)	Index Verben
+přiletět, přiletím (pf.)	kommen (fliegen) (pf.)	Index Verben
 {\color{red}příloha}	Beilage (Essen)	Index
-připravit, připravím (pf.)	vorbereiten (pf.)	Index
-připravovat, připravuju (impf.)	vorbereiten (impf.)	Index
+připravit, připravím (pf.)	vorbereiten (pf.)	Index Verben
+připravovat, připravuju (impf.)	vorbereiten (impf.)	Index Verben
 přísný	streng	Index
 PSČ (lies: pé es čé)	Postleitzahl	Index
 {\color{cyan}pstruh}	Forelle	Index
-ptát se, ptám se (impf.) koho	fragen	Index
+ptát se, ptám se (impf.) koho	fragen	Index Verben
 {\color{red}půjčovna}	Vermietung, Leihstelle	Index
 půl	halb	Index
 {\color{red}půlka}	Hälfte	Index
 {\color{red}pusa} (coll.)	1. Mund 2. Kuss (coll.)	Index
 {\color{red}radioaktivita}	Radioactivität	Index
-raftovat (impf.)	Rafting machen (impf.)	Index
+raftovat (impf.)	Rafting machen (impf.)	Index Verben
 {\color{blue}ráj}	Paradies	Index
 {\color{green}rameno}	Schulter	Index
 {\color{green}rande}	Rendezvous	Index
-{\color{red}recepce}	Rezeption, Empfang	Index
 {\color{red}rekonstrukce}	Rekonstruktion, Sanierung	Index
 religiózní	religiös	Index
-rezervovat, rezervuju (impf.)	reservieren, buchen (impf.)	Index
+rezervovat, rezervuju (impf.)	reservieren, buchen (impf.)	Index Verben
 {\color{cyan}režisér}	Regisseur	Index
 {\color{red}režisérka}	Regisseurin	Index
-rodit se, rodím se (impf.)	geboren werden (impf.)	Index
-rodit, rodím (impf.)	entbinden, gebären (impf.)	Index
+rodit se, rodím se (impf.)	geboren werden (impf.)	Index Verben
+rodit, rodím (impf.)	entbinden, gebären (impf.)	Index Verben
 {\color{red}roláda}	Roulade	Index
 {\color{blue}rolák}	Rollkragenpullover	Index
 {\color{blue}román}	Roman	Index
-rozejít se*, rozejdu se (pf.)	auseinandergehen, Schluss machen (pf.)	Index
-rozcházet se, rozcházím se (impf.)	ausseinandergehen, Schluss machen (impf.)	Index
+rozejít se*, rozejdu se (pf.)	auseinandergehen, Schluss machen (pf.)	Index Verben
+rozcházet se, rozcházím se (impf.)	ausseinandergehen, Schluss machen (impf.)	Index Verben
 rozpuštěný	aufgelöst, zerlassen	Index
-rozvádět se, rozvádím se (impf.)	sich scheiden lassen (impf.)	Index
-rozvést* se, rozvedu se (pf.)	sich scheiden lassen (pf.)	Index
+rozvádět se, rozvádím se (impf.)	sich scheiden lassen (impf.)	Index Verben
+rozvést* se, rozvedu se (pf.)	sich scheiden lassen (pf.)	Index Verben
 ruce (pl.)	Hände	Index
 {\color{red}ruka}, pl. ruce	1. Hand 2. Arm	Index
 {\color{red}rukavice}	Handschuh	Index
@@ -707,14 +685,13 @@ ruce (pl.)	Hände	Index
 růžový	rosa	Index
 {\color{red}ryba}, pl. ryby	Fisch, Fische	Index
 rybařit	angeln	Index
-{\color{blue}rybník}	(Fisch-) Teich	Index
 rýma	Schnupfen	Index
 {\color{red}rýže}	Reis	Index
 {\color{green}Řecko}, {\color{cyan}Řek}, {\color{red}Řekyně}	Griechenland, Grieche, Griechin	Index
-říct*, řeknu (pf.)	sagen (pf.)	Index
+říct*, řeknu (pf.)	sagen (pf.)	Index Verben
 {\color{cyan}řidič}	Fahrer	Index
 {\color{red}řidička}	Fahrerin	Index
-řídit, řídím (impf.)	1. fahren 2. leiten (impf.)	Index
+řídit, řídím (impf.)	1. fahren 2. leiten (impf.)	Index Verben
 {\color{blue}říz\uline{e}k}	Schnitzel	Index
 s	mit	Index
 S dovolením!	Gestatten Sie bitte!	Index
@@ -723,23 +700,23 @@ S dovolením!	Gestatten Sie bitte!	Index
 {\color{blue}salám}	Salami	Index
 {\color{cyan}sám}/{\color{blue}sám}, {\color{red}sama}, {\color{green}samo}	1. allein 2. selbst	Index
 samuraj	Samurai	Index
-sbalit, sbalím (pf.)	packen (pf.)	Index
-sbírat, sbírám (impf.)	1. auflesen 2. sammeln (impf.)	Index
+sbalit, sbalím (pf.)	packen (pf.)	Index Verben
+sbírat, sbírám (impf.)	1. auflesen 2. sammeln (impf.)	Index Verben
 {\color{cyan}scénárista}	Drehbuchautor (m.)	Index
 {\color{red}scénáristka}	Drehbuchautorin	Index
 {\color{blue}scénář}	Drehbuch	Index
 se	3. mit 1. sich 2. einander (Akk.)	Index
-sebrat*, seberu (pf.)	auflesen, einsammeln (pf.)	Index
+sebrat*, seberu (pf.)	auflesen, einsammeln (pf.)	Index Verben
 sedmý	der siebente	Index
-sejít* se, sejdu se (pf.)	sich treffen (pf.) (Duplikat)	Index
+sejít* se, sejdu se (pf.)	sich treffen (pf.) (Duplikat)	Index Verben
 sem	her, hierher	Index
 {\color{blue}sešit}	Heft	Index
-setkat se, setkám se (pf.)	sich treffen (pf.) (Duplikat)	Index
-setkávat se, setkávám se (impf.)	sich regelmäßig treffen (impf.)	Index
+setkat se, setkám se (pf.)	sich treffen (pf.) (Duplikat)	Index Verben
+setkávat se, setkávám se (impf.)	sich regelmäßig treffen (impf.)	Index Verben
 {\color{blue}sever}	Norden	Index
 severní	northern	Index
-seznámit se, seznámím se (pf.)	1. sich kennenlernen, 2. sich informieren (pf.)	Index
-seznamovat se, seznamuju se (impf.)	1. sich kennenlernen, 2. sich informieren (impf.)	Index
+seznámit se, seznámím se (pf.)	1. sich kennenlernen, 2. sich informieren (pf.)	Index Verben
+seznamovat se, seznamuju se (impf.)	1. sich kennenlernen, 2. sich informieren (impf.)	Index Verben
 shora	von oben	Index
 {\color{red}schůze}	Versammlung	Index
 {\color{red}schůzka}	Verabredung	Index
@@ -747,11 +724,11 @@ si	1. sich 2. einander (Dat.)	Index
 silnější	stärker	Index
 {\color{red}skála}	Skala	Index
 {\color{red}skládačka}	Puzzle	Index
-skládat, skládám (impf.)	1. zusammensetzen, 2. komponieren (impf.)	Index
+skládat, skládám (impf.)	1. zusammensetzen, 2. komponieren (impf.)	Index Verben
 {\color{cyan}skladatel}	Komponist	Index
 {\color{red}skladatelka}	Komponistin	Index
 {\color{red}sklenice}	Glas	Index
-skončit, skončím (pf.)	beenden, enden (pf.)	Index
+skončit, skončím (pf.)	beenden, enden (pf.)	Index Verben
 {\color{green}Skotsko}, {\color{cyan}Skot}, {\color{red}Skotka}	Schottland, Schotte, Schottin	Index
 skrz	durch	Index
 {\color{red}skříň}	Schrank	Index
@@ -763,20 +740,20 @@ slavný	berühmt	Index
 {\color{green}Slovensko}, {\color{cyan}Slovák}, {\color{red}Slovenka}	Slowakei, Slowake, Slowakin	Index
 {\color{green}Slovinsko}, {\color{cyan}Slovin\uline{e}c}, {\color{red}Slovinka}	Sowenien, Slowene, Slowenin	Index
 {\color{red}složenka}	Überweisungsschein	Index
-složit, složím (pf.)	1. zusammensetzen, 2. komponieren (pf.)	Index
+složit, složím (pf.)	1. zusammensetzen, 2. komponieren (pf.)	Index Verben
 slunečno	sonnig (adv.)	Index
 slunečný	sonnig (adj.)	Index
 {\color{red}služba}, služby	Dienst, Dienste	Index
 služební {\color{red}cesta}	Dienstreise	Index
 smažený	gebraten und paniert	Index
-smažit, smažím (impf.)	braten (impf.)	Index
+smažit, smažím (impf.)	braten (impf.)	Index Verben
 {\color{blue}směr}	Richtung	Index
 {\color{red}smetana}	Sahne	Index
 {\color{red}smůla}	Pech	Index
 snad	vielleicht	Index
-sněžit, sněží (impf.)	schneien (impf.)	Index
+sněžit, sněží (impf.)	schneien (impf.)	Index Verben
 {\color{red}snídaně}	Frühstück	Index
-sníst*, sním (pf.)	aufessen (pf.)	Index
+sníst*, sním (pf.)	aufessen (pf.)	Index Verben
 sobecký	egoistisch	Index
 {\color{red}socha}	Statue, Skulptur	Index
 {\color{red}sopka}	Vulkan (nicht Fremdwort)	Index
@@ -788,7 +765,7 @@ speciální	speziell	Index
 {\color{red}spisovatelka}	Schriftstellerin	Index
 spíš	eher, wahrscheinlich	Index
 spíše (formal)	eher, wahrscheinlich (formal)	Index
-spočítat, spočítám (pf.)	zählen (pf.)	Index
+spočítat, spočítám (pf.)	zählen (pf.)	Index Verben
 spokojený	zufrieden	Index
 {\color{red}spokojenost}	Zufriedenheit	Index
 spolehlivý	zuverlässig	Index
@@ -797,10 +774,10 @@ sprostý	vulgär	Index
 {\color{green}Srbsko}, {\color{cyan}Srb}, {\color{red}Srbka}	Serbien, Serbe, Serbin	Index
 {\color{red}starožitnost}	Antiquität	Index
 {\color{blue}stát}	Staat	Index
-stát*, stojí (impf.)	1. kosten, 2. stehen (impf.)	Index
+stát*, stojí (impf.)	1. kosten, 2. stehen (impf.)	Index Verben
 statečný	tapfer, standhaft	Index
-stavět, stavím (impf.)	bauen (impf.)	Index
-stěhovat (se), stěhuju (se) (impf.)	umziehen (impf.)	Index
+stavět, stavím (impf.)	bauen (impf.)	Index Verben
+stěhovat (se), stěhuju (se) (impf.)	umziehen (impf.)	Index Verben
 stejný	derselbe, der gleiche	Index
 {\color{blue}strach}	Angst	Index
 {\color{red}strana}	1. Partei, 2. Seite	Index
@@ -822,7 +799,7 @@ suchý	trocken (adj.)	Index
 světlý	hell	Index
 {\color{blue}svetr}	Pullover	Index
 svíčková {\color{red}omáčka}	Sahnesoße	Index
-sypat*, sypu (impf.)	schütten, streuen (Mehl, Zucker) (impf.)	Index
+sypat*, sypu (impf.)	schütten, streuen (Mehl, Zucker) (impf.)	Index Verben
 {\color{red}šála}	Schal	Index
 šampaňské (adj.)	Champagner	Index
 {\color{red}šance}	Chance	Index
@@ -841,7 +818,6 @@ sypat*, sypu (impf.)	schütten, streuen (Mehl, Zucker) (impf.)	Index
 špinavý	schmutzig	Index
 šťastný	glücklich	Index
 {\color{green}štěstí}	Glück	Index
-{\color{red}šunka}	Schinken	Index
 šunkový (adj.)	Schinken-	Index
 {\color{green}Švédsko}, {\color{cyan}Švéd}, {\color{red}Švédka}	Schweden, Schwede, Schwedin	Index
 {\color{green}Švýcarsko}, {\color{cyan}Švýcar}, {\color{red}Švýcarka}	Schweiz, Schweizer, Schweizerin	Index
@@ -857,10 +833,10 @@ telefonní {\color{blue}seznam}	Telefonbuch	Index
 televizní (adj.)	Fernseh-	Index
 {\color{green}tělo}	Körper	Index
 {\color{red}terasa}	Terasse	Index
-těšit se, těším se (impf.)	sich freuen (impf.)	Index
+těšit se, těším se (impf.)	sich freuen (impf.)	Index Verben
 textová {\color{red}zpráva}	SMS	Index
 To nic!	Macht nichts!	Index
-točit, točím (impf.)	einen Film drehen (impf.)	Index
+točit, točím (impf.)	einen Film drehen (impf.)	Index Verben
 tomatový (adj.)	Tomaten-	Index
 {\color{red}trafika}	Zigaretten- und Zeitungskiosk	Index
 {\color{red}tragédie}	Tragödie	Index
@@ -885,33 +861,31 @@ turistický (adj.)	touristisch, Touristen-	Index
 tvrdohlavý	hartnäckig, starrköpfig	Index
 tvrdý	hart	Index
 {\color{blue}týd\uline{e}n}	Woche	Index
-typický	typisch	Index
 u	bei	Index
 {\color{green}ubytování}	Unterkunft	Index
 {\color{green}údolí}	Tal	Index
-udusit, udusím (pf.)	1. dünsten 2. ersticken (pf.)	Index
+udusit, udusím (pf.)	1. dünsten 2. ersticken (pf.)	Index Verben
 {\color{green}ucho}, pl. uši	Ohr, Ohren	Index
-ukázat*, ukážu (pf.)	zeigen (pf.)	Index
-ukazovat, ukazuju (impf.)	zeigen (impf.)	Index
-uklidit, uklidím (pf.)	sauber machen (pf.)	Index
+ukázat*, ukážu (pf.)	zeigen (pf.)	Index Verben
+ukazovat, ukazuju (impf.)	zeigen (impf.)	Index Verben
+uklidit, uklidím (pf.)	sauber machen (pf.)	Index Verben
 {\color{cyan}uklízeč}	Reinigungskraft	Index
 {\color{red}uklízečka}	Reinemachefrau, Reinigungskraft	Index
 {\color{red}Ukrajina}, {\color{cyan}Ukrajinec}, {\color{red} Ukrajinka}	Ukraine, Ukrainer, Ukrainerin	Index
-ukrást*, ukradnu (pf.)	stehlen (pf.)	Index
-umírat, umírat (impf.)	sterben (impf.)	Index
-umřít*, umřu (pf.)	sterben (pf.) (Duplikat)	Index
-umýt*, umyju (pf.)	waschen, abwaschen (pf.)	Index
+ukrást*, ukradnu (pf.)	stehlen (pf.)	Index Verben
+umírat, umírat (impf.)	sterben (impf.)	Index Verben
+umřít*, umřu (pf.)	sterben (pf.) (Duplikat)	Index Verben
+umýt*, umyju (pf.)	waschen, abwaschen (pf.)	Index Verben
 {\color{red}univerzita}	Universität	Index
-upéct*, upeču (pf.)	backen (pf.)	Index
+upéct*, upeču (pf.)	backen (pf.)	Index Verben
 upřímný	aufrichtig	Index
 {\color{cyan}úředník}, {\color{red}úřednice}	Beamter, Beamtin	Index
 USA pl. (lies: ú es á)	USA	Index
-usmažit, usmažím (pf.)	braten, panieren (pf.)	Index
+usmažit, usmažím (pf.)	braten, panieren (pf.)	Index Verben
 {\color{green}ústa }(pl.)	Mund	Index
 uši	Ohren	Index
-uvařit, uvařím (pf.)	kochen (pf.)	Index
-uvidět, uvidím (pf.)	sehen (pf.)	Index
-uvnitř	drinnen (Duplikat)	Index
+uvařit, uvařím (pf.)	kochen (pf.)	Index Verben
+uvidět, uvidím (pf.)	sehen (pf.)	Index Verben
 uzený	geräuchert	Index
 Užij si to! Užijte si to!	Genieß es! (2x)	Index
 v	in (Duplikat)	Index
@@ -923,11 +897,11 @@ vánoční (adj.)	Weihnachts-	Index
 {\color{red}vázanka}	Kravatte, Binder	Index
 včera	gestern	Index
 vdaná	verheiratet (Frau)	Index
-vdát* se, vdám se (pf.)	heiraten (Frau) (pf.)	Index
-vdávat se, vdávám se (impf.)	heiraten (Frau) (impf.)	Index
+vdát* se, vdám se (pf.)	heiraten (Frau) (pf.)	Index Verben
+vdávat se, vdávám se (impf.)	heiraten (Frau) (impf.)	Index Verben
 ve	in (Duplikat)	Index
 {\color{red}večeře}	Abendessen	Index
-vědět*, vím (impf.)	wissen (impf.)	Index
+vědět*, vím (impf.)	wissen (impf.)	Index Verben
 vedle	neben	Index
 {\color{green}vedro}	Hitze	Index
 Velká {\color{red}Británie, }{\color{cyan}Brit}, {\color{red} Britka}	Großbritannien, Brite, Britin	Index
@@ -936,14 +910,14 @@ ven	hinaus	Index
 venkem	draußen hindurch	Index
 vepřové ({\color{green}maso})	Schweinefleisch	Index
 věřící (adj.)	Gläubiger	Index
-vevnitř	drinnen (Duplikat)	Index
-vézt*, vezu (pf.)	transportieren (fahren) (pf.)	Index
+vevnitř	drinnen (selteneres Wort)	Index
+vézt*, vezu (pf.)	transportieren (fahren) (pf.)	Index Verben
 vídeňský (adj.)	Wiener	Index
-vidět, vidím (impf.)	sehen (impf.)	Index
+vidět, vidím (impf.)	sehen (impf.)	Index Verben
 {\color{red}vidlička}	Gabel	Index
 {\color{blue}Vietnam}, {\color{cyan}Vietnamec}, {\color{red}Vietnamka}	Vietnam, Vietnamese, Vietnamesin	Index
 {\color{red}vila}	Villa	Index
-vítat, vítám (impf.)	willkommen heißen (impf.)	Index
+vítat, vítám (impf.)	willkommen heißen (impf.)	Index Verben
 {\color{blue}vítr}	Wind	Index
 {\color{green}víza} (pl.)	Visa	Index
 {\color{green}vízum}, pl. {\color{green}víza}	Visum	Index
@@ -954,12 +928,11 @@ vlasy (pl.)	Haare (Kopf)	Index
 vnitřkem	innen hindurch	Index
 {\color{red}voda}	Wasser	Index
 vodní (adj.)	Wasser-	Index
-volat, volám (impf.)	rufen, anrufen (impf.)	Index
+volat, volám (impf.)	rufen, anrufen (impf.)	Index Verben
 volno	frei	Index
 {\color{blue}vousy} (pl.)	Bart	Index
 vprostředku	in der Mitte	Index
-vpředu	vorn	Index
-vstát*, vstanu (pf.)	aufstehen (pf.)	Index
+vstát*, vstanu (pf.)	aufstehen (pf.)	Index Verben
 však	jedoch	Index
 vulgární	vulgär	Index
 {\color{blue}vulkán}	Vulkan (Fremdwort)	Index
@@ -967,81 +940,80 @@ vy	ihr, Sie	Index
 výborně	ausgezeichnet (adv.)	Index
 výborný	ausgezeichnet (adj.)	Index
 {\color{red}výhoda}	Vorteil	Index
-vyhrát*, vyhraju (pf.)	gewinnen (pf.)	Index
-vyhrávat, vahrávám (impf.)	gewinnen (impf.)	Index
+vyhrát*, vyhraju (pf.)	gewinnen (pf.)	Index Verben
+vyhrávat, vahrávám (impf.)	gewinnen (impf.)	Index Verben
 {\color{blue}východ}	1. Osten, 2. Ausgang, 3. Sonnenuntergang	Index
 {\color{green}východiště}	Ausgangspunkt	Index
 východní	Ost-	Index
-vykoupat* se, vykoupu se (pf.)	baden (pf.)	Index
+vykoupat* se, vykoupu se (pf.)	baden (pf.)	Index Verben
 {\color{blue}výlet}	Ausflug	Index
 vylézt*, vylezu na skály (pf.)	klettern (Felsen) (pf.)	Index
-vylít*, vyliju (pf.)	ausgießen, ausschütten (pf.)	Index
+vylít*, vyliju (pf.)	ausgießen, ausschütten (pf.)	Index Verben
 vyluštit, vyluštím křížovku (pf.)	ein Kreuzworträtsel machen (pf.)	Index
-vyluxovat, vyluxuju (pf.)	staubsaugen (pf.)	Index
-vymalovat, vymaluju (pf.)	malern (Wohnung) (pf.)	Index
-vypadat, vypadám (impf.)	aussehen (impf.)	Index
-vypít*, vypiju (pf.)	austrinken (pf.)	Index
-vyprat*, vyperu oblečení (pf.)	waschen (Kleidung) (pf.)	Index
-vyřídit, vyřídím (pf.)	ausrichten (Grüße) (pf.)	Index
-vyřizovat, vyřizuju (impf.)	ausrichten (Grüße) (impf.)	Index
-vyslovovat, vyslovuju (impf.)	aussprechen (impf.)	Index
-vyslovit, vyslovím (pf.)	aussprechen (pf.)	Index
+vyluxovat, vyluxuju (pf.)	staubsaugen (pf.)	Index Verben
+vymalovat, vymaluju (pf.)	malern (Wohnung) (pf.)	Index Verben
+vypadat, vypadám (impf.)	aussehen (impf.)	Index Verben
+vypít*, vypiju (pf.)	austrinken (pf.)	Index Verben
+vyprat*, vyperu oblečení (pf.)	waschen (Kleidung) (pf.)	Index Verben
+vyřídit, vyřídím (pf.)	ausrichten (Grüße) (pf.)	Index Verben
+vyřizovat, vyřizuju (impf.)	ausrichten (Grüße) (impf.)	Index Verben
+vyslovovat, vyslovuju (impf.)	aussprechen (impf.)	Index Verben
+vyslovit, vyslovím (pf.)	aussprechen (pf.)	Index Verben
 výslovnost	Aussprache	Index
 vysoká škola	Hochschule	Index
 {\color{red}výstava}	Ausstellung	Index
-vysvětlit, vysvětlím (pf.)	erkären (pf.)	Index
-vysvětlovat, vysvětluju (impf.)	erklären (impf.)	Index
-vyžehlit, vyžehlím (pf.)	bügeln (pf.)	Index
-vzadu	hinten	Index
+vysvětlit, vysvětlím (pf.)	erkären (pf.)	Index Verben
+vysvětlovat, vysvětluju (impf.)	erklären (impf.)	Index Verben
+vyžehlit, vyžehlím (pf.)	bügeln (pf.)	Index Verben
 {\color{blue}vzduch}	Luft	Index
 vzhledem k	in Anbetracht dessen, mit Bezug auf, unter Berücksichtigung von, angesichts	Index
-vzít* si, vezmu si (pf.)	nehmen (auch i.S. von heiraten) (pf.)	Index
-vzít, vezmu (pf.)	nehmen (pf.)	Index
+vzít* si, vezmu si (pf.)	nehmen (auch i.S. von heiraten) (pf.)	Index Verben
+vzít, vezmu (pf.)	nehmen (pf.)	Index Verben
 {\color{blue}vzkaz} / {\color{red}zpráva}	Nachricht	Index
 {\color{blue}vztek}, {\color{red}zlost}	Wut, Ärger (2x)	Index
 z domova	von zu Hause	Index
 za (4x)	1. hinter, 2. in (zwei Tagen), 3. für, anstelle von, 4. per	Index
-zabíjet, zabíjím (impf.)	umbringen, erschlagen (impf.)	Index
-zabít*, zabiju (pf.)	umbringen, erschlagen (pf.)	Index
-zacvičit si, zacvičím si (pf.)	üben, Gymnastik machen (pf.)	Index
-začínat, začínám (impf.)	beginnen, anfangen (impf.)	Index
-začít*, začnu (pf.)	beginnen, anfangen (pf.)	Index
+zabíjet, zabíjím (impf.)	umbringen, erschlagen (impf.)	Index Verben
+zabít*, zabiju (pf.)	umbringen, erschlagen (pf.)	Index Verben
+zacvičit si, zacvičím si (pf.)	üben, Gymnastik machen (pf.)	Index Verben
+začínat, začínám (impf.)	beginnen, anfangen (impf.)	Index Verben
+začít*, začnu (pf.)	beginnen, anfangen (pf.)	Index Verben
 {\color{blue}záda} (pl.)	Rücken	Index
 zadem	durch den hinteren Teil	Index
 {\color{red}zahrada}	Garten	Index
 zahrát*, zahraju	spielen	Index
-zahřmít*, zahřmím (pf.)	donnern (pf.)	Index
+zahřmít*, zahřmím (pf.)	donnern (pf.)	Index Verben
 {\color{blue}záchod}	Toilette/WC (nicht Frendwort)	Index
-zakládat, zakládám (impf.)	gründen (impf.)	Index
+zakládat, zakládám (impf.)	gründen (impf.)	Index Verben
 základní škola	Grundschule (1.-9. Klasse)	Index
-založit, založím (pf.)	gründen (pf.)	Index
-zalyžovat si, zalyžuju si (pf.)	Ski laufen (pf.)	Index
+založit, založím (pf.)	gründen (pf.)	Index Verben
+zalyžovat si, zalyžuju si (pf.)	Ski laufen (pf.)	Index Verben
 {\color{green}zaměstnání}	Arbeit, Anstellung	Index
-zamíchat, zamíchám (pf.)	mischen (pf.)	Index
-zamilovat se, zamiluju se (pf.)	sich verlieben (pf.)	Index
-zamilovávat se, zamilovávat se (impf.)	sich verlieben (impf.)	Index
+zamíchat, zamíchám (pf.)	mischen (pf.)	Index Verben
+zamilovat se, zamiluju se (pf.)	sich verlieben (pf.)	Index Verben
+zamilovávat se, zamilovávat se (impf.)	sich verlieben (impf.)	Index Verben
 {\color{blue}západ}	1. Westen 2. Sonnenuntergang	Index
 západní	westlich, West-	Index
-zaplatit, zaplatím (pf.)	bezahlen, zahlen (pf.)	Index
-zaplavat* si, zaplavu si (pf.)	schwimmen (pf.)	Index
-zapomínat, zapomínám (impf.)	vergessen (impf.)	Index
+zaplatit, zaplatím (pf.)	bezahlen, zahlen (pf.)	Index Verben
+zaplavat* si, zaplavu si (pf.)	schwimmen (pf.)	Index Verben
+zapomínat, zapomínám (impf.)	vergessen (impf.)	Index Verben
 zapomnětlivý	vergesslich	Index
 zase	wieder, erneut	Index
-zasmát* se, zasměju se (pf.)	lachen (pf.)	Index
-zasnoubit se, zasnoubím se (pf.)	sich verloben (pf.)	Index
-zasnubovat se, zasnubuju se (impf.)	sich verloben (impf.)	Index
+zasmát* se, zasměju se (pf.)	lachen (pf.)	Index Verben
+zasnoubit se, zasnoubím se (pf.)	sich verloben (pf.)	Index Verben
+zasnubovat se, zasnubuju se (impf.)	sich verloben (impf.)	Index Verben
 {\color{red}zastávka}	Haltestelle (Straßenbahn, Bus)	Index
-zatancovat si, zatancuju si (pf.)	tanzen (pf.)	Index
+zatancovat si, zatancuju si (pf.)	tanzen (pf.)	Index Verben
 zataženo	bedeckt (Wetter)	Index
-zatelefonovat, zatelefonuju (pf.)	telefonieren (pf.)	Index
+zatelefonovat, zatelefonuju (pf.)	telefonieren (pf.)	Index Verben
 zatím	bis jetzt	Index
 zatímco	während (nicht zeitl.)	Index
 {\color{green}zav}{\color{green}azadlo}	Gepäck	Index
-zavolat, zavolám (pf.)	anrufen (pf.)	Index
+zavolat, zavolám (pf.)	anrufen (pf.)	Index Verben
 Zavolej! Zavolejte!	Ruf an! Ruft/Rufen Sie an!	Index
 {\color{blue}záznamník}	Anrufbeantworter	Index
-zazpívat, zazpívám (pf.)	singen (pf.)	Index
-zazvonit, zazvoním (pf.)	klingeln (pf.)	Index
+zazpívat, zazpívám (pf.)	singen (pf.)	Index Verben
+zazvonit, zazvoním (pf.)	klingeln (pf.)	Index Verben
 {\color{blue}zážit\uline{e}k}	Erlebnis	Index
 zdola	von unten	Index
 zdvořilý	höflich	Index
@@ -1049,12 +1021,12 @@ zelený	grün	Index
 {\color{green}zelí}	Kohl, Kraut	Index
 {\color{red}země}	1.Land (Staat), 2. Boden	Index
 {\color{red}Země}	die Erde	Index
-zemřít*, zemřu (pf.)	sterben (pf.) (Duplikat)	Index
+zemřít*, zemřu (pf.)	sterben (pf.) (Duplikat)	Index Verben
 zepředu	von vorn	Index
-zeptat se, zeptám se (pf.)	fragen (pf.)	Index
+zeptat se, zeptám se (pf.)	fragen (pf.)	Index Verben
 zevnitř	von drinnen, innen	Index
 zezadu	von hinten	Index
-zkotrolovat, zkontroluju (pf.)	kontrollieren (pf.)	Index
+zkotrolovat, zkontroluju (pf.)	kontrollieren (pf.)	Index Verben
 {\color{red}zkouška}	Prüfung	Index
 Zkus to! Zkuste to!	Versuch es! Versucht es!	Index
 {\color{red}zkušenost}	Erfahrung	Index
@@ -1062,28 +1034,28 @@ Zlaté stránky	Gelbe Seiten	Index
 zleva	von links	Index
 zlý	schlimm, böse	Index
 {\color{blue}zmat\uline{e}k}	Chaos, Unordnung	Index
-zmixovat, zmixuju (impf.)	mixen (impf.) (Duplikat)	Index
-znamenat, znamená (impf.)	bedeuten (impf.)	Index
-znát, znám (impf.)	kennen (impf.)	Index
+zmixovat, zmixuju (impf.)	mixen (impf.) (Duplikat)	Index Verben
+znamenat, znamená (impf.)	bedeuten (impf.)	Index Verben
+znát, znám (impf.)	kennen (impf.)	Index Verben
 zodpovědný	verantwortlich	Index
-zpívat, zpívám (impf.)	singen (impf.)	Index
+zpívat, zpívám (impf.)	singen (impf.)	Index Verben
 zprava	von rechts	Index
 zprostředku	aus, von der Mittel	Index
-ztrácet, ztrácím (impf.)	verlieren (impf.)	Index
-ztratit, ztratím (pf.)	verlieren (pf.)	Index
+ztrácet, ztrácím (impf.)	verlieren (impf.)	Index Verben
+ztratit, ztratím (pf.)	verlieren (pf.)	Index Verben
 {\color{blue}zub}	Zahn	Index
-zvát*, zvu (impf.)	einladen (impf.)	Index
+zvát*, zvu (impf.)	einladen (impf.)	Index Verben
 zvědavý	neugierig	Index
 zvenku	von draußen, außen	Index
 zvlášť	extra, getrennt	Index
-zvonit, zvoním (impf.)	klingeln (impf.)	Index
-žádat, žádám (impf.)	beantragen, bitten (offiziell) (impf.)	Index
+zvonit, zvoním (impf.)	klingeln (impf.)	Index Verben
+žádat, žádám (impf.)	beantragen, bitten (offiziell) (impf.)	Index Verben
 žádný (adj.)	kein (Duplikat)	Index
 {\color{blue}žalud\uline{e}k}	Magen	Index
-žehlit, žehlím (impf.)	bügeln (impf.)	Index
+žehlit, žehlím (impf.)	bügeln (impf.)	Index Verben
 ženatý	verheiratet (Mann)	Index
-ženit se, žením se (impf.)	heiraten (Mann) (impf.)	Index
-žít*, žiju (impf.)	leben (impf.)	Index
+ženit se, žením se (impf.)	heiraten (Mann) (impf.)	Index Verben
+žít*, žiju (impf.)	leben (impf.)	Index Verben
 {\color{blue}život}	Leben	Index
 životní {\color{blue}styl}	Lebensstil	Index
 {\color{red}žízeň}	Durst	Index

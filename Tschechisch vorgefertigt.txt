@@ -22,10 +22,8 @@ smažený sýr (m.)	gebackener Käse	05 05-20 vorgefertigt
 tatarská omáčka (w.)	Sauce Tatare	05 05-22 vorgefertigt
 vepřové maso (s.)	Schweinefleisch	05 05-23 vorgefertigt
 voda (w.)	Wasser	05 05-24 vorgefertigt
-angličtina (w.)	Englisch	05 05-25 vorgefertigt
 matematika (w.)	Mathematik	05 05-26 vorgefertigt
 němčina (w.)	Deutsch	05 05-27 vorgefertigt
-čeština (w.)	Tschechisch	05 05-28 vorgefertigt
 je o rok starší než	er ist um ein Jahr älter als	05 05-29 vorgefertigt
 narozeniny (w.Mz.)	Geburtstag	05 05-31 vorgefertigt
 dárek (m.)	Geschenk	05 05-32 vorgefertigt
@@ -102,7 +100,6 @@ věta (w.)	Satz	06 06-12 vorgefertigt
 turista (m.bel.)	Tourist	06 06-13 vorgefertigt
 který, která, které	welcher, welche, welches	06 06-14 vorgefertigt
 často	oft, häufig	06 06-15 vorgefertigt
-slyšet	hören	06 06-16 vorgefertigt
 v roce	im Jahr	06 06-17 vorgefertigt
 umřít	sterben	06 06-18 vorgefertigt
 přijít	kommen	06 06-19 vorgefertigt
@@ -143,7 +140,6 @@ brzo/brzy	zeitig, bald	06 06-58 vorgefertigt
 nakonec	am Ende, schließlich	06 06-61 vorgefertigt
 nedávno	unlängst, neulich	06 06-62 vorgefertigt
 nejdřív	zuerst	06 06-63 vorgefertigt
-pak, potom	dann, danach	06 06-64 vorgefertigt
 pozdě	spät	06 06-65 vorgefertigt
 později	später	06 06-66 vorgefertigt
 včera	gestern	06 06-67 vorgefertigt
@@ -217,7 +213,6 @@ vana (w.)	Wanne	07 07-62 vorgefertigt
 záchod (m.)	Toilette	07 07-63 vorgefertigt
 zahrada (w.)	Garten	07 07-64 vorgefertigt
 podtrhněte	unterstreicht // unterstreichen Sie	08 08-1 vorgefertigt
-správný, -á, -é	richtig	08 08-2 vorgefertigt
 špatný, -á, -é	schlecht	08 08-3 vorgefertigt
 o víkendu (m.)	am Wochenende	08 08-4 vorgefertigt
 počasí (s.)	Wetter	08 08-5 vorgefertigt
@@ -244,16 +239,13 @@ válka (w.)	Krieg	08 08-25 vorgefertigt
 stavět	bauen	08 08-26 vorgefertigt
 na moři (s.)	am Meer	08 08-27 vorgefertigt
 používat/ použít	verwenden	08 08-28 vorgefertigt
-ekologický, -á, -é	ökologisch, Umweltschutz-	08 08-29 vorgefertigt
 jít*	gehen	08 08-30 vorgefertigt
 jet*	fahren	08 08-31 vorgefertigt
 jet autobusem (m.)	mit dem Autobus fahren	08 08-35 vorgefertigt
-jet áčkem (s.)	mit der A fahren	08 08-37 vorgefertigt
 jet taxíkem (m.)	mit dem Taxi fahren	08 08-38 vorgefertigt
 jet tramvají (w.)	mit der Straßenbahn fahren	08 08-40 vorgefertigt
 jet lodí (w.)	mit dem Boot fahren	08 08-41 vorgefertigt
 jet na kole (s.)	mit dem Rad fahren	08 08-42 vorgefertigt
-nádraží (s.)	Bahnhof	08 08-44 vorgefertigt
 návštěva (w.)	Besuch	08 08-46 vorgefertigt
 ostrov (m.)	Insel	08 08-47 vorgefertigt
 procházka (w.)	Spaziergang	08 08-48 vorgefertigt
@@ -268,7 +260,6 @@ lézt / vylézt	klettern	08 08-61 vorgefertigt
 skála (w.)	Felsen	08 08-62 vorgefertigt
 zvíře (s.) // zvířata	Tier // Tiere	08 08-63 vorgefertigt
 květina (w.)	Blume	08 08-64 vorgefertigt
-strom (m.)	Baum	08 08-65 vorgefertigt
 pohoda (w.)	Gemütlichkeit	08 08-66 vorgefertigt
 zajímavý, -á, -é	interessant	08 08-67 vorgefertigt
 opalovat se	sich sonnen, sich bräunen	08 08-68 vorgefertigt
@@ -391,7 +382,6 @@ kavárna (w.)	Kaffeehaus	10 10-29 vorgefertigt
 představte si, že	stellt euch vor, dass	10 10-31 vorgefertigt
 cesta (w.)kolem světa (m.)	eine Reise um die Erde	10 10-32 vorgefertigt
 nejdelší, -í, -í	der/die/das Längste	10 10-33 vorgefertigt
-najít* // najdu, najdeš, najde, // najdeme, najdete, najdou // našel/našla/našlo/našli	finden	10 10-35 vorgefertigt
 ubytování (s.)	Unterkunft	10 10-36 vorgefertigt
 blízko (+2.F.)	in der Nähe von, nahe, unweit (Präposition)	10 10-37 vorgefertigt
 kolem/okolo (+2.F.)	um // herum // in der Umgebung von	10 10-38 vorgefertigt
@@ -418,7 +408,6 @@ do kdy …?	bis wann …?	11 11-10 vorgefertigt
 od kdy …?	seit wann …?	11 11-11 vorgefertigt
 nějaký, -á, -é	(irgend)ein	11 11-12 vorgefertigt
 říkat/ říct	sagen	11 11-13 vorgefertigt
-pamatovat si	sich erinnern an	11 11-14 vorgefertigt
 kudrnatý, -á, -é	lockig	11 11-15 vorgefertigt
 opravdu	wirklich	11 11-16 vorgefertigt
 koho	wessen (Menschen)	11 11-18 vorgefertigt
@@ -492,7 +481,6 @@ Vánoce (w.)	Weihnachten	12 12-25 vorgefertigt
 nejdřív	zuerst	12 12-26 vorgefertigt
 obývák (m.)	Wohnzimmer	12 12-27 vorgefertigt
 pořád	immer // ständig	12 12-28 vorgefertigt
-stromeč\uline{e}k, strome\textbf{čku} (m.)	Weihnachtsbaum	12 12-29 vorgefertigt
 plánovat/ naplánovat	planen	12 12-31 vorgefertigt
 účet (m.)	Rechnung	12 12-32 vorgefertigt
 vařit/ uvařit	kochen	12 12-33 vorgefertigt
@@ -561,8 +549,6 @@ sjet/ sjíždět	herunterfahren	13 13-54 vorgefertigt
 přejet/ přejíždět	überfahren	13 13-55 vorgefertigt
 král (m.bel.)	König	13 13-56 vorgefertigt
 královna (w.)	Königin	13 13-57 vorgefertigt
-princ (m.bel.)	Prinz	13 13-58 vorgefertigt
-princezna (w.)	Prinzessin	13 13-59 vorgefertigt
 drak (m.bel.)	Drache	13 13-60 vorgefertigt
 zabít draka (m.bel.)	einen Drachen töten	13 13-61 vorgefertigt
 les (m.)	Wald	13 13-63 vorgefertigt
@@ -637,7 +623,6 @@ zakládat / založit	gründen	14 14-59 vorgefertigt
 ženit se / oženit se (+s+7.F.)	heiraten*bei Männern*	14 14-61 vorgefertigt
 plat (m.)	Gehalt	14 14-62 vorgefertigt
 lidský, -á, é	menschlich	14 14-63 vorgefertigt
-hádat	raten	14 14-64 vorgefertigt
 ctižádostivý	ehrgeizig	15 15-1 vorgefertigt
 ambiciózní	ambitioniert	15 15-2 vorgefertigt
 hodný	nett, lieb	15 15-3 vorgefertigt
@@ -874,7 +859,6 @@ objevovat / objevit	entdecken	17 17-47 vorgefertigt
 překládání (s.)	das Übersetzen	17 17-48 vorgefertigt
 radost (w.)	Freude	17 17-49 vorgefertigt
 chata (w.)	Wochenendhütte/haus	17 17-50 vorgefertigt
-najít	finden	17 17-51 vorgefertigt
 pořád	ständig, immer	17 17-52 vorgefertigt
 spolu	zusammen, gemeinsam	17 17-53 vorgefertigt
 tvrdě	fest	17 17-54 vorgefertigt
@@ -891,7 +875,6 @@ to je omyl (m.)	falsch verbunden	17 17-64 vorgefertigt
 nechávat /nechat vzkaz (m.)	eine Nachricht hinterlassen	17 17-65 vorgefertigt
 přepojím	ich verbinde	17 17-66 vorgefertigt
 je obsazeno	es ist besetzt	17 17-67 vorgefertigt
-haló	hallo (nur am Telefon)	17 17-68 vorgefertigt
 být na internetu (m.)	im Internet sein	17 17-69 vorgefertigt
 pracovní schůzka (w.)	Arbeitstreffen	17 17-70 vorgefertigt
 chodit / jít pozdě	Verspätung haben	17 17-71 vorgefertigt
@@ -901,7 +884,6 @@ používat mobil (m.)	Handy benutzen	17 17-75 vorgefertigt
 vyřizovat / vyřídit	ausrichten	17 17-76 vorgefertigt
 linka (w.)	Telefonleitung	17 17-77 vorgefertigt
 pevná linka (w.)	Festnetz(nummer)	17 17-78 vorgefertigt
-pohled (m.), pohlednice (w.)	Ansichtskarte	17 17-79 vorgefertigt
 záznamník (m.)	Anrufbeantworter	17 17-80 vorgefertigt
 oblečení (s.)	Kleidung	18 18-1 vorgefertigt
 oblékat se / obléknout se	anziehen, bekleiden	18 18-2 vorgefertigt
@@ -915,7 +897,6 @@ nosit / nést	tragen	18 18-9 vorgefertigt
 podobný, -á, -é	ähnlich	18 18-10 vorgefertigt
 věřit	glauben	18 18-11 vorgefertigt
 vysvětlovat / vysvětlit	erklären	18 18-12 vorgefertigt
-slyšet	hören	18 18-13 vorgefertigt
 chutnat	schmecken	18 18-14 vorgefertigt
 líbit se	gefallen	18 18-15 vorgefertigt
 milovat	lieben	18 18-16 vorgefertigt

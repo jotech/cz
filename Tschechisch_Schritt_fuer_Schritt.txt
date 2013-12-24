@@ -382,7 +382,7 @@ po{\v{c}}{\'{\i}}tat, po{\v{c}}{\'{\i}}t{\'a}m (impf.)	z{\"a}hlen (impf.)	03 Ind
 {\color{blue}pohled} (oder) {\color{red}pohlednice}	Ansichtskarte	03 Index
 {\color{green}poledne}	Mittag (im: am Mittag)	03 Index
 {\color{green}pond{\v{e}}l{\'{\i}}}	Montag	03 Index
-potom	danach (zeitlich) (adv.)	03 Index
+pak, potom (2x)	dann, danach (zeitlich, 2x) (adv.)	03 Index
 pou{\v{z}}{\'{\i}}vat, pou{\v{z}}{\'{\i}}v{\'a}m (impf.)	verwenden, gebrauchen (impf.)	03 Index Verben
 {\color{red}prababi{\v{c}}ka}	Urgro{\ss}mutter	02 Index
 pracovat, pracuju (impf.)	arbeiten (impf.)	03 03b Index Verben
@@ -560,7 +560,7 @@ dokončete věty	Beenden Sie den Satz/Beendet den Satz	03
 můžeme	wir können (nous pouvons)	03
 dělejte otázky	Stellt/Stellen Sie Fragen	03
 {\color{blue}týden}	Woche	03
-rád, ráda, rádo; rádi (pl.) (adj.)	gern (adv.)	03
+rád, ráda, rádo; rádi (pl.) (adj.)	gern (adv.) (4x)	03
 Petr rád hraje fotbal	Peter spielt gerne Fußball	03
 Změňte věty podle modelu.	Ändern Sie /Ändert die Sätze nach dem Muster	03
 dívat se na televizi	fernsehen	03
@@ -650,10 +650,10 @@ doma	zu Hause (adv.)	04 04-3 Index vorgefertigt
 {\color{green}kino} // \textbf{v} kin\textbf{ě}	Kino // im Kino	04 04-8 vorgefertigt
 {\color{blue}kostel} // \textbf{v} kostel\textbf{e}	Kirche (Gebäude) // in der Kirche	04 04-9 Index vorgefertigt
 {\color{green}letiště} // \textbf{na} letišt\textbf{i}	Flughafen // am Flughafen	04 04-10 Index vorgefertigt
-{\color{blue}město} // \textbf{ve} měst\textbf{ě}	Stadt // in der Stadt	04 04-11 Index vorgefertigt
+{\color{green}město} // \textbf{ve} měst\textbf{ě}	Stadt // in der Stadt	04 04-11 Index vorgefertigt
 {\color{green}moře} // \textbf{v} moř\textbf{i}	Meer // im Meer	04 04-12 Index vorgefertigt
 {\color{blue}most} // \textbf{na} most\textbf{ě}	Brücke // auf der Brücke	04 04-13 Index vorgefertigt
-{\color{green}náměstí} // \textbf{na} náměstí	Platz // auf dem Platz	04 04-14 Index vorgefertigt
+{\color{green}náměstí}; \textbf{na} náměstí	Platz (i.S.v. Straßenname, in der Stadt,...); auf dem Platz	04 04-14 Index vorgefertigt
 {\color{red}nemocnice} // \textbf{v} nemocnic\textbf{i}	Krankenhaus // im Krankenhaus	04 04-15 Index vorgefertigt
 {\color{blue}obchod} // \textbf{v} obchod\textbf{ě}	Kaufhaus/Geschäft // im Geschäft/...	04 04-16 Index vorgefertigt
 {\color{red}příroda} // \textbf{v} přírod\textbf{ě}	Natur // in der Natur	04 04-18 Index vorgefertigt
@@ -690,37 +690,77 @@ Karlův {\color{blue}most}	Karlsbrücke	04 04-74 vorgefertigt
 hezk\textbf{y}	schön, hübsch (Adverb)	04 04-76 vorgefertigt
 chtít + A (impf.) // chc\textbf{i}, chceš, chce, chceme, chcete, chtějí / chtí // chtěl, chtěj	möchten, wollen (impf.)	04 04-77 Index Verben unregelmaessig vorgefertigt
 Hodí se ti to? // Hodí se Vám to?	Passt dir/Ihnen das? Ist dir/Ihnen das recht? (Termin)	04 04-80 Konversation vorgefertigt
+{\color{red}angličtina}	Englisch (i.S.v. Sprache)	04 vorgefertigt
+{\color{red}čeština}	Tschechisch (Sprache)	04 vorgefertigt
+slyšet,&nbsp;slyším (impf.)	hören (i.S.v. "hear", nicht "listen")	04 Verben vorgefertigt
 proč?	warum?	03 06-24 Index vorgefertigt
 {\color{red}náhoda}	Zufall	04 Index vorgefertigt
+správný, -á, -é	richtig	04 vorgefertigt
+ekologický, -á, -é	ökologisch, Umweltschutz-	04 vorgefertigt
+jet [metrem] {\color{green}áčkem}	mit der [U-Bahn-](Linie) A fahren	04 index vorgefertigt
+{\color{blue}strom}	Baum	04 vorgefertigt
 Cože?	Was? (Unglauben, Unverständnis)	03 vorgefertigt
 z / ze (+2.F.)	aus, von	04 Index vorgefertigt
+najít* // najdu, najdeš, najde, najdeme, najdete, najdou // našel/našla/našlo/našli&nbsp;&nbsp;(pf.)	finden (pf.)	04 Index vorgefertigt
+pamatovat si	sich erinnern an	04 vorgefertigt
 víc	mehr	03 vorgefertigt
 míň	weniger	03 vorgefertigt
+{\color{blue}stromeč\uline{e}k}, (genitiv:) strome\textbf{čku}	Weihnachtsbaum	04 vorgefertigt
+{\color{cyan}princ}	Prinz	04 vorgefertigt
+{\color{red}princezna}	Prinzessin	04 vorgefertigt
+hádat,&nbsp;hádám (impf.)	raten	04 vorgefertigt
+haló	hallo (nur am Telefon)	04 vorgefertigt
 hodí se mi to	mir passt das (Termin)	04 Konversation vorgefertigt
 {\color{cyan}obchodník}	Kaufmann, Geschäftsmann	04 19-42 vorgefertigt
+{\color{red}Afrika}, {\color{cyan}Afričan}, {\color{red}Afričanka}	Afrika, Afrikaner, Afrikanerin	04 Index
+{\color{red}Asie}, {\color{cyan}Asiat}, {\color{red}Asiatka}	Asien, Asiat, Asiatin	04 Index
+{\color{blue}barák} (coll.)	Haus (coll.)	04 Index
+{\color{blue}bazén}	Schwimmbad, -becken	04 Index
+béčkem	mit der Linie B	04 Index
+bohužel	leider	04 Index
+céčkem	mit der Linie C	04 Index
+{\color{green}centrum}	Zentrum, Stadtzentrum	04 Index
+{\color{red}cukrárna}	Konditorei	04 Index
 {\color{blue}dopis}, dopisy	Brief, Briefe	03 Index vorgefertigt
+doplnit, doplním (pf.)	ergänzen, vervollständigen (pf.)	04 Index Verben
 {\color{blue}džus}	Saft	03 Index
+fakt	echt	04
+{\color{red}firma}	Firma	04 Index
 {\color{red}hodinky} (pl.)	Armbanduhr	04 04-79 Index vorgefertigt
 Jde to. / Ujde to.	Es geht so.	01 Index
-každý	jeder	03 Indexn
+každý	jeder	03 Index
 končit, končím (impf.)	beenden, aufhören (impf.)	04 Index Verben vorgefertigt
 {\color{green}letadlo}; letadlem	Flugzeug, Flieger; mit dem Flugzeug (Instrumentativ)	04 Index
 líný	faul	03 Index vorgefertigt
+{\color{green}nádraží}	Bahnhof (Zug, Bus)	04 Index vorgefertigt
 nahoru	nach oben, hinauf	04 Index vorgefertigt
+napsat*, napíšu (pf.)	schreiben (pf.)	04 Index Verben
+nealkoholický	nichtalkoholisch	04 Index
 nějaký	irgendein (, gewisse)	04 Index vorgefertigt
 nudný	langweilig	03 Index
 oblíbený	beliebt, Lieblings-	04 Index vorgefertigt
 obvykle	gewöhnlich (adv.)	03 Index vorgefertigt
+{\color{blue}panelák}	Plattenbau	04 Index
+panelový (adj.)	Platten-	04 Index
+poslouchat, poslouchám (impf.)	1. zuhören  2. gehorchen (impf.)	04 Index Verben
 {\color{red}práce} // \textbf{v} práci	Arbeit // in der Arbeit	04 04-17 Index vorgefertigt
+{\color{blue}program}	Programm	04 Index
 proto	deshalb, darum, daher, deswegen	03 Index
+{\color{red}recepce}	Rezeption, Empfang	04 Index
+{\color{blue}rybník}	(Fisch-) Teich	04 Index
 smát* se, směju se, smál se, směj se (impf.)	lachen (impf.)	03 Index Verben
 sportovat, sportuju (impf.)	Sport treiben (impf.)	03 Index Verben
+{\color{red}šunka}	Schinken	04 Index
 tam (Adverb)	dort, dorthin	04 04-36 Index vorgefertigt
+typický	typisch	04 Index
 učit se, učím se (impf.)	lernen (i.S.v. Schüler, Selbststudium) (impf.)	02 Index Verben
 unavený	müde	03 Index vorgefertigt
+uvnitř	drinnen	04 Index
 venku	draußen (adv.)	03 Index
 vlevo, nalevo	links (Adverb) (2x)	04 Index vorgefertigt
 vpravo	rechts (Adverb)	04 Index vorgefertigt
+vpředu	vorn	04 Index
+vzadu	hinten	04 Index
 zapomenout*, zapomenu, zapomněl/zapomenul (pf.)	vergessen (pf.)	04 04-78 Index Verben unregelmaessig vorgefertigt
 žlutý	gelb	04 Index adj vorgefertigt
 (Antwort auf "wann?"): In 1998 (2x)	V roce tisíc devět set devadesát osm // V roce devatenáct set devadesát osm	03 Konversation
@@ -737,8 +777,34 @@ Pít víno je zdravé.	Wein trinken ist gesund. (Wortstellung!)	03 Konversation
 víc než 12 hodin	mehr als 12 Stunden	03
 míň než 8 hodin	weniger als 8 Stunden	03
 5 až 9	5 bis 9	03
-Nepracujete moc?	Arbeitest Du nicht (arg) viel?	03 grammatik
+Nepracujete moc?	Arbeiten Sie nicht (arg) viel?	03 grammatik
 Ona moc nelyžuje.	Sie fährt nicht viel Ski.	03 grammatik
 Wie macht man's besser: *"nerad nespím"	"rád spím". Die doppelte Negation hebt sich hier auf.	03 grammatik
 o půlnoci	um Mitternacht	03
 Proč jsi večer unavený?	Warum bist Du am Abend müde?	03
+spojit,&nbsp;spojím (impf.?)	vereinigen, verbinden (impf.?)	04 Verben
+Jak je to daleko?	Wie weit ist das?	04 Konversation
+{\color{blue}penzion}	Pension (i.S.v. Unterkunft)	04
+telefonní	Telefon- (adj.)	04
+formální	formal (i.S.v. Sprachebene, Bildung) (adj)	04 adj
+seřadit,&nbsp;seřadím (impf.?)	ordnen (impf.?)	04 Verben
+<div>reagovat,&nbsp;reaguju</div>	reagieren, antworten	04 Verben
+napřiklad	zum Beispiel (adv.)	04
+pojďte dál	komm rein!	04
+{\color{red}organizace}	Organisation	04
+fungovat,&nbsp;fungugu	betreiben, funktionieren	04 Verben
+{\color{green}misto}	Platz (i.S.v. Situation, Stätte, Raum)	04
+Veselé Vánoce a sťastný nový rok!	Frohe Weihnachten und frohes neues Jahr!	04 Konversation
+sťastný	glücklich (adj.)	04 adj
+Dole je řeka.	Ein Fluss ist unten. (Wortstellung)	04 grammatik
+{\color{red}realita}	Wirklichkeit	04
+{\color{red}senzace}	Sensation, sensationelle Nachricht	04
+{\color{cyan}alkoholik}	Alkoholiker	04
+{\color{cyan}chuligán}	Hooligan	04
+{\color{blue}kvíz}	Quizz	04
+{\color{red}reakce}	Reaktion(, Antwort)	04
+zvýrazněný	highlighted (adj.)	04
+vyškrtnout,&nbsp;vyškrtnu (pf.?)	durchstreichen (pf.?)	04 Verben
+patřit,&nbsp;patřím (impf.?)	dazugehören (impf.?)	04 Verben
+{\color{red}mapa}	Landkarte	04
+{\color{cyan}cizinec}	Fremder	04
