@@ -312,7 +312,7 @@ m{\'{\i}}t* {\color{blue}hlad} (impf.)	Hunger haben (impf.)	03 03b Index Verben 
 m{\'{\i}}t* r{\'y}mu (impf.)	einen Schnupfen haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* sch{\accent'27u}zku (impf.)	eine Verabredung haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* sm{\accent'27u}lu (impf.)	Pech haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* strach (impf.)	Angst haben (impf.)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* {\color{blue}strach} (impf.)	Angst haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* svatbu	Hochzeit feiern	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{green}{\v{s}}t{\v{e}}st{\'{\i}} }(impf.)	Gl{\"u}ck haben	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* volno (impf.)	frei haben (impf.)	03 03b Index Verben unregelmaessig
@@ -708,12 +708,12 @@ míň	weniger	03 vorgefertigt
 {\color{blue}stromeč\uline{e}k}, (genitiv:) strome\textbf{čku}	Weihnachtsbaum	04 vorgefertigt
 {\color{cyan}princ}	Prinz	04 vorgefertigt
 {\color{red}princezna}	Prinzessin	04 vorgefertigt
-hádat, hádám (impf.)	raten	04 vorgefertigt
+hádat, hádám (impf.)	raten (impf.)	04 vorgefertigt
 haló	hallo (nur am Telefon)	04 vorgefertigt
 hodí se mi to	mir passt das (Termin)	04 Konversation vorgefertigt
 {\color{cyan}obchodník}	Kaufmann, Geschäftsmann	04 19-42 vorgefertigt
 {\color{red}Afrika}, {\color{cyan}Afričan}, {\color{red}Afričanka}	Afrika, Afrikaner, Afrikanerin	04 Index
-{\color{red}Asie}, {\color{cyan}Asiat}, {\color{red}Asiatka}	Asien, Asiat, Asiatin	04 Index
+{\color{red}Asie}, {\color{cyan}Asiat}, {\color{red}Asiatka}	Asien, Asiate, Asiatin	04 Index
 {\color{blue}barák} (coll.)	Haus (coll.)	04 Index
 {\color{blue}bazén}	Schwimmbad, -becken	04 Index
 béčkem	mit der Linie B	04 Index
@@ -789,9 +789,9 @@ telefonní	Telefon- (adj.)	04
 formální	formal (i.S.v. Sprachebene, Bildung) (adj)	04 adj
 seřadit, seřadím (impf.?)	ordnen (impf.?)	04 Verben
 napřiklad	zum Beispiel (adv.)	04
-pojďte dál	komm rein!	04
+pojďte dál	kommen Sie rein!	04
 {\color{red}organizace}	Organisation	04
-fungovat, fungugu	betreiben, funktionieren	04 Verben
+fungovat, funguju	betreiben, funktionieren	04 Verben
 {\color{green}misto}	Platz (i.S.v. Situation, Stätte, Raum)	04
 Veselé Vánoce a sťastný nový rok!	Frohe Weihnachten und frohes neues Jahr!	04 Konversation
 sťastný	glücklich (adj.)	04 adj
