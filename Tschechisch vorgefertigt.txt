@@ -1,15 +1,15 @@
-bramborový salát (m.)	Erdäpfelsalat	05 05-1 vorgefertigt
-brambor (m.) // brambory	Erdapfel, // Erdäpfel	05 05-2 vorgefertigt
+bramborový salát (m.)	Kartoffelsalat	05 05-1 vorgefertigt
+brambor (m.) // brambory	Kartoffel, Kartoffeln	05 05-2 vorgefertigt
 dezert (m.) // moučník (m.)	Nachtisch, // Mehlspeise	05 05-3 vorgefertigt
 guláš (m.)	Gulasch	05 05-4 vorgefertigt
 hlavní jídlo (s.)	Hauptspeise	05 05-5 vorgefertigt
 hovězí maso (s.)	Rindfleisch	05 05-6 vorgefertigt
-hranol\textbf{\uline{e}}k (m.) // hranolky	Pommes	05 05-7 vorgefertigt
+hranol\textbf{\uline{e}}k (m.) // hranolky	Pommes, (plural)	05 05-7 vorgefertigt
 kapr (m.bel.)	Karpfen	05 05-8 vorgefertigt
 kroketa (w.)	Krokette	05 05-9 vorgefertigt
 losos (m.bel.)	Lachs	05 05-10 vorgefertigt
 omáčka (w.)	Soße	05 05-11 vorgefertigt
-palačinka, // palačinky	Palatschinke, // Palatschinken	05 05-12 vorgefertigt
+palačinka, palačinky	Eierkuchen, (plural)	05 05-12 vorgefertigt
 pečené kuře (s.)	Brathendl	05 05-13 vorgefertigt
 polévka (w.)	Suppe	05 05-14 vorgefertigt
 pstruh (m.bel.)	Forelle	05 05-15 vorgefertigt
@@ -18,7 +18,7 @@ rýže (w.)	Reis	05 05-17 vorgefertigt
 ryba, ryby (w.)	Fisch	05 05-18 vorgefertigt
 řízek (m.)	Schnitzel	05 05-19 vorgefertigt
 smažený sýr (m.)	gebackener Käse	05 05-20 vorgefertigt
-šlehačka (w.)	Schlagobers	05 05-21 vorgefertigt
+šlehačka (w.)	Schlagsahne	05 05-21 vorgefertigt
 tatarská omáčka (w.)	Sauce Tatare	05 05-22 vorgefertigt
 vepřové maso (s.)	Schweinefleisch	05 05-23 vorgefertigt
 voda (w.)	Wasser	05 05-24 vorgefertigt
@@ -31,7 +31,6 @@ překvapení (s.)	Überraschung	05 05-33 vorgefertigt
 skříň (\textbf{w}.)	Kasten, Schrank	05 05-34 vorgefertigt
 postel (\textbf{w}.)	Bett	05 05-35 vorgefertigt
 knihovna (w.)	Bücherregal	05 05-36 vorgefertigt
-příští	nächster	05 05-37 vorgefertigt
 květiny (w.Mz.)	Blumen	05 05-38 vorgefertigt
 na	auf	05 05-39 vorgefertigt
 pro	für	05 05-40 vorgefertigt
@@ -54,7 +53,6 @@ Je tady volno?	Ist hier frei?	05 05-56 vorgefertigt
 Dám si …	Ich nehme…	05 05-57 vorgefertigt
 Chtěl bych … (m.) // Chtěla bych… (w.)	Ich hätte gerne …	05 05-58 vorgefertigt
 ještě jednou	noch einmal	05 05-59 vorgefertigt
-To je všechno?	Ist das alles?	05 05-60 vorgefertigt
 Prosím účet. (m.)	Die Rechnung, bitte.	05 05-61 vorgefertigt
 Zaplatím.	Ich bezahle.	05 05-62 vorgefertigt
 Co si dáte?	Was nehmen Sie?	05 05-63 vorgefertigt
@@ -63,27 +61,12 @@ Ještě něco?	Noch etwas?	05 05-65 vorgefertigt
 Nemáte drobné?	Haben Sie kein Kleingeld?	05 05-66 vorgefertigt
 A co k pití?	Und zu trinken?	05 05-67 vorgefertigt
 Zvlášť nebo dohromady?	Getrennt oder zusammen?	05 05-68 vorgefertigt
-v hospodě (w.)	im Wirtshaus	05 05-70 vorgefertigt
-v restauraci (w.)	im Restaurant	05 05-71 vorgefertigt
 v cukrárně (w.)	in der Konditorei	05 05-72 vorgefertigt
 hovězí polévka (w.)	Rindsuppe	05 05-73 vorgefertigt
-vepřové maso (s.)	Schweinefleisch	05 05-74 vorgefertigt
-červené víno (s.)	Rotwein	05 05-75 vorgefertigt
-bílé víno (s.)	Weißwein	05 05-76 vorgefertigt
 zelený čaj (m.)	grüner Tee	05 05-78 vorgefertigt
 černá káva (w.)	schwarzer Kaffee	05 05-79 vorgefertigt
 mít starosti (w.Mz.)	Sorgen haben	05 05-80 vorgefertigt
-mít krásný život (m.)	ein schönes Leben haben	05 05-81 vorgefertigt
 mít špatnou náladu (w.)	schlechte Laune haben	05 05-82 vorgefertigt
-mít nápad (m.)	einen Einfall/ eine Idee haben	05 05-83 vorgefertigt
-mít hlad (m.)	Hunger haben	05 05-84 vorgefertigt
-mít žízeň (w.)	Durst haben	05 05-85 vorgefertigt
-mít dovolenou (w.\textbf{Adj}.)	Urlaub haben	05 05-86 vorgefertigt
-mít návštěvu (w.)	Besuch haben	05 05-88 vorgefertigt
-mít peníze (m.Mz.)	Geld haben	05 05-89 vorgefertigt
-mít pravdu (w.)	Recht haben	05 05-90 vorgefertigt
-mít strach (m.)	Angst haben	05 05-94 vorgefertigt
-mít štěstí (s.)	Glück haben	05 05-95 vorgefertigt
 odskočím se	Ich geh mal schnell wo hin. (Klo)	05 05-96 vorgefertigt
 dělat	machen, tun	06 06-1 vorgefertigt
 britský, -á, -é	britisch	06 06-2 vorgefertigt
@@ -736,7 +719,6 @@ slunečný (Adj.) – slunečno (Adv.)	sonnig	16 16-52 vorgefertigt
 suchý (Adj.) – sucho (Adv.)	trocken	16 16-53 vorgefertigt
 ošklivý (Adj.) – ošklivě (Adv.)	hässlich	16 16-54 vorgefertigt
 pršet, prší	regnen, es regnet	16 16-55 vorgefertigt
-sněžit, sněží	schneien, es schneit	16 16-56 vorgefertigt
 mrznout	frieren	16 16-57 vorgefertigt
 klouzat	glatt sein	16 16-58 vorgefertigt
 postupně	allmählich	16 16-59 vorgefertigt
