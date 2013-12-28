@@ -1,73 +1,3 @@
-bramborový salát (m.)	Kartoffelsalat	05 05-1 vorgefertigt
-brambor (m.) // brambory	Kartoffel, Kartoffeln	05 05-2 vorgefertigt
-dezert (m.) // moučník (m.)	Nachtisch, // Mehlspeise	05 05-3 vorgefertigt
-guláš (m.)	Gulasch	05 05-4 vorgefertigt
-hlavní jídlo (s.)	Hauptspeise	05 05-5 vorgefertigt
-hovězí maso (s.)	Rindfleisch	05 05-6 vorgefertigt
-hranol\textbf{\uline{e}}k (m.) // hranolky	Pommes, (plural)	05 05-7 vorgefertigt
-kapr (m.bel.)	Karpfen	05 05-8 vorgefertigt
-kroketa (w.)	Krokette	05 05-9 vorgefertigt
-losos (m.bel.)	Lachs	05 05-10 vorgefertigt
-omáčka (w.)	Soße	05 05-11 vorgefertigt
-palačinka, palačinky	Eierkuchen, (plural)	05 05-12 vorgefertigt
-pečené kuře (s.)	Brathendl	05 05-13 vorgefertigt
-polévka (w.)	Suppe	05 05-14 vorgefertigt
-pstruh (m.bel.)	Forelle	05 05-15 vorgefertigt
-roláda (w.)	Roulade	05 05-16 vorgefertigt
-rýže (w.)	Reis	05 05-17 vorgefertigt
-ryba, ryby (w.)	Fisch	05 05-18 vorgefertigt
-řízek (m.)	Schnitzel	05 05-19 vorgefertigt
-smažený sýr (m.)	gebackener Käse	05 05-20 vorgefertigt
-šlehačka (w.)	Schlagsahne	05 05-21 vorgefertigt
-tatarská omáčka (w.)	Sauce Tatare	05 05-22 vorgefertigt
-vepřové maso (s.)	Schweinefleisch	05 05-23 vorgefertigt
-voda (w.)	Wasser	05 05-24 vorgefertigt
-matematika (w.)	Mathematik	05 05-26 vorgefertigt
-němčina (w.)	Deutsch	05 05-27 vorgefertigt
-je o rok starší než	er ist um ein Jahr älter als	05 05-29 vorgefertigt
-narozeniny (w.Mz.)	Geburtstag	05 05-31 vorgefertigt
-dárek (m.)	Geschenk	05 05-32 vorgefertigt
-překvapení (s.)	Überraschung	05 05-33 vorgefertigt
-skříň (\textbf{w}.)	Kasten, Schrank	05 05-34 vorgefertigt
-postel (\textbf{w}.)	Bett	05 05-35 vorgefertigt
-knihovna (w.)	Bücherregal	05 05-36 vorgefertigt
-květiny (w.Mz.)	Blumen	05 05-38 vorgefertigt
-na	auf	05 05-39 vorgefertigt
-pro	für	05 05-40 vorgefertigt
-za (Wertangabe) // za tisíc korun	um … (Wert) // um Tausend Kronen	05 05-41 vorgefertigt
-v (Zeitangaben) // v jednu hodinu // v pátek	um, am // um ein Uhr // am Freitag	05 05-42 vorgefertigt
-o	um, über	05 05-43 vorgefertigt
-nad	über (räumlich)	05 05-44 vorgefertigt
-pod	unter	05 05-45 vorgefertigt
-před	vor	05 05-46 vorgefertigt
-za	hinter	05 05-47 vorgefertigt
-mezi	zwischen	05 05-48 vorgefertigt
-mě	mich	05 05-49 vorgefertigt
-tě	dich	05 05-50 vorgefertigt
-ho (m.) (s.)	ihn	05 05-51 vorgefertigt
-ji	sie (4.Fall EZ weibl.)	05 05-52 vorgefertigt
-nás	uns	05 05-53 vorgefertigt
-vás	euch	05 05-54 vorgefertigt
-je	sie (4.Fall MZ)	05 05-55 vorgefertigt
-Je tady volno?	Ist hier frei?	05 05-56 vorgefertigt
-Dám si …	Ich nehme…	05 05-57 vorgefertigt
-Chtěl bych … (m.) // Chtěla bych… (w.)	Ich hätte gerne …	05 05-58 vorgefertigt
-ještě jednou	noch einmal	05 05-59 vorgefertigt
-Prosím účet. (m.)	Die Rechnung, bitte.	05 05-61 vorgefertigt
-Zaplatím.	Ich bezahle.	05 05-62 vorgefertigt
-Co si dáte?	Was nehmen Sie?	05 05-63 vorgefertigt
-Co si přejete?	Was wünschen Sie?	05 05-64 vorgefertigt
-Ještě něco?	Noch etwas?	05 05-65 vorgefertigt
-Nemáte drobné?	Haben Sie kein Kleingeld?	05 05-66 vorgefertigt
-A co k pití?	Und zu trinken?	05 05-67 vorgefertigt
-Zvlášť nebo dohromady?	Getrennt oder zusammen?	05 05-68 vorgefertigt
-v cukrárně (w.)	in der Konditorei	05 05-72 vorgefertigt
-hovězí polévka (w.)	Rindsuppe	05 05-73 vorgefertigt
-zelený čaj (m.)	grüner Tee	05 05-78 vorgefertigt
-černá káva (w.)	schwarzer Kaffee	05 05-79 vorgefertigt
-mít starosti (w.Mz.)	Sorgen haben	05 05-80 vorgefertigt
-mít špatnou náladu (w.)	schlechte Laune haben	05 05-82 vorgefertigt
-odskočím se	Ich geh mal schnell wo hin. (Klo)	05 05-96 vorgefertigt
 dělat	machen, tun	06 06-1 vorgefertigt
 britský, -á, -é	britisch	06 06-2 vorgefertigt
 malíř (m.bel.) // malířka (w.)	Maler/in	06 06-3 vorgefertigt
@@ -153,8 +83,6 @@ tak	(und) so // also	07 07-16 vorgefertigt
 tmavý, -á, -é	dunkel	07 07-18 vorgefertigt
 vědět // vím, víš, ví, víme, víte, ví/vědí	wissen	07 07-19 vorgefertigt
 vypadat	aussehen	07 07-20 vorgefertigt
-ho (m.)	ihn, es (4.Fall wen?)	07 07-22 vorgefertigt
-ji (w.)	sie (4.Fall wen?)	07 07-23 vorgefertigt
 zařizovat	einrichten	07 07-24 vorgefertigt
 snášet	ausstehen // tolerieren	07 07-25 vorgefertigt
 myslet	denken	07 07-27 vorgefertigt
@@ -179,7 +107,6 @@ tamhle	dort	07 07-45 vorgefertigt
 řídit auto (s.)	ein Auto lenken	07 07-46 vorgefertigt
 řídit firmu (w.)	eine Firma leiten	07 07-47 vorgefertigt
 dveře (w.Mz.)	Türe	07 07-48 vorgefertigt
-knihovna (w.)	Bücherregal	07 07-49 vorgefertigt
 koupelna (w.)	Badezimmer	07 07-50 vorgefertigt
 křeslo (s.)	Lehnsessel	07 07-51 vorgefertigt
 lednička (w.)	Kühlschrank	07 07-52 vorgefertigt
@@ -188,9 +115,7 @@ obraz (m.)	Bild	07 07-54 vorgefertigt
 patro (s.)	Stockwerk	07 07-55 vorgefertigt
 pokoj (m.)	Zimmer	07 07-56 vorgefertigt
 místnost (\textbf{w}.)	Zimmer	07 07-57 vorgefertigt
-postel (\textbf{w}.)	Bett	07 07-58 vorgefertigt
 pračka (w.)	Waschmaschine	07 07-59 vorgefertigt
-skříň (w.)	Schrank, Kasten	07 07-60 vorgefertigt
 stůl (m.)	Tisch	07 07-61 vorgefertigt
 vana (w.)	Wanne	07 07-62 vorgefertigt
 záchod (m.)	Toilette	07 07-63 vorgefertigt
@@ -215,7 +140,6 @@ v sobotu (w.)	am Samstag	08 08-18 vorgefertigt
 v neděli (w.)	am Sonntag	08 08-19 vorgefertigt
 v létě (s.)	im Sommer	08 08-20 vorgefertigt
 na jaře (s.)	im Frühling	08 08-21 vorgefertigt
-na podzim (m.)	im Herbst	08 08-22 vorgefertigt
 v zimě (w.)	im Winter	08 08-23 vorgefertigt
 žádný,-á,-é	kein	08 08-24 vorgefertigt
 válka (w.)	Krieg	08 08-25 vorgefertigt
@@ -242,7 +166,6 @@ kam?	wohin?	08 08-57 vorgefertigt
 lézt / vylézt	klettern	08 08-61 vorgefertigt
 skála (w.)	Felsen	08 08-62 vorgefertigt
 zvíře (s.) // zvířata	Tier // Tiere	08 08-63 vorgefertigt
-květina (w.)	Blume	08 08-64 vorgefertigt
 pohoda (w.)	Gemütlichkeit	08 08-66 vorgefertigt
 zajímavý, -á, -é	interessant	08 08-67 vorgefertigt
 opalovat se	sich sonnen, sich bräunen	08 08-68 vorgefertigt
@@ -273,7 +196,6 @@ ucho (s.) // uši	Ohr // Ohren	09 09-13 vorgefertigt
 ruka (w.) // ruce	Hand // Hände	09 09-14 vorgefertigt
 vlas(m.) // vlasy	Haar // Haare	09 09-15 vorgefertigt
 noha (w.) // nohy	Bein // Beine	09 09-16 vorgefertigt
-starší, -í, -í	älter	09 09-17 vorgefertigt
 silnější, -í, -í	stärker	09 09-18 vorgefertigt
 černý, -á, -é	schwarz	09 09-19 vorgefertigt
 nos (m.)	Nase	09 09-20 vorgefertigt
@@ -285,7 +207,6 @@ hezký, -á, -é	schön	09 09-25 vorgefertigt
 hubený, -á, -é	dünn	09 09-26 vorgefertigt
 vysoký, -á, -é	groß	09 09-27 vorgefertigt
 hnědý, -á, -é	braun	09 09-28 vorgefertigt
-zelený, -á, -é	grün	09 09-29 vorgefertigt
 tlustý, -á, -é	dick	09 09-30 vorgefertigt
 příbuzný, -á, -é	Verwandte/r	09 09-31 vorgefertigt
 dělat zkoušku (w.)	eine Prüfung machen	09 09-33 vorgefertigt
@@ -301,7 +222,6 @@ láska (w.)	Liebe	09 09-43 vorgefertigt
 opravdový, -á, -é	echt	09 09-44 vorgefertigt
 člověk (m.Ez.) // lidé (m.Mz.)	Mensch // Menschen	09 09-45 vorgefertigt
 zdravý, -á, -é	gesund	09 09-46 vorgefertigt
-na narozeniny (w.)	zum Geburtstag	09 09-48 vorgefertigt
 nejlepší,-í, -í	der/die/ das Beste	09 09-49 vorgefertigt
 zařizovat byt (m.)	eine Wohnung einrichten	09 09-50 vorgefertigt
 věc (w.)	Ding // Sache	09 09-51 vorgefertigt
@@ -338,7 +258,6 @@ zákus\uline{e}k (m.)	Kuchen // Mehlspeise	10 10-2 vorgefertigt
 růže (w.)	Rose	10 10-3 vorgefertigt
 cédéčko (s.)	CD	10 10-4 vorgefertigt
 dár\uline{e}k (m.)	Geschenk	10 10-5 vorgefertigt
-knihovna (w.)	Bibliothek	10 10-6 vorgefertigt
 domů	nach Hause	10 10-7 vorgefertigt
 ráno (s.)	der Morgen	10 10-8 vorgefertigt
 večer (m.)	der Abend	10 10-9 vorgefertigt
@@ -420,7 +339,6 @@ najednou	auf einmal	11 11-43 vorgefertigt
 volat, zavolat	rufen, anrufen	11 11-44 vorgefertigt
 vařit	kochen	11 11-46 vorgefertigt
 těsto	Teig	11 11-47 vorgefertigt
-šlehačka	Schlagobers	11 11-48 vorgefertigt
 Čí je to?	Wessen ist das? // Wem gehört das?	11 11-49 vorgefertigt
 Vídeň	Wien	11 11-50 vorgefertigt
 ve Vídni	in Wien	11 11-51 vorgefertigt
@@ -465,7 +383,6 @@ nejdřív	zuerst	12 12-26 vorgefertigt
 obývák (m.)	Wohnzimmer	12 12-27 vorgefertigt
 pořád	immer // ständig	12 12-28 vorgefertigt
 plánovat/ naplánovat	planen	12 12-31 vorgefertigt
-účet (m.)	Rechnung	12 12-32 vorgefertigt
 vařit/ uvařit	kochen	12 12-33 vorgefertigt
 dostávat/ dostat* // dostanu,-eš, -e // dostaneme, -ete, -ou // dostal	bekommen	12 12-34 vorgefertigt
 prodávat/ prodat	verkaufen	12 12-35 vorgefertigt
@@ -561,7 +478,6 @@ vztah (m.)	Beziehung	14 14-8 vorgefertigt
 snít (o+6.Fall)	träumen	14 14-9 vorgefertigt
 kytarista (m.bel.)	Gitarrist	14 14-10 vorgefertigt
 hádat se / pohádat se // (o+6.Fall)	streiten	14 14-11 vorgefertigt
-ryba (w.)	Fisch	14 14-12 vorgefertigt
 zpívat	singen	14 14-14 vorgefertigt
 čekat na	warten auf	14 14-15 vorgefertigt
 cvičit	üben, trainieren	14 14-16 vorgefertigt
@@ -607,7 +523,7 @@ zakládat / založit	gründen	14 14-59 vorgefertigt
 plat (m.)	Gehalt	14 14-62 vorgefertigt
 lidský, -á, é	menschlich	14 14-63 vorgefertigt
 ctižádostivý	ehrgeizig	15 15-1 vorgefertigt
-ambiciózní	ambitioniert	15 15-2 vorgefertigt
+ambiciózní	ambitioniert	15 15-2 Index vorgefertigt
 hodný	nett, lieb	15 15-3 vorgefertigt
 nespolečenský	eigenbrötlerisch	15 15-5 vorgefertigt
 pracovitý	arbeitsam	15 15-6 vorgefertigt
@@ -651,7 +567,6 @@ zouvat si / zout* si boty (w.Mz.)	Schuhe ausziehen	15 15-45 vorgefertigt
 vcházet / vejít* do ordinace (w.)	in die Ordination hineingehen	15 15-46 vorgefertigt
 smrkat	schnäuzen	15 15-47 vorgefertigt
 divný, -á, -é	seltsam	15 15-48 vorgefertigt
-květiny (w.Mz.)	Blumen(strauß)	15 15-49 vorgefertigt
 zrušit	absagen	15 15-50 vorgefertigt
 jinak	anders, auf eine andere Art	15 15-51 vorgefertigt
 dovolená (w.)	Urlaub	15 15-52 vorgefertigt
@@ -791,14 +706,12 @@ hluboký	hlubší, nejhlubší // tief	16b 16b-61 vorgefertigt
 teplý	tepl\textbf{\uline{e}}jší, nejtepl\textbf{\uline{e}}jší // warm	16b 16b-62 vorgefertigt
 ošklivý	ošklivější, nejošklivější // hässlich	16b 16b-63 vorgefertigt
 jasný	jasnější, nejjasnější // klar	16b 16b-64 vorgefertigt
-narozeniny (w.Mz.)	Geburtstag	17 17-1 vorgefertigt
 všechno nejlepší k narozeninám // (w.Mz.)	alles Gute zum Geburtstag	17 17-2 vorgefertigt
 vybrat peníze (w.Mz.)	Geld abheben	17 17-3 vorgefertigt
 PSČ	Postleitzahl	17 17-4 vorgefertigt
 volat / zavolat	(an)rufen	17 17-5 vorgefertigt
 poslat esemesku (w.)	ein SMS schicken	17 17-6 vorgefertigt
 ptát se / zeptat se (+2.F.)	fragen	17 17-7 vorgefertigt
-knihovna (w.)	Buchhandlung	17 17-8 vorgefertigt
 mobil (m.)	Handy	17 17-9 vorgefertigt
 rozbitý, -á, -é	kaputt	17 17-10 vorgefertigt
 dávat / dát	geben	17 17-11 vorgefertigt
@@ -814,7 +727,6 @@ naproti (+3.F.)	gegenüber	17 17-20 vorgefertigt
 proti (+3.F.)	gegen	17 17-21 vorgefertigt
 vzhledem k (+3.F.)	im Hinblick auf, angesichts	17 17-22 vorgefertigt
 směrem k (+3.F.)	in Richtung	17 17-23 vorgefertigt
-vánoční dárek (m.)	Weihnachtsgeschenk	17 17-24 vorgefertigt
 žádný, žádná, žádné	kein	17 17-25 vorgefertigt
 vědět vím, víš, ...	wissen	17 17-26 vorgefertigt
 zase	wieder(um)	17 17-27 vorgefertigt
@@ -891,7 +803,6 @@ líbí se mi tady	es gefällt mir hier	18 18-24 vorgefertigt
 sluší mi černá barva	mir steht schwarz	18 18-25 vorgefertigt
 vadí mi kouř	mich stört Rauch	18 18-26 vorgefertigt
 zdá se mi, že	mir scheint, dass	18 18-27 vorgefertigt
-dělá tě starší	das macht dich älter	18 18-29 vorgefertigt
 samozřejmě	selbstverständlich	18 18-30 vorgefertigt
 svetr (m.)	Pulli	18 18-31 vorgefertigt
 vadit	stören	18 18-32 vorgefertigt
@@ -923,11 +834,6 @@ být nadšený, -á, -é	begeistert sein	19 19-9 vorgefertigt
 stávat se / stát se	werden	19 19-10 vorgefertigt
 seznamovat se / seznámit se	kennen lernen	19 19-11 vorgefertigt
 s/se (+7.F)	mit	19 19-12 vorgefertigt
-mezi(wo?+7.F wohin? +4.F.)	zwischen, unter	19 19-13 vorgefertigt
-pod (wo?+7.F wohin? +4.F.)	unter	19 19-14 vorgefertigt
-před (wo?+7.F wohin? +4.F.)	vor	19 19-15 vorgefertigt
-nad (wo?+7.F wohin? +4.F.)	über	19 19-16 vorgefertigt
-za (wo?+7.F wohin? +4.F.)	hinter	19 19-17 vorgefertigt
 tužka (w.)	Bleistift	19 19-18 vorgefertigt
 inkoust (m.)	Tinte	19 19-19 vorgefertigt
 mýdlo (s.)	Seife	19 19-20 vorgefertigt
@@ -960,7 +866,6 @@ být zamilovaný, -á, -é do (+2.F.)	verliebt sein in	19 19-48 vorgefertigt
 diář (m.)	Kalender, Notizbuch, Tagebuch	20 20-1 vorgefertigt
 brýle (w.Mz.)	Brille	20 20-2 vorgefertigt
 prsten (m.)	Ring	20 20-3 vorgefertigt
-postel (w.)	Bett	20 20-4 vorgefertigt
 stěhovat se	umziehen, übersiedeln	20 20-5 vorgefertigt
 těhotná	schwanger	20 20-6 vorgefertigt
 čekat dítě (s.)	ein Kind erwarten	20 20-7 vorgefertigt
