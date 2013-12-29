@@ -35,7 +35,6 @@ ráno	am Morgen	06 06-38 vorgefertigt
 minulý týden (m.)	letzte Woche	06 06-39 vorgefertigt
 včera	gestern	06 06-40 vorgefertigt
 potřebovat	brauchen	06 06-41 vorgefertigt
-kupovat	kaufen	06 06-42 vorgefertigt
 hodný, -á, -é	brav	06 06-43 vorgefertigt
 kabát (m.)	Mantel	06 06-44 vorgefertigt
 svetr (m.)	Pullover	06 06-45 vorgefertigt
@@ -75,10 +74,8 @@ potřebovat	brauchen	07 07-8 vorgefertigt
 kuchyně (w.)	Küche	07 07-9 vorgefertigt
 ložnice (w.)	Schlafzimmer	07 07-10 vorgefertigt
 obývák (m.)	Wohnzimmer	07 07-11 vorgefertigt
-světlý, -á, -é	hell	07 07-12 vorgefertigt
 dětský pokoj (m.)	Kinderzimmer	07 07-13 vorgefertigt
 garáž (w.) na auto (s.)	Garage für das Auto	07 07-14 vorgefertigt
-takový, -á, -é	ein solcher // eine solche // ein solches	07 07-15 vorgefertigt
 tak	(und) so // also	07 07-16 vorgefertigt
 tmavý, -á, -é	dunkel	07 07-18 vorgefertigt
 vědět // vím, víš, ví, víme, víte, ví/vědí	wissen	07 07-19 vorgefertigt
@@ -171,7 +168,7 @@ zajímavý, -á, -é	interessant	08 08-67 vorgefertigt
 opalovat se	sich sonnen, sich bräunen	08 08-68 vorgefertigt
 prohlížet si	besichtigen	08 08-69 vorgefertigt
 obraz (m.)	Bild	08 08-70 vorgefertigt
-už	schon	08 08-71 vorgefertigt
+už	schon	04 vorgefertigt
 už ne	nicht mehr	08 08-72 vorgefertigt
 ještě	noch	08 08-73 vorgefertigt
 ještě ne	noch nicht	08 08-74 vorgefertigt
@@ -226,16 +223,12 @@ nejlepší,-í, -í	der/die/ das Beste	09 09-49 vorgefertigt
 zařizovat byt (m.)	eine Wohnung einrichten	09 09-50 vorgefertigt
 věc (w.)	Ding // Sache	09 09-51 vorgefertigt
 mobil (m.)	Handy	09 09-52 vorgefertigt
-vždycky	immer	09 09-53 vorgefertigt
 textová zpráva // textovka (w.)	Textnachricht	09 09-54 vorgefertigt
 esemeska (w.)	SMS	09 09-55 vorgefertigt
-oba, obě, obě	beide	09 09-56 vorgefertigt
 bez	ohne	09 09-57 vorgefertigt
 snášet	ertragen	09 09-58 vorgefertigt
 nejhorší	der/die/das Schlimmste	09 09-59 vorgefertigt
 přitom	während dessen	09 09-60 vorgefertigt
-zub (m.)	Zahn	09 09-62 vorgefertigt
-bolet	weh tun // schmerzen	09 09-63 vorgefertigt
 bolí // mě, tě, ho, jí, nás, vás, je // (4.Fall)	es tut // mir, dir ihm, ihr, uns, euch, ihnen // weh	09 09-64 vorgefertigt
 bolí mě v krku (m.)	mir tut der Hals weh	09 09-65 vorgefertigt
 teplota (w.)	Fieber	09 09-66 vorgefertigt
@@ -264,7 +257,6 @@ večer (m.)	der Abend	10 10-9 vorgefertigt
 strašný (m.)	schrecklich	10 10-10 vorgefertigt
 každý, -á,-é	jeder/e/es	10 10-11 vorgefertigt
 mít strach z … + 2.Fall	Angst haben vor …	10 10-12 vorgefertigt
-hlavně	hauptsächlich	10 10-13 vorgefertigt
 naštěstí (s.)	zum Glück	10 10-14 vorgefertigt
 sešit	Heft	10 10-15 vorgefertigt
 častěji	häufiger	10 10-16 vorgefertigt
@@ -275,10 +267,8 @@ bez (+2.F.)	ohne	10 10-21 vorgefertigt
 ptát se + 2.Fall	fragen	10 10-22 vorgefertigt
 toho, toho	dessen	10 10-23 vorgefertigt
 té	deren	10 10-24 vorgefertigt
-takový, -á, -é	so ein/e/es	10 10-25 vorgefertigt
 cesta (w.)	Reise, Weg	10 10-26 vorgefertigt
 k (+3.F.)	zu	10 10-27 vorgefertigt
-na	nach, auf	10 10-28 vorgefertigt
 kavárna (w.)	Kaffeehaus	10 10-29 vorgefertigt
 živě	live	10 10-30 vorgefertigt
 představte si, že	stellt euch vor, dass	10 10-31 vorgefertigt
@@ -793,7 +783,6 @@ věřit	glauben	18 18-11 vorgefertigt
 vysvětlovat / vysvětlit	erklären	18 18-12 vorgefertigt
 chutnat	schmecken	18 18-14 vorgefertigt
 líbit se	gefallen	18 18-15 vorgefertigt
-milovat	lieben	18 18-16 vorgefertigt
 je mi 17 let	ich bin 17	18 18-18 vorgefertigt
 je mi zima	mir ist kalt	18 18-19 vorgefertigt
 je mi špatně	mir ist schlecht	18 18-20 vorgefertigt
@@ -834,14 +823,12 @@ být nadšený, -á, -é	begeistert sein	19 19-9 vorgefertigt
 stávat se / stát se	werden	19 19-10 vorgefertigt
 seznamovat se / seznámit se	kennen lernen	19 19-11 vorgefertigt
 s/se (+7.F)	mit	19 19-12 vorgefertigt
-tužka (w.)	Bleistift	19 19-18 vorgefertigt
 inkoust (m.)	Tinte	19 19-19 vorgefertigt
 mýdlo (s.)	Seife	19 19-20 vorgefertigt
 lžička (w.)	Teelöffel	19 19-21 vorgefertigt
 vidlička (w.)	Gabel	19 19-22 vorgefertigt
 nůž (w.)	Messer	19 19-23 vorgefertigt
 lžíce (w.)	Löffel	19 19-24 vorgefertigt
-vždycky	immer	19 19-25 vorgefertigt
 led (m.)	Eis	19 19-26 vorgefertigt
 rozcházet se / rozejít se	sich trennen	19 19-27 vorgefertigt
 hádka (w.)	Streit	19 19-28 vorgefertigt
@@ -886,7 +873,6 @@ Nech mě!	Lass mich!	20 20-22 vorgefertigt
 Dej / dávej pozor!	Gib Acht!	20 20-23 vorgefertigt
 Podívej se!	Schau mal!	20 20-24 vorgefertigt
 Pospěš si! / Dělej! / Honem!	Beeil dich!	20 20-25 vorgefertigt
-Pozdravuj..!	Grüß!	20 20-26 vorgefertigt
 Pojď dál!	Komm rein!	20 20-27 vorgefertigt
 Buď zticha!	Sei still!	20 20-28 vorgefertigt
 Užij si to!	Genieße das!	20 20-29 vorgefertigt

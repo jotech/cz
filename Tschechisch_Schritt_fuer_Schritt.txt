@@ -305,7 +305,7 @@ M{\v{e}}j se hezky! M{\v{e}}jte se hezky!	Mach's gut! Macht's gut!	01 Index
 M{\v{e}}j se! M{\v{e}}jte se! (coll.)	Mach's gut! Macht's gut! (coll.)	01 Index
 {\color{blue}m{\v{e}}s{\'{\i}}c}	1. Monat 2. Mond	03 Index
 {\color{cyan}milion{\'a}{\v{r}}}, {\color{red}milion{\'a}{\v{r}}ka}	Million{\"a}r/in	02 Index
-m{\'{\i}}t(*) n{\'a}v{\v{s}}t{\v{e}}vu	Besuch haben (impf.)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* n{\'a}v{\v{s}}t{\v{e}}vu	Besuch haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\v{c}}as	Zeit haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* dovolenou	Urlaub haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{blue}hlad}	Hunger haben (impf.)	03 03b Index Verben unregelmaessig
@@ -324,10 +324,10 @@ m{\'{\i}}t* kr{\'a}sn{\'y} {\v{z}}ivot	ein sch{\"o}nes Leben haben (impf.)	03 03
 m{\'{\i}}t* moc pr{\'a}ce	viel Arbeit haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* n{\'a}pad	eine Idee / einen Einfall haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* narozeniny	Geburtstag haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* pen{\'{\i}}ze	Geld haben (impf.)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* pen{\'{\i}}ze (pl.)	Geld haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* pravdu	Recht haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* r{\'a}d, m{\'a}m r{\'a}d	gern haben (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* rande	ein Rendezvous haben (impf.)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* {\color{green}rande}	ein Rendezvous haben (impf.)	03 03b Index Verben unregelmaessig
 mlad{\v{s}}{\'{\i}}	j{\"u}nger	02 Index
 mlad{\'y}	jung	02 Index adj
 mluvit, mluv{\'{\i}}m	sprechen (impf.)	03 03b Index Verben
@@ -339,7 +339,7 @@ muset, mus{\'{\i}}m	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
 myslet, mysl{\'{\i}}m	denken (impf.)	02 Index Verben
 m{\'y}t*, myju, myl, myj	waschen (K{\"o}rper, Geschirr) (impf.)	03 03b Index Verben unregelmaessig
-na	auf, an, in	02 Index
+na + 4.Fall	auf, an, in (Fall!)	02 Index
 na ja{\v{r}}e	im Fr{\"u}hling	03 Index
 na podzim	im Herbst	03 Index
 nakupovat, nakupuju	einkaufen (impf.)	03 03b Index Verben
@@ -460,7 +460,7 @@ tepl{\'y}	warm (adj.)	02 Index adj
 t{\v{e}}{\v{z}}k{\'y}	1. schwierig 2. schwer (adj.)	02 Index adj
 tlust{\'y}	dick (adj.)	02 Index adj
 trochu	etwas, ein wenig	02 Index
-{\color{red}tu{\v{z}}ka}	Stift, Bleistift	02 Index
+{\color{red}tu{\v{z}}ka}	Stift, Bleistift	02 Index vorgefertigt
 {\color{blue}tv{\accent'27u}j}, {\color{cyan}tv{\accent'27u}j}, {\color{red}tvoje/tv{\'a}}, {\color{green}tvoje/tv{\'e}}	dein, dein, deine, dein	02 Index
 u{\v{c}}it, u{\v{c}}{\'{\i}}m	lehren, unterrichten (impf.)	02 Index Verben
 {\color{cyan}u{\v{c}}itel}	Lehrer	02 Index
@@ -703,9 +703,9 @@ je o rok starší než	er ist um ein Jahr älter als	05 05-29 vorgefertigt
 {\color{blue}dárek}	Geschenk	05 05-32 vorgefertigt
 {\color{green}překvapení}	Überraschung	05 05-33 vorgefertigt
 {\color{red}květiny} (pl.)	Blumen(strauß)	05 05-38 vorgefertigt
-pro	für	05 05-40 Index vorgefertigt
-za (Wertangabe) // za tisíc korun	um … (Wert) // um Tausend Kronen	05 05-41 vorgefertigt
-v (Zeitangaben) // v jednu hodinu // v pátek	um, am // um ein Uhr // am Freitag	05 05-42 vorgefertigt
+pro + 4.Fall	für (Fall!)	05 05-40 Index vorgefertigt
+za + 4. Fall (Wertangabe) // za tisíc korun	um … (Wert) (Fall!) // um Tausend Kronen	05 05-41 vorgefertigt
+v + 4. Fall (Zeitangaben) // v jednu hodinu // v pátek	um, am (Fall!) // um ein Uhr // am Freitag	05 05-42 vorgefertigt
 mě	mich	05 05-49 vorgefertigt
 tě	dich	05 05-50 vorgefertigt
 ji	sie (4.Fall EZ weibl.)	05 05-52 07 vorgefertigt
@@ -719,7 +719,7 @@ Zaplatím. (Restaurantdialog)	Ich bezahle. (Restaurantdialog)	05 05-62 Konversat
 Co si dáte? (Restaurantdialog)	Was nehmen Sie? (Restaurantdialog)	05 05-63 Konversation vorgefertigt
 Co si přejete? (Restaurantdialog)	Was wünschen Sie? (Restaurantdialog)	05 05-64 Konversation vorgefertigt
 Ještě něco? (Restaurantdialog)	Noch etwas? (Restaurantdialog)	05 05-65 Konversation vorgefertigt
-Nemáte drobné?	Haben Sie kein Kleingeld?	05 05-66 Konversation vorgefertigt
+Nemáte drobné?	Haben Sie vielleicht etwas Kleingeld?	05 05-66 Konversation vorgefertigt
 A co k pití? (Restaurantdialog)	Und zu trinken? (Restaurantdialog)	05 05-67 Konversation vorgefertigt
 Zvlášť nebo dohromady? (Restaurantdialog)	Getrennt oder zusammen? (Restaurantdialog)	05 05-68 Konversation vorgefertigt
 zelený {\color{blue}čaj}	grüner Tee	05 05-78 vorgefertigt
@@ -729,6 +729,7 @@ mít špatnou {\color{red}náladu}	schlechte Laune haben (impf.)	05 05-82 vorgef
 odskočím se	Ich geh mal schnell wo hin. (Klo)	05 05-96 vorgefertigt
 slyšet, slyším	hören (i.S.v. "hear", nicht "listen") (impf.)	04 Verben vorgefertigt
 proč?	warum?	03 06-24 Index vorgefertigt
+takový (krásný kluk)	ein solcher, so ein (schöner Junge)	05 Index adj vorgefertigt
 {\color{red}náhoda}	Zufall	04 Index vorgefertigt
 {\color{blue}ho}, {\color{green}ho}	ihn, es (4.Fall wen?) (m. + s.)	05 05-51 07 vorgefertigt
 správný, -á, -é	richtig	04 vorgefertigt
@@ -738,6 +739,9 @@ jet [metrem] {\color{green}áčkem}	mit der [U-Bahn-](Linie) A fahren	04 index v
 {\color{blue}strom}	Baum	04 vorgefertigt
 Cože?	Was? (Unglauben, Unverständnis)	03 vorgefertigt
 na {\color{red}narozeniny}	zum Geburtstag	05 vorgefertigt
+vždycky	immer (adv.)	05 vorgefertigt
+oba, obě, obě	beide	05 vorgefertigt
+hlavně	hauptsächlich	05 vorgefertigt
 z / ze (+2.F.)	aus, von	04 Index vorgefertigt
 najít* // najdu, najdeš, najde, najdeme, najdete, najdou // našel/našla/našlo/našli	finden (pf.)	04 Index Verben vorgefertigt
 pamatovat si	sich erinnern an (impf.)	04 Verben vorgefertigt
@@ -761,39 +765,54 @@ nad (wo?+7.F wohin? +4.F.)	über (räumlich) (2x Fälle)	05 19 Index vorgefertig
 {\color{blue}barák} (coll.)	Haus (coll.)	04 Index
 {\color{blue}bazén}	Schwimmbad, -becken	04 Index
 béčkem	mit der Linie B	04 Index
+{\color{blue}biftek}	Beefsteak	05 Index
 bohužel	leider	04 Index
+bolet, bolím	weh tun, es schmerzt (impf.)	05 Index Verben vorgefertigt
+Bolí mě hlava.	Ich habe Kopfschmerzen.	05 Index
 {\color{blue}brambor}, brambory	Kartoffel, Kartoffeln	05 Index vorgefertigt
 bramborová {\color{red}polévka}	Kartoffelsuppe	05 Index
 céčkem	mit der Linie C	04 Index
 {\color{green}centrum}	Zentrum, Stadtzentrum	04 Index
 {\color{red}cukrárna}, v cukrárně	Konditorei, in der Konditorei	04 Index
+čokoládový	Schokoladen-	05 Index adj
 dát si, dám si	nehmen, ich nehme (beim Bestellen im Restaurant) (pf.)	05 05-57 Index Verben vorgefertigt
-{\color{blue}dezert} (oder) {\color{blue}moučník} (oder) {\color{blue}zákus\uline{e}k}	Dessert(, Mehlspeise)	05 Index vorgefertigt
+{\color{blue}dezert} (oder) {\color{blue}moučník} (oder) {\color{blue}zákus\uline{e}k}	Dessert(, Mehlspeise) (TODO: Bedeutungsfeld klären)	05 Index vorgefertigt
 dohromady	zusammen (adv.)	05 Index
 {\color{blue}dopis}, dopisy	Brief, Briefe	03 Index vorgefertigt
 doplnit, doplním	ergänzen, vervollständigen (pf.)	04 Index Verben
+{\color{red}droga}	Droge	05 Index
+dvakrát	zweimal	05 Index
+{\color{blue}džob}	Job	05 Index
 {\color{blue}džus}	Saft	03 Index
 fakt	echt	04
 {\color{red}firma}	Firma	04 Index
 {\color{blue}guláš}	Gulasch	05 05-4 Index vorgefertigt
 gulášová {\color{red}polévka}	Gulaschsuppe	05 Index
 gulášový	Gulasch-	05 Index
+{\color{red}hlava}	Kopf, Haupt	05 Index
+hlavní	Haupt-	05 Index adj
 hlavní {\color{green}jídlo}	Hauptgericht, Hauptspeise	05 05-5 Index vorgefertigt
 {\color{red}hodinky} (pl.)	Armbanduhr	04 04-79 Index vorgefertigt
 hovězí ({\color{green}maso})	Rindfleisch	05 05-6 Index vorgefertigt
 hovězí {\color{red}polévka}	Rindsuppe (auf Grundlage von Rinderbrühe?)	05 05-73 Index vorgefertigt
 {\color{blue}hranol\uline{e}k}, hranolky	Pommes frites	05 05-7 Index vorgefertigt
 Jde to. / Ujde to.	Es geht so.	01 Index
+jídelní {\color{blue}líst\uline{e}k}	Speisekarte	05 Index
 {\color{cyan}kapr}	Karpfen	05 05-8 Index vorgefertigt
 každý	jeder	03 Index
 {\color{red}knihovna}	Bücherregal, Bibliothek, (TODO: Buchhandlung?)	05 05-36 Index vorgefertigt
+{\color{red}kola}	Cola	05 Index
+{\color{blue}koláč}	Kuchen	05 Index
 končit, končím	beenden, aufhören (impf.)	04 Index Verben vorgefertigt
 {\color{red}kroketa}, krokety	Krokette, Kroketten	05 05-9 Index vorgefertigt
+kupovat, kupuju	kaufen (impf.)	05 Index Verben
 kuřecí {\color{red}polévka}	Hühnersuppe	05
 {\color{green}letadlo}; letadlem	Flugzeug, Flieger; mit dem Flugzeug (Instrumentativ)	04 Index
 líný	faul	03 Index vorgefertigt
 {\color{cyan}losos}	Lachs	05 05-10 Index vorgefertigt
 mezi (wo?+7.F wohin? +4.F.)	1. zwischen 2. unter	05 05-48 19 Index vorgefertigt
+milovat, miluju	lieben (impf.)	05 Index Verben
+{\color{red}místnost}	Raum, Zimmer	05 Index
 {\color{green}nádraží}	Bahnhof (Zug, Bus)	04 Index vorgefertigt
 nahoru	nach oben, hinauf	04 Index vorgefertigt
 {\color{red}nálada}	Laune, Stimmung	05 Index
@@ -804,15 +823,19 @@ něco	etwas	05 Index
 nějaký	irgendein (, gewisse)	04 Index vorgefertigt
 neperlivá voda	Mineralwasser ohne Kohlensäure	05 Index
 nudný	langweilig	03 Index
-o	um, über, von	05 05-43 Index vorgefertigt
+o + 4. Fall	um, über, von (Fall!)	05 05-43 Index vorgefertigt
 oblíbený	beliebt, Lieblings-	04 Index vorgefertigt
 obvykle	gewöhnlich (adv.)	03 Index vorgefertigt
+Odlož si. Odložte si.	Leg/legen Sie ab.	05 Index Verben
 odskočit si, odskočím si	auf Toilette gehen (pf.)	05 Index Verben
 {\color{red}omáčka}	Soße	05 05-11 Index vorgefertigt
 {\color{blue}panelák}	Plattenbau	04 Index
 panelový (adj.)	Platten-	04 Index
+{\color{red}polévka}	Suppe	05 Index
 poslouchat, poslouchám	1. zuhören  2. gehorchen (impf.)	04 Index Verben
 {\color{red}postel}	Bett	05 05-35 Index vorgefertigt
+{\color{blue}pozdrav}	Gruß	05 Index
+Pozdravuj! Pozdravujte!	Sag(en Sie) guten Tag zu...! Grüßen Sie ...	05 Index Verben vorgefertigt
 {\color{red}práce} // \textbf{v} práci	Arbeit // in der Arbeit	04 04-17 Index vorgefertigt
 {\color{blue}program}	Programm	04 Index
 proto	deshalb, darum, daher, deswegen	03 Index
@@ -820,11 +843,17 @@ proto	deshalb, darum, daher, deswegen	03 Index
 {\color{red}recepce}	Rezeption, Empfang	04 Index
 {\color{red}roláda}	Roulade	05 05-16 Index vorgefertigt
 {\color{red}ryba}, pl. ryby	Fisch, Fische	05 05-18 Index vorgefertigt
-rybařit	angeln	05 Index
+rybařit, rybařím	angeln (TODO: aspekt)	05 Index
 {\color{blue}rybník}	(Fisch-) Teich	04 Index
+{\color{red}rýže}	Reis	05 Index
+{\color{green}Skotsko}, {\color{cyan}Skot}, {\color{red}Skotka}	Schottland, Schotte, Schottin	05 Index
+{\color{red}skříň} (\textbf{w}.!)	Schrank(, Kasten)	05 Index
 smát* se, směju se, smál se, směj se	lachen (impf.)	03 Index Verben
 smažený	gebraten und paniert	05 Index
+{\color{red}smetana}	Sahne	05 Index
+snad	vielleicht	05 Index
 sportovat, sportuju	Sport treiben (impf.)	03 Index Verben
+světlý	hell	05 07-12 Index adj vorgefertigt
 {\color{red}šlehačka}	Schlagsahne	05 05-21 Index vorgefertigt
 {\color{red}šunka}	Schinken	04 Index
 tam (Adverb)	dort, dorthin	04 04-36 Index vorgefertigt
@@ -833,17 +862,21 @@ typický	typisch	04 Index
 učit se, učím se	lernen (i.S.v. Schüler, Selbststudium) (impf.)	02 Index Verben
 unavený	müde	03 Index vorgefertigt
 uvnitř	drinnen	04 Index
+vanilkový	Vanille-	05 Index adj
 venku	draußen (adv.)	03 Index
 vlevo, nalevo	links (Adverb) (2x)	04 Index vorgefertigt
 {\color{red}voda}	Wasser	05 05-24 Index vorgefertigt
 {\color{green}volno}, volna (substantiv)	frei, Freizeit, Feierabend	05 Index
 vpravo	rechts (Adverb)	04 Index vorgefertigt
 vpředu	vorn	04 Index
+výborně	ausgezeichnet (adv.)	05 Index
+výborný	ausgezeichnet (adj.)	05 Index adj
 vzadu	hinten	04 Index
 za (wo?+7.F wohin? +4.F.) (4x)	1. hinter (2x Fälle), 2. in (zwei Tagen), 3. für, anstelle von, 4. per	05 05-47 19 Index vorgefertigt
 zaplatit, zaplatím	bezahlen, zahlen (pf.)	05 Index Verben
 zapomenout*, zapomenu, zapomněl/zapomenul	vergessen (pf.)	04 04-78 Index Verben unregelmaessig vorgefertigt
 zelený	grün	05 Index vorgefertigt
+{\color{blue}zub}	Zahn	05 Index vorgefertigt
 zvlášť	extra, getrennt (adv.)	05 Index
 žlutý	gelb	04 Index adj vorgefertigt
 (Antwort auf "wann?"): In 1998 (2x)	V roce tisíc devět set devadesát osm // V roce devatenáct set devadesát osm	03 Konversation
@@ -891,3 +924,20 @@ patřit, patřím	dazugehören (impf.)	04 Verben
 {\color{red}mapa}	Landkarte	04
 {\color{cyan}cizinec}	Fremder	04
 reagovat, reaguju (2x)	reagieren, antworten (impf.)	04 verben
+{\color{blue}parfém}	Parfüm	05
+schovat, schovám	verstecken, aufbewahren (pf.)	05 Verben
+{\color{cyan}soudce}	Richter, Schiedsrichter	05
+{\color{cyan}bláz\uline{e}n}	Verrückter	05
+{\color{cyan}číšník}, {\color{red}servírka}	Kellner/in, Ober/in	05
+pozorovat	beobachten, überwachen (impf.)	05 Verben
+{\color{green}téma}	Thema	05
+procvičovat	üben, durchexerzieren (impf.?)	05 Verben
+{\color{red}čokoláda}	Schokolade	05
+{\color{red}literatura}	Literatur	05
+akční filmy	Actionfilme	05
+{\color{blue}talent}	Talent	05
+{\color{red}deprese}	schlechte Stimmung, Depression	05
+{\color{red}krize}	Krise(, Wirtschaftskrise)	05
+odložit, odložím	aufschieben, ablegen, weglegen (pf.)	05 Verben
+sednout si	sich hinsetzen (pf.)	05 Verben
+skotský	schottisch	05
