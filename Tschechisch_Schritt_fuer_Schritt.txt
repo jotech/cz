@@ -41,7 +41,7 @@ Sie sind (Anrede)	vy jste (+Anrede)	01 Verben decz
 sie sind	oni jsou	01 Verben decz
 tsch\"u\ss, hallo	ahoj / \v{c}au	01 Konversation decz
 Wie hei\ss t du?	Jak se jmenuje\v{s}?	01 Konversation decz
-guten Tag	dobr\'y den	01 Konversation decz
+guten Tag	dobr\'y d\uline{e}n	01 Konversation decz
 Woher kommst du?	Odkud jsi?	01 Konversation decz
 Ich bin aus Deutschland	(J\'a) jsem z N\v{e}mecka	01 Konversation decz
 Was machst du?	Co d\v{e}l\'a\v{s}?	01 Konversation decz
@@ -228,7 +228,7 @@ co	1. was (Fragepronomen) 2. (coll.) welcher, welche, welches	02 Index
 d{\v{e}}kovat, d{\v{e}}kuju	danken (impf.)	03 03b Index Verben
 d{\v{e}}lat, d{\v{e}}l{\'a}m	tun, machen (impf.)	03 03b Index Verben
 d{\v{e}}lat, d{\v{e}}l{\'a}m kari{\'e}ru	Karriere machen (impf.)	03 03b Index Verben
-{\color{blue}den}	Tag	03 Index
+{\color{blue}d\uline{e}n}	Tag	03 Index
 {\color{red}detektivka}	Detektivgeschichte	03 Index
 {\color{blue}di{\'a}{\v{r}}}	Kalender, Terminkalender	02 Index
 {\color{green}d{\'{\i}}t{\v{e}}}, (pl.:) {\color{green}d{\v{e}}ti}	Kind, Kinder	02 Index
@@ -243,7 +243,7 @@ drah{\'y}	1. teuer (adj.) 2. mein Teurer	02 Index adj
 {\color{blue}d{\accent'27u}m}, domy	Haus, H{\"a}user	02 Index
 elegantn{\'{\i}}	elegant (adj.)	02 Index adj
 energick{\'y}	lebhaft (z.B. Person)	02 Index adj
-{\color{cyan}herec}	Schauspieler	02 Index
+{\color{cyan}her\uline{e}c}	Schauspieler	02 Index
 {\color{red}here{\v{c}}ka}	Schauspielerin	02 Index
 hezk{\'y}	sch{\"o}n, h{\"u}bsch (adj.)	02 Index adj
 {\color{red}hodina}	Stunde	03 Index
@@ -252,7 +252,7 @@ hezk{\'y}	sch{\"o}n, h{\"u}bsch (adj.)	02 Index adj
 hork{\'y}	hei{\ss} (adj.)	02 Index adj
 hr{\'a}t si, hraju si s	mit jmdm. spielen (impf.)	03 03b Index Verben unregelmaessig
 hrát* / hraju, hraješ, hraje, hrajeme, hrajete, hrajou / hrál / hraj	spielen (Rolle, Instrument, Sport, Glücksspiel) (impf.)	03 03b Index Verben unregelmaessig
-{\color{blue}hrnek}	Becher, Pott, Tasse (Keramik)	02 Index
+{\color{blue}hrn\uline{e}k}	Becher, Pott, Tasse (Keramik)	02 Index
 huben{\'y}	d{\"u}nn, abgemagert (adj.)	02 Index adj
 {\color{cyan}chlap\uline{e}c}	Junge	02 Index
 chodit, chod{\'{\i}}m na v{\'y}lety	Ausfl{\"u}ge machen (impf.)	03 03b Index Verben
@@ -317,7 +317,7 @@ m{\'{\i}}t* svatbu	Hochzeit feiern (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{green}{\v{s}}t{\v{e}}st{\'{\i}}}	Gl{\"u}ck haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* volno	frei haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* {\color{red}zlost}, m{\'{\i}}t* {\color{blue}vztek}	w{\"u}tend sein, Wut haben (2x) (impf.)	03 03b Index Verben unregelmaessig
-m{\'{\i}}t* {\color{red}{\v{z}}{\'{\i}}ze{\v{n}}}	Durst haben (impf.)	03 03b Index Verben unregelmaessig
+m{\'{\i}}t* {\color{red}{\v{z}}{\'{\i}}z\uline{e}{\v{n}}}	Durst haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t*, m{\'a}m, měl, měj	haben(, sollen) (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* dobrou {\color{red}náladu}	gute Laune haben (impf.)	03 03b Index Verben unregelmaessig
 m{\'{\i}}t* kr{\'a}sn{\'y} {\v{z}}ivot	ein sch{\"o}nes Leben haben (impf.)	03 03b Index Verben unregelmaessig
@@ -337,7 +337,7 @@ moct*/ můžu, můžeš, může, můžeme, můžete, můžou / mohl / --	k{\"o}n
 {\color{cyan}m{\accent'27u}j}, {\color{blue}m{\accent'27u}j}, {\color{red}moje/m{\'a}}, {\color{green}moje/m{\'e}}	mein, mein, meine, mein	02 Index
 muset, mus{\'{\i}}m	m{\"u}ssen (impf.)	03 03b Index Verben
 {\color{cyan}mu{\v{z}}}	Mann (i.S.v. Frau)	02 Index
-myslet, mysl{\'{\i}}m	denken (impf.)	02 Index Verben
+myslet, mysl{\'{\i}}m	denken (impf.)	02 Index Verben vorgefertigt
 m{\'y}t*, myju, myl, myj	waschen (K{\"o}rper, Geschirr) (impf.)	03 03b Index Verben unregelmaessig
 na + 4.Fall	auf, an, in (Fall!)	02 Index
 na ja{\v{r}}e	im Fr{\"u}hling	03 Index
@@ -349,7 +349,7 @@ nebo	oder	02 Index
 {\color{red}ned{\v{e}}le}	Sonntag	03 Index
 nejlep{\v{s}}{\'{\i}}	der beste (adj.)	02 Index adj
 n{\v{e}}kdy	irgendwann, manchmal	02 Index
-{\color{green}N{\v{e}}mecko, }{\color{cyan}N{\v{e}}mec}{\color{green}, }{\color{red}N{\v{e}}mka}	Deutschland, Deutscher, Deutsche	02 Index
+{\color{green}N{\v{e}}mecko, }{\color{cyan}N{\v{e}}m\uline{e}c}{\color{green}, }{\color{red}N{\v{e}}mka}	Deutschland, Deutscher, Deutsche (TODO:&nbsp;\uline{e} klären)	02 Index
 {\color{red}nemoc}	Krankheit	02 Index
 nemocn{\'y}	krank (adj.)	02 Index adj
 nervozn{\'{\i}}	nerv{\"o}s	02 Index adj
@@ -439,7 +439,7 @@ studen{\'y} (adj.)	kalt (adj.)	02 Index adj
 studovat, studuju	1. studieren, 2. zur Schule gehen (impf.)	03 03b Index Verben
 sympatick{\'y}	sympathisch	02 Index adj
 {\color{cyan}syn}	Sohn	02 Index
-{\color{cyan}synovec}	Neffe	02 Index
+{\color{cyan}synov\uline{e}c}	Neffe	02 Index
 s{\'y}rov{\'y} (adj.)	K{\"a}se-	01 Index adj
 {\v{s}}patn{\v{e}}	schlecht (adv.)	02 Index
 {\v{s}}patn{\'y}	schlecht (adj.)	02 Index adj
@@ -473,7 +473,7 @@ v l{\'e}t{\v{e}}	im Sommer	03 Index
 v noci	in der Nacht	03 Index
 v zim{\v{e}}	im Winter	03 Index
 v neděl\textbf{i}	am Sonntag	03 Index
-v p{\'a}tek	am Freitag	03 Index
+v p{\'a}t\uline{e}k	am Freitag	03 Index
 v poledne	am Mittag	03 Index
 v pond{\v{e}}l{\'{\i}}	am Montag	03 Index
 v sobotu	am Sonnabend	03 Index
@@ -481,7 +481,7 @@ v {\'u}ter{\'y}	am Dienstag	03 Index
 {\color{red}V{\'a}noce} (pl.)	Weihnachten	03 Index
 va{\v{r}}it, va{\v{r}}{\'{\i}}m	kochen (impf.)	03 03b Index Verben
 {\color{cyan}v{\'a}{\v{s}}}, {\color{blue}v{\'a}{\v{s}}}, {\color{red}va{\v{s}}e}, {\color{green}va{\v{s}}e}	euer, eure, euer (duzen) / Ihr, Ihre, Ihr (Siezen)	02 Index
-ve {\v{c}}tvrtek	am Donnerstag	03 Index
+ve {\v{c}}tvrt\uline{e}k	am Donnerstag	03 Index
 ve střed\textbf{u}	am Mittwoch	03 Index
 {\color{blue}ve{\v{c}}er}	Abend, am Abend	03 Index
 ve{\v{c}}e{\v{r}}et, ve{\v{c}}e{\v{r}}{\'{\i}}m	Abendbrot essen, zu Abend essen (impf.)	03 03b Index Verben
@@ -507,13 +507,13 @@ D{\'{\i}}vaj{\'{\i}} se na fotografie.	Schauen Sie die Photographie an.	02
 modern{\'{\i}}	modern (adj.)	02 adj
 {\color{red}{\v{s}}efka}	Chefin	02
 {\color{blue}ruksak}	Rucksack (Fremdwort)	02
-sladk{\'y} [pes]	s{\"u}{\ss}er [Hund]	02 adj
+sladk{\'y} [p\uline{e}s]	s{\"u}{\ss}er [Hund]	02 adj
 pohodln{\'y}	bequem, gem{\"u}tlich (adj.)	02 adj
 jednoduch{\'y} [{\color{blue}st{\accent'27u}l}]	einfacher [Tisch] (adj.)	02 adj
 lehk{\'y}	leicht (Gewicht, Schwierigkeit, subtil) (adj.)	02 adj
 b{\'{\i}}l{\'e} {\color{green}v{\'{\i}}no}	Wei{\ss}wein	02
 {\v{c}}erven{\'e} {\color{green}v{\'{\i}}no}	Rotwein	02
-{\color{cyan}pes}	Hund	02
+{\color{cyan}p\uline{e}s}	Hund	02 Index
 A jak{\'y} je asi jeho {\color{cyan}p{\'a}n}?	Und wie ist wohl sein Herrchen?	02 Konversation
 {\color{cyan}{\v{C}}ech}, {\color{red}{\v{C}}e{\v{s}}ka}, pl.{\v{C}}e{\v{s}}i	Tscheche, Tschechin, (pl.) Tschechen	02 Index
 To v{\'{\i}}te, ...	(Wie) ihr wisst, ...	02
@@ -530,7 +530,7 @@ vtipn{\'y}	witzig	02 adj
 {\color{cyan}majitel}	Besitzer (TODO: Bedeutung Besizer/Eigentümer klären!)	02
 abstraktn{\'{\i}}	abstrakt, abgehoben (adj.)	02 adj
 {\color{red}nete{\v{r}}}	Nichte	02 Index
-{\color{cyan}bratranec}	Cousin	02
+{\color{cyan}bratran\uline{e}c}	Cousin	02
 {\color{red}sest{\v{r}}enice}	Cousine	02
 {\color{cyan}tch{\'a}n}	Schwiegervater	02
 {\color{cyan}str{\'y}c}	Onkel (formal)	02
@@ -550,16 +550,16 @@ v {\color{red}tabulce}	in der Tabelle	03
 v{\v{s}}echny [Nom. pl. m-unbelebt von všechen] (pron.-adj.)	alle (pron.-adj.)	03
 {\color{blue}film}	Film	03
 {\color{blue}listopad}	November	03
-{\color{blue}v{\'y}sledek}	Ergebnis	03
+{\color{blue}v{\'y}sled\uline{e}k}	Ergebnis	03
 {\color{blue}v{\'{\i}}kend}	Wochenende	03
-{\color{blue}{\v{r}}{\'{\i}}jen}	Oktober	03
+{\color{blue}{\v{r}}{\'{\i}}j\uline{e}n}	Oktober	03
 {\color{green}z{\'a}{\v{r}}{\'{\i}}}	September	03
 {\color{red}pauza}	Pause	03
 {\color{red}tabulka}	Tabelle	03
 dokončete věty	Beenden Sie den Satz/Beendet den Satz	03
 můžeme	wir können (nous pouvons)	03
 dělejte otázky	Stellt/Stellen Sie Fragen	03
-{\color{blue}týden}	Woche	03
+{\color{blue}týd\uline{e}n}	Woche	03 Index
 rád, ráda, rádo; rádi (pl.) (adj.)	gern (adv.) (4x)	03
 Petr rád hraje fotbal	Peter spielt gerne Fußball	03
 Změňte věty podle modelu.	Ändern Sie /Ändert die Sätze nach dem Muster	03
@@ -570,25 +570,25 @@ jít do kina	ins Kino gehen	03
 hrát* tenis	Tennis spielen	03
 hrát* šachy	Schach spielen	03
 hrát* basketbal, volejbal	Basketball, Volleyball spielen	03
-každý den	jeden Tag	03
+každý d\uline{e}n	jeden Tag	03
 když	wenn, falls (1: Wenn...dann..; 2: Frage, ob...) (Konjunktion)	03 Index
 používejte obrázky	verwenden Sie / verwendet die Bilder	03
 jet domů	nach Hause fahren	03
 jít do školy (2x)	in die Schule gehen (Schulweg, Schülerdasein)	03
 chodit do školy	die Schule besuchen	03
-prosinec	Dezember	03
+prosin\uline{e}c	Dezember	03
 roční {\color{green}období}	Jahreszeiten	03
 v roce	im Jahr	03
 odpovídejte na otázky	Antworten Sie/ Antwortet auf die Frage	03
 Čtěte	Lesen Sie/ Lest	03
-leden	Januar	03
+led\uline{e}n	Januar	03
 únor	Februar	03
-březen	März	03
-duben	April	03
-květen	Mai	03
-červen	Juni	03
-červenec	Juli	03
-srpen	August	03
+břez\uline{e}n	März	03
+{\color{blue}dub\uline{e}n}	April	03
+{\color{blue}květ\uline{e}n}	Mai	03
+červ\uline{e}n	Juni	03
+červen\uline{e}c	Juli	03
+srp\uline{e}n	August	03
 á-Verb konjugieren: dělat	děl<b>a</b>t / já děl-ám, ty děl-áš, on(a/o) děl-á, my děl-áme, vy děl-áte, oni děl-<b>a</b>jí / (Partizip perfekt) děl-al		03 grammatik
 Typische Endungen á-Verben	-at, + mít		03 grammatik
 í-Verb konjugieren: rozumět	já rozum-ím, ty rozum-íš, on(a/o) rozum-í, my rozum-íme, vy rozum-íte, oni rozum-í (seltener) rozum-ějí** / (Partizip perfekt) rozumě-l		03 grammatik
@@ -632,10 +632,10 @@ Velmi dobře.	Sehr gut.	01 01-14 vorgefertigt
 Velmi špatně.	Sehr schlecht.	01 01-17 vorgefertigt
 z Rakouska	aus Österreich	01 01-23 vorgefertigt
 z Francie	aus Frankreich	01 01-25 vorgefertigt
-{\color{blue}lístek} na tramvaj	Straßenbahnkarte	01 01-53 vorgefertigt
+{\color{blue}líst\uline{e}k} na tramvaj	Straßenbahnkarte	01 01-53 vorgefertigt
 jídlo v restauraci	Essen im Restaurant	01 01-54 vorgefertigt
 {\color{red}známka}	Briefmarke	01 01-56 Index vorgefertigt
-{\color{blue}lístek} na koncert	Konzertkarte	01 01-59 vorgefertigt
+{\color{blue}líst\uline{e}k} na koncert	Konzertkarte	01 01-59 vorgefertigt
 {\color{green}Rakousko}, {\color{cyan}Rakušan}, {\color{red}Rakušanka}	Österreich, Österreicher, Österreicherin	02 02-7 Index vorgefertigt
 blbý, blbá, blbé	dumm, (albern, blöd)	02 02-100 vorgefertigt
 opakovat, opakuju	wiederholen	03b 03b-40 vorgefertigt
@@ -692,7 +692,7 @@ Hodí se ti to? // Hodí se Vám to?	Passt dir/Ihnen das? Ist dir/Ihnen das rech
 bramborový {\color{blue}salát}	Kartoffelsalat	05 05-1 Index vorgefertigt
 {\color{red}palačinka}, palačinky	Eierkuchen, (plural)	05 05-12 Index vorgefertigt
 pečené {\color{green}kuře}	Brathähnchen	05 05-13 vorgefertigt
-{\color{blue}řízek}	Schnitzel	05 05-19 vorgefertigt
+{\color{blue}říz\uline{e}k}	Schnitzel	05 05-19 Index vorgefertigt
 smažený {\color{blue}sýr}	gebackener Käse	05 05-20 vorgefertigt
 vepřové {\color{green}maso}	Schweinefleisch	05 05-23 vorgefertigt
 {\color{red}angličtina}	Englisch (i.S.v. Sprache)	04 vorgefertigt
@@ -700,12 +700,12 @@ vepřové {\color{green}maso}	Schweinefleisch	05 05-23 vorgefertigt
 {\color{red}němčina}	Deutsch (Sprache)	05 05-27 vorgefertigt
 {\color{red}čeština}	Tschechisch (Sprache)	04 vorgefertigt
 je o rok starší než	er ist um ein Jahr älter als	05 05-29 vorgefertigt
-{\color{blue}dárek}	Geschenk	05 05-32 vorgefertigt
+{\color{blue}dár\uline{e}k}	Geschenk	05 05-32 Index vorgefertigt
 {\color{green}překvapení}	Überraschung	05 05-33 vorgefertigt
 {\color{red}květiny} (pl.)	Blumen(strauß)	05 05-38 vorgefertigt
 pro + 4.Fall	für (Fall!)	05 05-40 Index vorgefertigt
 za + 4. Fall (Wertangabe) // za tisíc korun	um … (Wert) (Fall!) // um Tausend Kronen	05 05-41 vorgefertigt
-v + 4. Fall (Zeitangaben) // v jednu hodinu // v pátek	um, am (Fall!) // um ein Uhr // am Freitag	05 05-42 vorgefertigt
+v + 4. Fall (Zeitangaben) // v jednu hodinu // v pát\uline{e}k	um, am (Fall!) // um ein Uhr // am Freitag	05 05-42 vorgefertigt
 mě	mich (Kurzform)	05 05-49 Personalpronomen vorgefertigt
 tě	dich (Kurzform)	05 05-50 Personalpronomen vorgefertigt
 ji	sie (4.Fall EZ weibl.)	05 05-52 07 vorgefertigt
@@ -714,7 +714,7 @@ vás	euch (4.Fall)	05 05-54 vorgefertigt
 je	sie (4.Fall MZ)	05 05-55 vorgefertigt
 Je tady volno?	Ist hier frei?	05 05-56 vorgefertigt
 Chtěl bych … (m.) // Chtěla bych… (w.)	Ich hätte gerne … (2x)	05 05-58 vorgefertigt
-Prosím {\color{blue}účet}. (Restaurantdialog)	Die Rechnung, bitte. (Restaurantdialog)	05 05-61 Konversation vorgefertigt
+Prosím {\color{blue}úč\uline{e}t}. (Restaurantdialog)	Die Rechnung, bitte. (Restaurantdialog)	05 05-61 Konversation vorgefertigt
 Zaplatím. (Restaurantdialog)	Ich bezahle. (Restaurantdialog)	05 05-62 Konversation vorgefertigt
 Co si dáte? (Restaurantdialog)	Was nehmen Sie? (Restaurantdialog)	05 05-63 Konversation vorgefertigt
 Co si přejete? (Restaurantdialog)	Was wünschen Sie? (Restaurantdialog)	05 05-64 Konversation vorgefertigt
@@ -732,8 +732,8 @@ britský, -á, -é	britisch	06 06-2 vorgefertigt
 {\color{cyan}spisovatel}, {\color{red}spisovatelka}	Schriftsteller/in	06 06-4 Index vorgefertigt
 {\color{cyan}kosmonaut}, {\color{red}kosmonautka}	Astronaut/in	06 06-5 vorgefertigt
 {\color{cyan}skladatel}, {\color{red}skladatelka}	Komponist/in	06 06-6 Index vorgefertigt
-{\color{cyan}maratonec}, {\color{red}maratonkyně}	Marathonläufer/in	06 06-7 vorgefertigt
-celý {\color{blue}den}	der ganze Tag / den ganzen Tag	06 06-10 vorgefertigt
+{\color{cyan}maraton\uline{e}c}, {\color{red}maratonkyně}	Marathonläufer/in	06 06-7 vorgefertigt
+celý {\color{blue}d\{uline{e}n}	der ganze Tag / den ganzen Tag	06 06-10 vorgefertigt
 {\color{red}věta}	Satz	06 06-12 vorgefertigt
 slyšet, slyším	hören (i.S.v. "hear", nicht "listen") (impf.)	04 Verben vorgefertigt
 proč?	warum?	03 06-24 Index vorgefertigt
@@ -743,7 +743,7 @@ moc dlouho	sehr lang (zeitlich) (adv.)	06 06-33 vorgefertigt
 hrát na {\color{blue}počítač}i {\color{red}hry} (f. pl.)	Computerspiele spielen	06 06-34 vorgefertigt
 strašně rád/ ráda/ rádo	schrecklich gern	06 06-36 vorgefertigt
 předevčírem	vorgestern	06 06-37 vorgefertigt
-minulý {\color{blue}týden}	letzte Woche	06 06-39 vorgefertigt
+minulý {\color{blue}týd\uline{e}n}	letzte Woche	06 06-39 vorgefertigt
 Jak \textbf{ses} měl?	Wie ist es dir ergangen/gegangen?	06 06-48 Konversation vorgefertigt
 Jak to dopadlo?	Wie ist es ausgegangen?	06 06-49 vorgefertigt
 Co se stalo?	Was ist passiert?	06 06-50 vorgefertigt
@@ -781,11 +781,11 @@ pamatovat si	sich erinnern an (impf.)	04 Verben vorgefertigt
 víc	mehr	03 vorgefertigt
 míň	weniger	03 vorgefertigt
 {\color{blue}stromeč\uline{e}k}, (genitiv:) strome\textbf{čku}	Weihnachtsbaum	04 vorgefertigt
-{\color{blue}účet}	Rechnung (, Kosten, Quittung)	05 12 vorgefertigt
+{\color{blue}úč\uline{e}t}	Rechnung (, Kosten, Quittung)	05 12 vorgefertigt
 {\color{cyan}princ}	Prinz	04 vorgefertigt
 {\color{red}princezna}	Prinzessin	04 vorgefertigt
 hádat, hádám	raten (i.S.v. guess) (impf.)	04 Verben vorgefertigt
-vánoční {\color{blue}dárek}	Weihnachtsgeschenk	05 vorgefertigt
+vánoční {\color{blue}dár\uline{e}k}	Weihnachtsgeschenk	05 vorgefertigt
 haló	hallo (nur am Telefon)	04 vorgefertigt
 chodit / jít pozdě	Verspätung haben	06 vorgefertigt
 hodí se mi to	mir passt das (Termin)	04 Konversation vorgefertigt
@@ -811,7 +811,7 @@ celý	ganz (adj)	06 Index adj
 {\color{green}centrum}	Zentrum, Stadtzentrum	04 Index
 {\color{red}cukrárna}, v cukrárně	Konditorei, in der Konditorei	04 Index
 čokoládový	Schokoladen-	05 Index adj
-dát si, dám si	nehmen, ich nehme (beim Bestellen im Restaurant) (pf.)	05 05-57 Index Verben vorgefertigt
+dát si, dám si, dal si, dej si	nehmen, ich nehme (beim Bestellen im Restaurant) (pf.)	05 05-57 Index Verben vorgefertigt
 {\color{blue}dezert} (oder) {\color{blue}moučník} (oder) {\color{blue}zákus\uline{e}k}	Dessert(, Mehlspeise) (TODO: Bedeutungsfeld klären)	05 Index vorgefertigt
 dlouho	lang (zeitlich) (adv.)	06 Index
 dohromady	zusammen (adv.)	05 Index
@@ -985,7 +985,7 @@ zvýrazněný	highlighted (adj.)	04
 vyškrtnout, vyškrtnu	durchstreichen (pf.)	04 Verben
 patřit, patřím	dazugehören (impf.)	04 Verben
 {\color{red}mapa}	Landkarte	04
-{\color{cyan}cizinec}	Fremder	04
+{\color{cyan}cizin\uline{e}c}	Fremder	04
 reagovat, reaguju (2x)	reagieren, antworten (impf.)	04 verben
 {\color{blue}parfém}	Parfüm	05
 schovat, schovám	verstecken, aufbewahren (pf.)	05 Verben

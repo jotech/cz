@@ -38,7 +38,7 @@ Bolí mě v krku.	Ich habe Halsschmerzen.	Index
 {\color{red}bouřka}	Sturm	Index
 brát* si, beru si	1. nehmen 2. heiraten (impf.)	Index Verben
 brát, beru	nehmen (impf.)	Index Verben
-{\color{red}Brazílie}, {\color{cyan}Brazilec}, {\color{red}Brazilka}	Brasilien, Brasilianer, Brasilianerin	Index
+{\color{red}Brazílie}, {\color{cyan}Brazil\uline{e}c}, {\color{red}Brazilka}	Brasilien, Brasilianer, Brasilianerin (TODO:&nbsp;\uline{e} klären)	Index
 bruslit/zabruslit si	Schlittschuh laufen	Index
 {\color{red}brýle }pl.	Brille	Index
 {\color{green}břicho}	Bauch	Index
@@ -77,7 +77,6 @@ cvičit, cvičím	üben, Gymnastik machen (impf.)	Index Verben
 čtvrtý	der vierte	Index
 Dále!	Herein!	Index
 {\color{green}Dánsko}, {\color{cyan}Dán}, {\color{red}Dánka}	Dänemark, Däne, Dänin	Index
-{\color{blue}dár\uline{e}k}	Geschenk	Index
 {\color{green}datum}	Datum	Index
 dávat, dávám	geben (impf.)	Index Verben
 Dávej na sebe pozor.	Gib auf Dich acht.	Index
@@ -278,7 +277,7 @@ kvůli	wegen	Index
 kyselý	sauer	Index
 {\color{red}kytara}	Gitarre	Index
 {\color{red}laguna}	Lagune	Index
-{\color{red}láh\uline{e}v}	Flasche	Index
+{\color{red}láh\uline{e}v}	Flasche	10 10-1 Index vorgefertigt
 {\color{red}lednička}	Kühlschrank	Index
 legendární	legendär	Index
 {\color{blue}lék}	Arzneimittel	Index
@@ -306,7 +305,7 @@ luxovat, luxuju	staubsaugen (impf.)	Index Verben
 {\color{red}maturita}	Abitur	Index
 maturovat, maturuju	das Abitur machen	Index
 maximálně	maximal	Index
-med	Honig	Index
+med	Honig	09 09-70 Index vorgefertigt
 měkký	weich	Index
 {\color{blue}metr}	Meter	Index
 {\color{green}Mexiko}, {\color{cyan}Mexičan}, {\color{red}Mexičanka}	Mexiko, Mexikaner, Mexikanerin	Index
@@ -393,7 +392,7 @@ objevit, objevím	entdecken (pf.)	Index Verben
 objevovat, objevuju	entdecken (impf.)	Index Verben
 obléct*, obleču	anziehen (pf.)	Index Verben
 {\color{green}oblečení}	Bekleidung	Index
-{\color{blue}oblek}	Anzug	Index
+{\color{blue}oblek}	Anzug	18 18-44 Index vorgefertigt
 oblékat, oblékám	anziehen (impf.)	Index Verben
 {\color{blue}obličej}	Gesicht	Index
 {\color{blue}obraz}	Bild	Index
@@ -453,7 +452,6 @@ pečený	gebacken	Index
 {\color{blue}pepř}	Pfeffer	Index
 perlivý	mit Kohlensäure	Index
 {\color{green}pero}	Stift, Feder	Index
-{\color{cyan}p\uline{e}s}	Hund	Index
 pevná {\color{red}linka}	Festnetzanschluss	Index
 pevný	fest	Index
 {\color{cyan}pirát}	Pirat	Index
@@ -608,7 +606,6 @@ rýma	Schnupfen	Index
 říct*, řeknu	sagen (pf.)	Index Verben
 {\color{cyan}řidič}	Fahrer	Index
 {\color{red}řidička}	Fahrerin	Index
-{\color{blue}říz\uline{e}k}	Schnitzel	Index
 s	mit	Index
 S dovolením!	Gestatten Sie bitte!	Index
 {\color{blue}sáč\uline{e}k}	Tüte (Plaste)	Index
@@ -759,7 +756,6 @@ turecký (adj.)	türkisch	Index
 turistický (adj.)	touristisch, Touristen-	Index
 tvrdohlavý	hartnäckig, starrköpfig	Index
 tvrdý	hart	Index
-{\color{blue}týd\uline{e}n}	Woche	Index
 u	bei	Index
 {\color{green}ubytování}	Unterkunft	Index
 {\color{green}údolí}	Tal	Index
@@ -770,7 +766,7 @@ ukazovat, ukazuju	zeigen (impf.)	Index Verben
 uklidit, uklidím	sauber machen (pf.)	Index Verben
 {\color{cyan}uklízeč}	Reinigungskraft	Index
 {\color{red}uklízečka}	Reinemachefrau, Reinigungskraft	Index
-{\color{red}Ukrajina}, {\color{cyan}Ukrajinec}, {\color{red} Ukrajinka}	Ukraine, Ukrainer, Ukrainerin	Index
+{\color{red}Ukrajina}, {\color{cyan}Ukrajinec}, {\color{red} Ukrajinka}	Ukraine, Ukrainer, Ukrainerin (TODO:&nbsp;\uline{e} klären)	Index
 ukrást*, ukradnu	stehlen (pf.)	Index Verben
 umírat, umírat	sterben (impf.)	Index Verben
 umýt*, umyju	waschen, abwaschen (pf.)	Index Verben
@@ -811,7 +807,7 @@ vézt*, vezu	transportieren (fahren) (pf.)	Index Verben
 vídeňský (adj.)	Wiener	Index
 vidět, vidím	sehen (impf.)	Index Verben
 {\color{red}vidlička}	Gabel	Index
-{\color{blue}Vietnam}, {\color{cyan}Vietnamec}, {\color{red}Vietnamka}	Vietnam, Vietnamese, Vietnamesin	Index
+{\color{blue}Vietnam}, {\color{cyan}Vietnamec}, {\color{red}Vietnamka}	Vietnam, Vietnamese, Vietnamesin (TODO:&nbsp;\uline{e} klären)	Index
 {\color{red}vila}	Villa	Index
 vítat, vítám	willkommen heißen (impf.)	Index Verben
 {\color{blue}vítr}	Wind	Index
@@ -938,4 +934,4 @@ zvonit, zvoním	klingeln (impf.)	Index Verben
 ženit se, žením se	heiraten (Mann) (impf.)	Index Verben
 {\color{blue}život}	Leben	Index
 životní {\color{blue}styl}	Lebensstil	Index
-{\color{red}žízeň}	Durst	Index
+{\color{red}žíz\uline{e}ň}	Durst	Index

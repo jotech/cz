@@ -13,7 +13,6 @@ vědět // vím, víš, ví, víme, víte, ví/vědí	wissen	07 07-19 vorgeferti
 vypadat	aussehen	07 07-20 vorgefertigt
 zařizovat	einrichten	07 07-24 vorgefertigt
 snášet	ausstehen // tolerieren	07 07-25 vorgefertigt
-myslet	denken	07 07-27 vorgefertigt
 manželé (m.bel.Mz.)	Eheleute, Ehepaar	07 07-28 vorgefertigt
 chata (w.)	Wochenendhaus	07 07-29 vorgefertigt
 nabízet	anbieten	07 07-30 vorgefertigt
@@ -36,7 +35,6 @@ dveře (w.Mz.)	Türe	07 07-48 vorgefertigt
 koupelna (w.)	Badezimmer	07 07-50 vorgefertigt
 křeslo (s.)	Lehnsessel	07 07-51 vorgefertigt
 lednička (w.)	Kühlschrank	07 07-52 vorgefertigt
-nábytek (m.)	Möbel	07 07-53 vorgefertigt
 obraz (m.)	Bild	07 07-54 vorgefertigt
 patro (s.)	Stockwerk	07 07-55 vorgefertigt
 pokoj (m.)	Zimmer	07 07-56 vorgefertigt
@@ -58,8 +56,6 @@ příští, -í, -í	nächste	08 08-12 vorgefertigt
 v pondělí (s.)	am Montag	08 08-13 vorgefertigt
 v úterý (s.)	am Dienstag	08 08-14 vorgefertigt
 ve středu (w.)	am Mittwoch	08 08-15 vorgefertigt
-ve čtvrtek (m.)	am Donnerstag	08 08-16 vorgefertigt
-v pátek (m.)	am Freitag	08 08-17 vorgefertigt
 v sobotu (w.)	am Samstag	08 08-18 vorgefertigt
 v neděli (w.)	am Sonntag	08 08-19 vorgefertigt
 v létě (s.)	im Sommer	08 08-20 vorgefertigt
@@ -133,7 +129,6 @@ příbuzný, -á, -é	Verwandte/r	09 09-31 vorgefertigt
 dělat zkoušku (w.)	eine Prüfung machen	09 09-33 vorgefertigt
 učebnice (w.)	Lehrbuch	09 09-34 vorgefertigt
 slovník (m.)	Wörterbuch	09 09-35 vorgefertigt
-myslet	denken	09 09-36 vorgefertigt
 přemýšlet	nachdenken	09 09-37 vorgefertigt
 rychlý, -á, -é	schnell	09 09-39 vorgefertigt
 jednou	einmal	09 09-41 vorgefertigt
@@ -157,7 +152,6 @@ bolí mě v krku (m.)	mir tut der Hals weh	09 09-65 vorgefertigt
 teplota (w.)	Fieber	09 09-66 vorgefertigt
 je mi špatně	mir ist schlecht	09 09-68 vorgefertigt
 brát vitaminy (m.)	Vitamine einnehmen	09 09-69 vorgefertigt
-med (m.)	Honig	09 09-70 vorgefertigt
 skoro	fast	09 09-71 vorgefertigt
 nemocný, -á,-é	krank	09 09-72 vorgefertigt
 otevři pusu (w.)	mach den Mund auf	09 09-73 vorgefertigt
@@ -167,7 +161,6 @@ přijít na kontrolu (w.)	zur Kontrolle kommen	09 09-77 vorgefertigt
 hodně	viel // ordentlich	09 09-78 vorgefertigt
 břicho (s.)	Bauch	09 09-79 vorgefertigt
 sanitka (w.)	Rettung	09 09-80 vorgefertigt
-láh\uline{e}v (w.)	Flasche	10 10-1 vorgefertigt
 zákus\uline{e}k (m.)	Kuchen // Mehlspeise	10 10-2 vorgefertigt
 růže (w.)	Rose	10 10-3 vorgefertigt
 cédéčko (s.)	CD	10 10-4 vorgefertigt
@@ -175,7 +168,6 @@ dár\uline{e}k (m.)	Geschenk	10 10-5 vorgefertigt
 domů	nach Hause	10 10-7 vorgefertigt
 večer (m.)	der Abend	10 10-9 vorgefertigt
 strašný (m.)	schrecklich	10 10-10 vorgefertigt
-každý, -á,-é	jeder/e/es	10 10-11 vorgefertigt
 mít strach z … + 2.Fall	Angst haben vor …	10 10-12 vorgefertigt
 naštěstí (s.)	zum Glück	10 10-14 vorgefertigt
 sešit	Heft	10 10-15 vorgefertigt
@@ -203,7 +195,7 @@ běhat/ běžet	laufen	10 10-41 vorgefertigt
 hluk (m.)	Lärm	10 10-42 vorgefertigt
 za noc (w.)	pro Nacht	10 10-43 vorgefertigt
 spokojený, -á, -é	zufrieden	10 10-44 vorgefertigt
-jet na týden do …	für eine Woche nach … fahren	10 10-45 vorgefertigt
+jet na týd\uline{e}n do …	für eine Woche nach … fahren	10 10-45 vorgefertigt
 letenka (w.)	Flugticket	10 10-46 vorgefertigt
 jednolůžkový pokoj (m.)	Einbettzimmer	10 10-47 vorgefertigt
 polopenze (w.)	Halbpension	10 10-48 vorgefertigt
@@ -226,7 +218,7 @@ maniak, maniačka	Fan // Süchtige/r // Abhängige/r	11 11-20 vorgefertigt
 váza	Vase	11 11-21 vorgefertigt
 sladký, -á, -é	süß	11 11-22 vorgefertigt
 trochu	ein wenig	11 11-23 vorgefertigt
-kousek	ein Stück	11 11-24 vorgefertigt
+{\color{blue}kous\uline{e}k}	ein Stück	11 11-24 vorgefertigt
 čtvrt	ein Viertel	11 11-25 vorgefertigt
 hodně	viel	11 11-26 vorgefertigt
 kolik	wie viel	11 11-27 vorgefertigt
@@ -234,8 +226,6 @@ půl	halb	11 11-28 vorgefertigt
 kuchařka	Köchin // Kochbuch	11 11-30 vorgefertigt
 metr	Meter	11 11-31 vorgefertigt
 litr	Liter	11 11-32 vorgefertigt
-hrnek	Becher	11 11-33 vorgefertigt
-láhev	Flasche	11 11-34 vorgefertigt
 lžíce	Löffel	11 11-35 vorgefertigt
 lžička	Teelöffel	11 11-36 vorgefertigt
 látka	Stoff	11 11-37 vorgefertigt
@@ -283,7 +273,7 @@ učit se/ naučit se	lernen	12 12-19 vorgefertigt
 nádobí	Geschirr	12 12-20 vorgefertigt
 klíč (m.)	Schlüssel	12 12-21 vorgefertigt
 prádlo (s.)	Wäsche	12 12-22 vorgefertigt
-nájem (m.)	Miete	12 12-23 vorgefertigt
+náj\uline{e}m (m.)	Miete	12 12-23 vorgefertigt
 předvánoční	vorweihnachtlich	12 12-24 vorgefertigt
 Vánoce (w.)	Weihnachten	12 12-25 vorgefertigt
 obývák (m.)	Wohnzimmer	12 12-27 vorgefertigt
@@ -401,7 +391,7 @@ slavný, slavná, slavné	berühmt	14 14-34 vorgefertigt
 idylický, -á, -é	idyllisch	14 14-36 vorgefertigt
 venkov (m.)	Land	14 14-37 vorgefertigt
 velmi	sehr	14 14-38 vorgefertigt
-mít sen // (o+6.Fall)	einen Traum haben	14 14-39 vorgefertigt
+mít s\uline{e}n // (o+6.Fall)	einen Traum haben	14 14-39 vorgefertigt
 číst* / přečíst* // (o+6.Fall)	(vor)lesen	14 14-40 vorgefertigt
 psát* / napsat* // (o+6.Fall)	(auf)schreiben	14 14-41 vorgefertigt
 slyšet / uslyšet // (o+6.Fall)	hören	14 14-42 vorgefertigt
@@ -496,7 +486,7 @@ horší	schlechter, schlimmer	16 16-12 vorgefertigt
 větší	größer	16 16-13 vorgefertigt
 delší	länger	16 16-14 vorgefertigt
 známý	bekannt	16 16-15 vorgefertigt
-broskev (w.)	Pfirsich	16 16-16 vorgefertigt
+brosk\uline{e}v (w.)	Pfirsich	16 16-16 vorgefertigt
 sladký	süß	16 16-17 vorgefertigt
 rybíz (m.)	Ribisel	16 16-18 vorgefertigt
 hezký	schön	16 16-19 vorgefertigt
@@ -510,8 +500,7 @@ hubený	mager	16 16-25 vorgefertigt
 měřit / naměřit	messen	16 16-28 vorgefertigt
 rychlý	schnell	16 16-29 vorgefertigt
 slabý	schwach	16 16-30 vorgefertigt
-med (m.)	Honig	16 16-31 vorgefertigt
-spánek (m.)	Schlaf	16 16-32 vorgefertigt
+spán\uline{e}k (m.)	Schlaf	16 16-32 vorgefertigt
 během (+2.F.)	im Lauf	16 16-33 vorgefertigt
 zakázat	verbieten	16 16-34 vorgefertigt
 usměvavý	lächelnd	16 16-35 vorgefertigt
@@ -643,7 +632,6 @@ vracet se / vrátit se	zurückgeben	17 17-38 vorgefertigt
 vysvětlovat / vysvětlit	erklären	17 17-39 vorgefertigt
 komu	wem	17 17-40 vorgefertigt
 čemu	was (3.F.)	17 17-41 vorgefertigt
-myslet	denken	17 17-42 vorgefertigt
 telefonní seznam (m.)	Telefonverzeichnis	17 17-44 vorgefertigt
 účetní (w. + m.)	BuchhalterIn	17 17-45 vorgefertigt
 nevidomý, -á, -é	blind	17 17-46 vorgefertigt
@@ -711,7 +699,6 @@ košile (w.)	Hemd	18 18-40 vorgefertigt
 šortky (w.Mz.)	Shorts	18 18-41 vorgefertigt
 tričko (s.)	T-Shirt	18 18-42 vorgefertigt
 mikina (w.)	Pulli, Sweater	18 18-43 vorgefertigt
-oblek (m.)	Anzug	18 18-44 vorgefertigt
 plavky (w.Mz.)	Badeanzug	18 18-45 vorgefertigt
 ponožka (w.)	Socken	18 18-46 vorgefertigt
 sako (s.)	Sakko	18 18-47 vorgefertigt
